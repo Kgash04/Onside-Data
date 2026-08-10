@@ -1,0 +1,37 @@
+# .github/workflows/update-data.yml
+# Automatically refreshes fixtures/standings data 3x a day, for free, via GitHub's
+# built-in scheduler (cron). Also runnable manually from the Actions tab.
+
+name: Update Onside Data
+
+on:
+  schedule:
+    # Runs at 6:00, 14:00, and 20:00 UTC every day.
+    # Adjust these times later once you know when fixtures/results typically change.
+    - cron: '0 6,14,20 * * *'
+  workflow_dispatch: {}  # lets you click "Run workflow" manually in GitHub's UI
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest fixtures and standings
+        env:
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+        run: node fetch-data.js
+
+      - name: Commit updated data file
+        run: |
+          git config user.name "onside-data-bot"
+          git config user.email "actions@github.com"
+          git add data/fixtures.json
+          git diff --quiet --cached || git commit -m "Auto-update fixtures and standings"
+          git push
