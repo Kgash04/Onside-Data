@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T02:42:19.530Z",
+  "lastUpdated": "2026-08-10T07:47:46.472Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -10,140 +10,140 @@
           "awayTeam": "Coventry City FC",
           "utcDate": "2026-08-21T19:00:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Hull City AFC",
           "awayTeam": "Manchester United FC",
           "utcDate": "2026-08-22T11:30:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Ipswich Town FC",
           "awayTeam": "Sunderland AFC",
           "utcDate": "2026-08-22T14:00:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Nottingham Forest FC",
           "awayTeam": "Leeds United FC",
           "utcDate": "2026-08-22T14:00:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Everton FC",
           "awayTeam": "Crystal Palace FC",
           "utcDate": "2026-08-22T14:00:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Brentford FC",
           "awayTeam": "Tottenham Hotspur FC",
           "utcDate": "2026-08-22T16:30:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Manchester City FC",
           "awayTeam": "AFC Bournemouth",
           "utcDate": "2026-08-23T13:00:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Brighton & Hove Albion FC",
           "awayTeam": "Aston Villa FC",
           "utcDate": "2026-08-23T13:00:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Newcastle United FC",
           "awayTeam": "Liverpool FC",
           "utcDate": "2026-08-23T15:30:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Fulham FC",
           "awayTeam": "Chelsea FC",
           "utcDate": "2026-08-24T19:00:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Crystal Palace FC",
           "awayTeam": "Manchester City FC",
           "utcDate": "2026-08-28T19:00:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Liverpool FC",
           "awayTeam": "Nottingham Forest FC",
           "utcDate": "2026-08-29T11:30:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "AFC Bournemouth",
           "awayTeam": "Everton FC",
           "utcDate": "2026-08-29T14:00:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Coventry City FC",
           "awayTeam": "Hull City AFC",
           "utcDate": "2026-08-29T14:00:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Tottenham Hotspur FC",
           "awayTeam": "Newcastle United FC",
           "utcDate": "2026-08-29T16:30:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Sunderland AFC",
           "awayTeam": "Fulham FC",
           "utcDate": "2026-08-30T13:00:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Chelsea FC",
           "awayTeam": "Brighton & Hove Albion FC",
           "utcDate": "2026-08-30T13:00:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Leeds United FC",
           "awayTeam": "Brentford FC",
           "utcDate": "2026-08-30T13:00:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Manchester United FC",
           "awayTeam": "Ipswich Town FC",
           "utcDate": "2026-08-30T15:30:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Aston Villa FC",
           "awayTeam": "Arsenal FC",
           "utcDate": "2026-08-31T19:00:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -976,140 +976,140 @@
           "awayTeam": "Como 1907",
           "utcDate": "2026-08-22T16:30:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "FC Internazionale Milano",
           "awayTeam": "AC Monza",
           "utcDate": "2026-08-22T16:30:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Genoa CFC",
           "awayTeam": "SSC Napoli",
           "utcDate": "2026-08-22T18:45:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Parma Calcio 1913",
           "awayTeam": "Cagliari Calcio",
           "utcDate": "2026-08-22T18:45:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Frosinone Calcio",
           "awayTeam": "Juventus FC",
           "utcDate": "2026-08-23T16:30:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Venezia FC",
           "awayTeam": "US Lecce",
           "utcDate": "2026-08-23T16:30:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Atalanta BC",
           "awayTeam": "US Sassuolo Calcio",
           "utcDate": "2026-08-23T18:45:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Torino FC",
           "awayTeam": "AC Milan",
           "utcDate": "2026-08-23T18:45:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Bologna FC 1909",
           "awayTeam": "SS Lazio",
           "utcDate": "2026-08-24T16:30:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "AS Roma",
           "awayTeam": "ACF Fiorentina",
           "utcDate": "2026-08-24T18:45:00Z",
           "matchday": 1,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "AC Milan",
           "awayTeam": "Venezia FC",
           "utcDate": "2026-08-28T18:45:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "US Sassuolo Calcio",
           "awayTeam": "Torino FC",
           "utcDate": "2026-08-29T16:30:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "AC Monza",
           "awayTeam": "Udinese Calcio",
           "utcDate": "2026-08-29T16:30:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "ACF Fiorentina",
           "awayTeam": "Frosinone Calcio",
           "utcDate": "2026-08-29T16:30:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Juventus FC",
           "awayTeam": "Parma Calcio 1913",
           "utcDate": "2026-08-29T18:45:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "SSC Napoli",
           "awayTeam": "Como 1907",
           "utcDate": "2026-08-30T16:30:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "SS Lazio",
           "awayTeam": "Genoa CFC",
           "utcDate": "2026-08-30T18:45:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Cagliari Calcio",
           "awayTeam": "FC Internazionale Milano",
           "utcDate": "2026-08-30T18:45:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "US Lecce",
           "awayTeam": "AS Roma",
           "utcDate": "2026-08-31T16:30:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Atalanta BC",
           "awayTeam": "Bologna FC 1909",
           "utcDate": "2026-08-31T18:45:00Z",
           "matchday": 2,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         }
       ],
       "standings": [
