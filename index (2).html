@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Onside Data — Soccer Intelligence, Not Gambling</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders:wght@600;700;800&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0B1410;
+    --panel: #14231C;
+    --panel-light: #1B2E23;
+    --chalk: #F4F1E8;
+    --chalk-dim: #A9B5AC;
+    --turf: #3CA35A;
+    --turf-dim: #2A7A42;
+    --amber: #E8A33D;
+    --amber-dim: #B87F2C;
+    --line: rgba(244,241,232,0.14);
+    --radius: 6px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--chalk);
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .display {
+    font-family: 'Big Shoulders', sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+    line-height: 0.95;
+  }
+
+  .mono {
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  a { color: inherit; text-decoration: none; }
+
+  :focus-visible {
+    outline: 2px solid var(--amber);
+    outline-offset: 3px;
+  }
+
+  .wrap {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  /* NAV */
+  nav {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: rgba(11,20,16,0.9);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--line);
+  }
+  .nav-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 24px;
+    max-width: 1120px;
+    margin: 0 auto;
+  }
+  .logo {
+    font-family: 'Big Shoulders', sans-serif;
+    font-weight: 800;
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .logo .dot { width: 9px; height: 9px; background: var(--turf); border-radius: 50%; display: inline-block; box-shadow: 0 0 8px var(--turf); }
+  .nav-links { display: flex; gap: 32px; font-size: 14px; color: var(--chalk-dim); }
+  .nav-links a:hover { color: var(--chalk); }
+  .nav-cta {
+    background: var(--amber);
+    color: #16130A;
+    padding: 10px 20px;
+    border-radius: var(--radius);
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .nav-cta:hover { background: #f0b358; }
+  .nav-mobile-toggle { display: none; background: none; border: none; color: var(--chalk); font-size: 24px; cursor: pointer; }
+
+  @media (max-width: 760px) {
+    .nav-links { display: none; }
+    .nav-mobile-toggle { display: block; }
+  }
+
+  /* HERO */
+  .hero {
+    padding: 96px 24px 64px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -200px; left: 50%;
+    transform: translateX(-50%);
+    width: 900px; height: 500px;
+    background: radial-gradient(ellipse at center, rgba(60,163,90,0.16) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--turf);
+    background: rgba(60,163,90,0.1);
+    border: 1px solid rgba(60,163,90,0.3);
+    padding: 6px 14px;
+    border-radius: 999px;
+    margin-bottom: 28px;
+  }
+  .hero h1 {
+    font-size: clamp(40px, 7vw, 76px);
+    max-width: 900px;
+    margin: 0 auto 24px;
+  }
+  .hero h1 .amber { color: var(--amber); }
+  .hero p.sub {
+    max-width: 560px;
+    margin: 0 auto 40px;
+    color: var(--chalk-dim);
+    font-size: 17px;
+  }
+  .hero-ctas { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+  .btn-primary {
+    background: var(--turf);
+    color: #06140A;
+    padding: 14px 28px;
+    border-radius: var(--radius);
+    font-weight: 600;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+  }
+  .btn-primary:hover { background: #46bd68; }
+  .btn-secondary {
+    border: 1px solid var(--line);
+    color: var(--chalk);
+    padding: 14px 28px;
+    border-radius: var(--radius);
+    font-weight: 500;
+    font-size: 15px;
+  }
+  .btn-secondary:hover { border-color: var(--chalk-dim); }
+
+  /* THE LINE — signature element */
+  .line-section {
+    padding: 90px 24px;
+    position: relative;
+  }
+  .line-intro { text-align: center; max-width: 620px; margin: 0 auto 64px; }
+  .line-intro .tag { font-family: 'IBM Plex Mono'; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--amber); margin-bottom: 14px; display: block; }
+  .line-intro h2 { font-size: clamp(28px, 4vw, 42px); margin-bottom: 16px; }
+  .line-intro p { color: var(--chalk-dim); font-size: 16px; }
+
+  .pitch-line {
+    position: relative;
+    max-width: 900px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    border-radius: var(--radius);
+    overflow: hidden;
+    border: 1px solid var(--line);
+  }
+  .side {
+    padding: 40px 36px;
+    position: relative;
+  }
+  .side.free { background: var(--panel); }
+  .side.paid { background: linear-gradient(160deg, #241a0c, #1b1408); }
+  .side .kicker { font-family: 'IBM Plex Mono'; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 14px; display: block; }
+  .side.free .kicker { color: var(--turf); }
+  .side.paid .kicker { color: var(--amber); }
+  .side h3 { font-family: 'Big Shoulders'; font-weight: 700; font-size: 26px; text-transform: uppercase; margin-bottom: 14px; }
+  .side ul { list-style: none; }
+  .side li {
+    font-size: 14.5px;
+    color: var(--chalk-dim);
+    padding: 9px 0;
+    border-top: 1px solid var(--line);
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+  }
+  .side li:first-of-type { border-top: none; }
+  .side.free li::before { content: '—'; color: var(--turf-dim); }
+  .side.paid li::before { content: '—'; color: var(--amber-dim); }
+
+  /* the dashed offside line, running down the middle */
+  .offside-divider {
+    position: absolute;
+    top: 0; bottom: 0; left: 50%;
+    width: 0;
+    border-left: 3px dashed var(--chalk);
+    opacity: 0.55;
+    z-index: 3;
+  }
+  .offside-tag {
+    position: absolute;
+    top: -14px; left: 50%;
+    transform: translateX(-50%);
+    background: var(--chalk);
+    color: #0B1410;
+    font-family: 'IBM Plex Mono';
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    border-radius: 999px;
+    z-index: 4;
+    white-space: nowrap;
+  }
+
+  @media (max-width: 700px) {
+    .pitch-line { grid-template-columns: 1fr; }
+    .offside-divider { left: 0; right: 0; top: 50%; bottom: auto; width: auto; height: 0; border-left: none; border-top: 3px dashed var(--chalk); }
+    .offside-tag { top: 50%; left: 50%; transform: translate(-50%, -50%); }
+  }
+
+  /* FIXTURES */
+  .fixtures {
+    padding: 90px 24px;
+    background: var(--panel);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .section-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    max-width: 1072px;
+    margin: 0 auto 40px;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .section-head .tag { font-family: 'IBM Plex Mono'; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--turf); margin-bottom: 10px; display: block; }
+  .section-head h2 { font-size: clamp(26px, 3.6vw, 38px); }
+  .section-head .note { color: var(--chalk-dim); font-size: 13.5px; max-width: 260px; }
+
+  .fixture-list { max-width: 1072px; margin: 0 auto; display: flex; flex-direction: column; gap: 1px; background: var(--line); border-radius: var(--radius); overflow: hidden; }
+  .fixture-row {
+    background: var(--panel-light);
+    padding: 18px 22px;
+    display: grid;
+    grid-template-columns: 90px 1fr auto;
+    align-items: center;
+    gap: 18px;
+  }
+  .fixture-row .comp { font-family: 'IBM Plex Mono'; font-size: 11px; color: var(--chalk-dim); text-transform: uppercase; letter-spacing: 0.05em; }
+  .fixture-row .teams { font-size: 16px; font-weight: 600; }
+  .fixture-row .teams .vs { color: var(--chalk-dim); font-weight: 400; margin: 0 8px; }
+  .fixture-row .time { font-family: 'IBM Plex Mono'; font-size: 13px; color: var(--amber); white-space: nowrap; }
+  @media (max-width: 600px) {
+    .fixture-row { grid-template-columns: 1fr; gap: 6px; }
+    .fixture-row .time { justify-self: start; }
+  }
+
+  /* PLAYER HUB */
+  .player-hub { padding: 90px 24px; }
+  .hub-card {
+    max-width: 1072px;
+    margin: 0 auto;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+    background: var(--panel);
+  }
+  .hub-head {
+    padding: 36px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 20px;
+    border-bottom: 1px solid var(--line);
+    background: linear-gradient(160deg, #14231C, #0f1a14);
+  }
+  .hub-head .team-tag { font-family: 'IBM Plex Mono'; font-size: 12px; color: var(--turf); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 10px; display: block; }
+  .hub-head h3 { font-size: clamp(32px, 5vw, 52px); }
+  .hub-head .pos { font-family: 'IBM Plex Mono'; color: var(--chalk-dim); font-size: 14px; }
+
+  .hub-body { padding: 36px 40px; }
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--line);
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 36px;
+  }
+  .stat-cell { background: var(--panel-light); padding: 20px 18px; }
+  .stat-cell .num { font-family: 'IBM Plex Mono'; font-size: 30px; font-weight: 600; color: var(--chalk); }
+  .stat-cell .label { font-size: 12px; color: var(--chalk-dim); text-transform: uppercase; letter-spacing: 0.05em; margin-top: 6px; }
+  @media (max-width: 700px) { .stat-grid { grid-template-columns: repeat(2, 1fr); } }
+
+  .locked-block {
+    position: relative;
+    border: 1px dashed var(--amber-dim);
+    border-radius: var(--radius);
+    padding: 26px 28px;
+    background: rgba(232,163,61,0.05);
+  }
+  .locked-block .lk-tag { font-family: 'IBM Plex Mono'; font-size: 11px; color: var(--amber); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+  .locked-block .lk-tag .ic { display: inline-block; width: 14px; height: 14px; }
+  .locked-content { filter: blur(4px); user-select: none; opacity: 0.7; }
+  .locked-content p { color: var(--chalk-dim); font-size: 14.5px; margin-bottom: 8px; }
+  .locked-cta {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(11,20,16,0.35);
+    border-radius: var(--radius);
+  }
+  .locked-cta button {
+    background: var(--amber);
+    color: #16130A;
+    border: none;
+    padding: 11px 22px;
+    border-radius: var(--radius);
+    font-weight: 600;
+    font-size: 13.5px;
+    cursor: pointer;
+  }
+  .locked-cta button:hover { background: #f0b358; }
+
+  /* FOOTER / SUBSCRIBE */
+  footer {
+    padding: 100px 24px 60px;
+    text-align: center;
+    border-top: 1px solid var(--line);
+  }
+  footer h2 { font-size: clamp(30px, 5vw, 48px); max-width: 640px; margin: 0 auto 18px; }
+  footer .sub-note { color: var(--chalk-dim); max-width: 480px; margin: 0 auto 36px; font-size: 15px; }
+  .price-row { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 48px; }
+  .price-card {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 28px 32px;
+    width: 220px;
+    text-align: left;
+  }
+  .price-card.highlight { border-color: var(--amber-dim); }
+  .price-card .tier { font-family: 'IBM Plex Mono'; font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--chalk-dim); margin-bottom: 10px; }
+  .price-card .amount { font-family: 'Big Shoulders'; font-size: 36px; font-weight: 700; margin-bottom: 4px; }
+  .price-card .amount span { font-size: 14px; font-family: 'Inter'; color: var(--chalk-dim); }
+  .disclaimer {
+    max-width: 640px;
+    margin: 0 auto;
+    font-size: 12.5px;
+    color: var(--chalk-dim);
+    font-family: 'IBM Plex Mono';
+    border-top: 1px solid var(--line);
+    padding-top: 28px;
+    line-height: 1.7;
+  }
+  .foot-logo { font-family: 'Big Shoulders'; font-weight: 800; text-transform: uppercase; margin-top: 40px; color: var(--chalk-dim); font-size: 14px; letter-spacing: 0.06em; }
+
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <div class="logo"><span class="dot"></span>Onside Data</div>
+    <div class="nav-links">
+      <a href="#line-section">How it works</a>
+      <a href="#fixtures">Fixtures</a>
+      <a href="#player-hub">Player hubs</a>
+    </div>
+    <a href="#footer" class="nav-cta">Subscribe</a>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="eyebrow"><span class="dot" style="width:6px;height:6px;background:var(--turf);border-radius:50%;display:inline-block;"></span>Information, not advice</div>
+  <h1 class="display">Everything you need to know<br>before the <span class="amber">whistle blows</span></h1>
+  <p class="sub">Form, history, and player trends for the fixtures that matter — across the Premier League, Champions League, La Liga, and beyond. We publish the data. What you do with it is your call.</p>
+  <div class="hero-ctas">
+    <button class="btn-primary">See this week's fixtures</button>
+    <a href="#line-section" class="btn-secondary">How it works</a>
+  </div>
+</section>
+
+<section class="line-section" id="line-section">
+  <div class="line-intro">
+    <span class="tag">The Onside Line</span>
+    <h2 class="display">Free on one side. Depth on the other.</h2>
+    <p>Every match, every player, split cleanly by the line. No confusing tiers — just what's public, and what took real research to find.</p>
+  </div>
+  <div class="pitch-line">
+    <div class="offside-divider"></div>
+    <span class="offside-tag">The Line</span>
+    <div class="side free">
+      <span class="kicker">Onside — Free</span>
+      <h3>The basics</h3>
+      <ul>
+        <li>Match previews & kickoff times</li>
+        <li>League tables & recent form</li>
+        <li>Starting lineups, once confirmed</li>
+        <li>Season stat totals per player</li>
+      </ul>
+    </div>
+    <div class="side paid">
+      <span class="kicker">Beyond the Line — Paid</span>
+      <h3>The depth</h3>
+      <ul>
+        <li>xG trends & regression signals</li>
+        <li>Player-vs-opponent history (last 5 meetings)</li>
+        <li>Injury & rotation impact modeling</li>
+        <li>Situational patterns by half, venue, scoreline</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="fixtures" id="fixtures">
+  <div class="section-head">
+    <div>
+      <span class="tag">This week</span>
+      <h2 class="display">Upcoming fixtures</h2>
+    </div>
+    <p class="note">Times shown are provisional and subject to change ahead of kickoff.</p>
+  </div>
+  <div class="fixture-list" id="fixture-list">
+    <div class="fixture-row"><span class="comp mono">—</span><span class="teams">Loading fixtures…</span><span class="time mono"></span></div>
+  </div>
+  <p id="fixture-updated" class="note" style="max-width:1072px;margin:16px auto 0;text-align:right;"></p>
+</section>
+
+<section class="fixtures" id="standings" style="border-top:none;">
+  <div class="section-head">
+    <div>
+      <span class="tag">Live table</span>
+      <h2 class="display">Standings</h2>
+    </div>
+    <p class="note">Select a league to view its current table.</p>
+  </div>
+  <div id="standings-tabs" style="max-width:1072px;margin:0 auto 20px;display:flex;gap:8px;flex-wrap:wrap;"></div>
+  <div class="fixture-list" id="standings-table"></div>
+</section>
+
+<script>
+  const COMP_NAMES = { PL: 'Premier League', PD: 'La Liga', BL1: 'Bundesliga', SA: 'Serie A', FL1: 'Ligue 1', CL: 'Champions League' };
+
+  function formatKickoff(utcDate) {
+    const d = new Date(utcDate);
+    const day = d.toLocaleDateString(undefined, { weekday: 'short' }).toUpperCase();
+    const time = d.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' });
+    return `${day} ${time}`;
+  }
+
+  async function loadOnsideData() {
+    const listEl = document.getElementById('fixture-list');
+    const updatedEl = document.getElementById('fixture-updated');
+    const tabsEl = document.getElementById('standings-tabs');
+    const tableEl = document.getElementById('standings-table');
+
+    try {
+      const res = await fetch('data/fixtures.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error('fixtures.json not found');
+      const data = await res.json();
+
+      // Flatten + sort all upcoming fixtures across competitions by date
+      const allFixtures = [];
+      Object.entries(data.competitions || {}).forEach(([code, comp]) => {
+        (comp.fixtures || []).forEach((f) => allFixtures.push({ ...f, code }));
+      });
+      allFixtures.sort((a, b) => new Date(a.utcDate) - new Date(b.utcDate));
+
+      if (allFixtures.length === 0) {
+        listEl.innerHTML = `<div class="fixture-row"><span class="comp mono">—</span><span class="teams">No scheduled fixtures returned yet — check back once the season is closer.</span><span class="time mono"></span></div>`;
+      } else {
+        listEl.innerHTML = allFixtures.slice(0, 10).map((f) => `
+          <div class="fixture-row">
+            <span class="comp mono">${f.code}</span>
+            <span class="teams">${f.homeTeam} <span class="vs">vs</span> ${f.awayTeam}</span>
+            <span class="time mono">${formatKickoff(f.utcDate)}</span>
+          </div>
+        `).join('');
+      }
+
+      if (data.lastUpdated) {
+        updatedEl.textContent = `Data last refreshed ${new Date(data.lastUpdated).toLocaleString()}`;
+      }
+
+      // Build standings tabs
+      const compsWithStandings = Object.entries(data.competitions || {}).filter(([, c]) => (c.standings || []).length > 0);
+      tabsEl.innerHTML = compsWithStandings.map(([code], i) => `
+        <button data-code="${code}" class="btn-secondary standings-tab" style="padding:8px 16px;font-size:13px;${i === 0 ? 'border-color:var(--turf);color:var(--turf);' : ''}">${COMP_NAMES[code] || code}</button>
+      `).join('');
+
+      function renderStandings(code) {
+        const comp = data.competitions[code];
+        tableEl.innerHTML = (comp.standings || []).slice(0, 10).map((row) => `
+          <div class="fixture-row" style="grid-template-columns:36px 1fr 90px;">
+            <span class="comp mono">${row.position}</span>
+            <span class="teams">${row.team}</span>
+            <span class="time mono">${row.points} PTS</span>
+          </div>
+        `).join('') || `<div class="fixture-row"><span class="teams">No standings yet.</span></div>`;
+      }
+
+      tabsEl.querySelectorAll('.standings-tab').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          tabsEl.querySelectorAll('.standings-tab').forEach((b) => { b.style.borderColor = ''; b.style.color = ''; });
+          btn.style.borderColor = 'var(--turf)'; btn.style.color = 'var(--turf)';
+          renderStandings(btn.dataset.code);
+        });
+      });
+
+      if (compsWithStandings.length > 0) renderStandings(compsWithStandings[0][0]);
+
+    } catch (err) {
+      listEl.innerHTML = `<div class="fixture-row"><span class="comp mono">—</span><span class="teams">Live data not connected yet — this page needs to be hosted alongside data/fixtures.json.</span><span class="time mono"></span></div>`;
+      console.error('Onside Data fetch error:', err);
+    }
+  }
+
+  loadOnsideData();
+</script>
+
+<section class="player-hub" id="player-hub">
+  <div class="section-head" style="margin-bottom:40px;">
+    <div>
+      <span class="tag">Player hub — example</span>
+      <h2 class="display">Built for the players fans search for</h2>
+    </div>
+    <p class="note">Evergreen pages that update as the season moves — not tied to one fixture.</p>
+  </div>
+
+  <div class="hub-card">
+    <div class="hub-head">
+      <div>
+        <span class="team-tag">FC Barcelona · Forward</span>
+        <h3 class="display">Lamine Yamal</h3>
+      </div>
+      <span class="pos">Last lineup: Started, 90'</span>
+    </div>
+    <div class="hub-body">
+      <div class="stat-grid">
+        <div class="stat-cell"><div class="num">11</div><div class="label">Goals, this season</div></div>
+        <div class="stat-cell"><div class="num">9</div><div class="label">Assists, this season</div></div>
+        <div class="stat-cell"><div class="num">27</div><div class="label">Appearances</div></div>
+        <div class="stat-cell"><div class="num">2.4</div><div class="label">Shots / 90</div></div>
+      </div>
+
+      <div class="locked-block">
+        <span class="lk-tag">Beyond the line — history vs. next opponent</span>
+        <div class="locked-content">
+          <p>Last 5 meetings vs. this opponent: 4 goals, averaging 2.3 shots on target per appearance.</p>
+          <p>Scoring pattern skews second half — 3 of 4 goals came after the 60th minute.</p>
+        </div>
+        <div class="locked-cta">
+          <button>Unlock with Onside+</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer id="footer">
+  <h2 class="display">Get onside.</h2>
+  <p class="sub-note">Start free. Upgrade when you want what's beyond the line.</p>
+  <div class="price-row">
+    <div class="price-card">
+      <div class="tier">Free</div>
+      <div class="amount">$0<span>/mo</span></div>
+    </div>
+    <div class="price-card highlight">
+      <div class="tier">Onside+</div>
+      <div class="amount">$9<span>/mo</span></div>
+    </div>
+  </div>
+  <div class="disclaimer">
+    Onside Data provides sports information and statistical analysis for informational and entertainment purposes only. We are not a bookmaker and do not accept wagers. Nothing on this site constitutes betting or financial advice, and we do not guarantee outcomes.
+  </div>
+  <div class="foot-logo">Onside Data</div>
+</footer>
+
+</body>
+</html>
