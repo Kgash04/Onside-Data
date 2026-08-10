@@ -224,9 +224,7 @@
     z-index: 3;
   }
   .offside-tag {
-    position: absolute;
-    top: -14px; left: 50%;
-    transform: translateX(-50%);
+    display: inline-block;
     background: var(--chalk);
     color: #0B1410;
     font-family: 'IBM Plex Mono';
@@ -235,14 +233,13 @@
     text-transform: uppercase;
     padding: 5px 10px;
     border-radius: 999px;
-    z-index: 4;
+    margin-bottom: 14px;
     white-space: nowrap;
   }
 
   @media (max-width: 700px) {
     .pitch-line { grid-template-columns: 1fr; }
     .offside-divider { left: 0; right: 0; top: 50%; bottom: auto; width: auto; height: 0; border-left: none; border-top: 3px dashed var(--chalk); }
-    .offside-tag { top: 50%; left: 50%; transform: translate(-50%, -50%); }
   }
 
   /* FIXTURES */
@@ -422,9 +419,11 @@
     <h2 class="display">Free on one side. Depth on the other.</h2>
     <p>Every match, every player, split cleanly by the line. No confusing tiers — just what's public, and what took real research to find.</p>
   </div>
+  <div style="text-align:center;">
+    <span class="offside-tag">The Line</span>
+  </div>
   <div class="pitch-line">
     <div class="offside-divider"></div>
-    <span class="offside-tag">The Line</span>
     <div class="side free">
       <span class="kicker">Onside — Free</span>
       <h3>The basics</h3>
