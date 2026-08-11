@@ -98,6 +98,59 @@
   .nav-cta:hover { background: #f0b358; }
   .nav-mobile-toggle { display: none; background: none; border: none; color: var(--chalk); font-size: 24px; cursor: pointer; }
 
+  .nav-search-wrap { position: relative; flex: 1; max-width: 320px; margin: 0 24px; }
+  .nav-search {
+    width: 100%;
+    background: var(--panel-light);
+    border: 1px solid var(--line);
+    color: var(--chalk);
+    padding: 9px 14px;
+    border-radius: var(--radius);
+    font-family: 'Inter', sans-serif;
+    font-size: 13.5px;
+  }
+  .nav-search::placeholder { color: var(--chalk-dim); }
+  .nav-search:focus { border-color: var(--turf); outline: none; }
+  .search-results {
+    display: none;
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0; right: 0;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    max-height: 320px;
+    overflow-y: auto;
+    z-index: 60;
+    box-shadow: 0 12px 28px rgba(0,0,0,0.4);
+  }
+  .search-results.open { display: block; }
+  .search-result-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    font-size: 13.5px;
+    border-top: 1px solid var(--line);
+    cursor: pointer;
+    text-decoration: none;
+    color: var(--chalk);
+  }
+  .search-result-item:first-child { border-top: none; }
+  .search-result-item:hover { background: var(--panel-light); }
+  .search-result-item .type {
+    font-family: 'IBM Plex Mono';
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--chalk-dim);
+  }
+  .search-empty { padding: 14px 16px; font-size: 13px; color: var(--chalk-dim); }
+
+  @media (max-width: 900px) {
+    .nav-search-wrap { display: none; }
+  }
+
   @media (max-width: 760px) {
     .nav-links { display: none; }
     .nav-mobile-toggle { display: block; }
@@ -414,6 +467,10 @@
       <a href="#fixtures">Fixtures</a>
       <a href="#player-hub">Player hubs</a>
     </div>
+    <div class="nav-search-wrap">
+      <input type="text" id="site-search" class="nav-search" placeholder="Search teams, leagues, players..." autocomplete="off">
+      <div id="search-results" class="search-results"></div>
+    </div>
     <a href="https://buy.stripe.com/dRm00j7db7JpaAVeEWcjS00" class="nav-cta">Subscribe</a>
   </div>
 </nav>
@@ -509,6 +566,92 @@
     return `${day} ${time}`;
   }
 
+  // Manually maintained index of real destinations on the site.
+  // Add an entry here each time a new match page or player hub is built.
+  const SEARCH_PAGES = {
+    players: [
+      { name: 'Lamine Yamal', meta: 'FC Barcelona · Forward', anchor: '#player-hub' },
+    ],
+    matches: [
+      { name: 'Newcastle United vs. Liverpool', meta: 'Premier League · Matchweek 1', url: 'newcastle-vs-liverpool.html' },
+    ],
+  };
+
+  let SEARCH_INDEX = [];
+
+  function buildSearchIndex(data) {
+    const index = [];
+
+    Object.entries(COMP_NAMES).forEach(([code, name]) => {
+      index.push({ type: 'League', name, action: () => selectStandingsTab(code) });
+    });
+
+    const seenTeams = new Set();
+    Object.entries(data.competitions || {}).forEach(([code, comp]) => {
+      (comp.standings || []).forEach((row) => {
+        if (!seenTeams.has(row.team)) {
+          seenTeams.add(row.team);
+          index.push({ type: COMP_NAMES[code] || code, name: row.team, action: () => selectStandingsTab(code) });
+        }
+      });
+    });
+
+    SEARCH_PAGES.players.forEach((p) => {
+      index.push({ type: 'Player', name: p.name, meta: p.meta, action: () => { window.location.hash = 'player-hub'; document.getElementById('player-hub').scrollIntoView({ behavior: 'smooth' }); } });
+    });
+
+    SEARCH_PAGES.matches.forEach((m) => {
+      index.push({ type: 'Match', name: m.name, meta: m.meta, action: () => { window.location.href = m.url; } });
+    });
+
+    SEARCH_INDEX = index;
+  }
+
+  function selectStandingsTab(code) {
+    document.getElementById('standings').scrollIntoView({ behavior: 'smooth' });
+    const btn = document.querySelector(`.standings-tab[data-code="${code}"]`);
+    if (btn) btn.click();
+  }
+
+  function setupSearch() {
+    const input = document.getElementById('site-search');
+    const results = document.getElementById('search-results');
+
+    input.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      if (!q) { results.classList.remove('open'); results.innerHTML = ''; return; }
+
+      const matches = SEARCH_INDEX.filter((item) => item.name.toLowerCase().includes(q)).slice(0, 8);
+
+      if (matches.length === 0) {
+        results.innerHTML = `<div class="search-empty">No results for "${input.value}" yet — the site is still growing its coverage.</div>`;
+      } else {
+        results.innerHTML = matches.map((m) => `
+          <div class="search-result-item" data-idx="${SEARCH_INDEX.indexOf(m)}">
+            <span>${m.name}${m.meta ? ` <span style="color:var(--chalk-dim);">— ${m.meta}</span>` : ''}</span>
+            <span class="type">${m.type}</span>
+          </div>
+        `).join('');
+      }
+      results.classList.add('open');
+    });
+
+    results.addEventListener('click', (e) => {
+      const item = e.target.closest('.search-result-item');
+      if (!item) return;
+      const idx = item.dataset.idx;
+      if (idx !== undefined && SEARCH_INDEX[idx]) {
+        SEARCH_INDEX[idx].action();
+        results.classList.remove('open');
+        input.value = '';
+      }
+    });
+
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.nav-search-wrap')) results.classList.remove('open');
+    });
+  }
+
   async function loadOnsideData() {
     const listEl = document.getElementById('fixture-list');
     const updatedEl = document.getElementById('fixture-updated');
@@ -583,13 +726,17 @@
 
       if (compsWithStandings.length > 0) renderStandings(compsWithStandings[0][0]);
 
+      buildSearchIndex(data);
+
     } catch (err) {
       listEl.innerHTML = `<div class="fixture-row"><span class="comp mono">—</span><span class="teams">Live data not connected yet — this page needs to be hosted alongside data/fixtures.json.</span><span class="time mono"></span></div>`;
       console.error('Onside Data fetch error:', err);
+      buildSearchIndex({ competitions: {} });
     }
   }
 
   loadOnsideData();
+  setupSearch();
 </script>
 
 <section class="player-hub" id="player-hub">
