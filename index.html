@@ -83,9 +83,8 @@
     letter-spacing: 0.02em;
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 10px;
   }
-  .logo .dot { width: 9px; height: 9px; background: var(--turf); border-radius: 50%; display: inline-block; box-shadow: 0 0 8px var(--turf); }
   .nav-links { display: flex; gap: 32px; font-size: 14px; color: var(--chalk-dim); }
   .nav-links a:hover { color: var(--chalk); }
   .nav-cta {
@@ -393,13 +392,27 @@
 
 <nav>
   <div class="nav-inner">
-    <div class="logo"><span class="dot"></span>Onside Data</div>
+    <div class="logo">
+      <svg width="28" height="28" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" style="flex-shrink:0;">
+        <defs>
+          <pattern id="navchecker" width="16" height="16" patternUnits="userSpaceOnUse">
+            <rect width="16" height="16" fill="#F5C518"/>
+            <rect width="8" height="8" fill="#E8622A"/>
+            <rect x="8" y="8" width="8" height="8" fill="#E8622A"/>
+          </pattern>
+        </defs>
+        <rect x="52" y="24" width="7" height="82" rx="2" fill="#F4F1E8"/>
+        <rect x="48" y="88" width="15" height="20" rx="3" fill="#1B2E23"/>
+        <polygon points="59,26 102,17 97,52 59,50" fill="url(#navchecker)" stroke="#0B1410" stroke-width="1" stroke-linejoin="round"/>
+      </svg>
+      Onside Data
+    </div>
     <div class="nav-links">
       <a href="#line-section">How it works</a>
       <a href="#fixtures">Fixtures</a>
       <a href="#player-hub">Player hubs</a>
     </div>
-    <a href="#footer" class="nav-cta">Subscribe</a>
+    <a href="https://buy.stripe.com/dRm00j7db7JpaAVeEWcjS00" class="nav-cta">Subscribe</a>
   </div>
 </nav>
 
@@ -408,8 +421,8 @@
   <h1 class="display">Everything you need to know<br>before the <span class="amber">whistle blows</span></h1>
   <p class="sub">Form, history, and player trends for the fixtures that matter — across the Premier League, Champions League, La Liga, and beyond. We publish the data. What you do with it is your call.</p>
   <div class="hero-ctas">
-    <button class="btn-primary">See this week's fixtures</button>
-    <a href="#line-section" class="btn-secondary">How it works</a>
+    <button class="btn-primary" onclick="document.getElementById('fixtures').scrollIntoView({behavior:'smooth'})">See this week's fixtures</button>
+    <a href="https://buy.stripe.com/dRm00j7db7JpaAVeEWcjS00" class="btn-secondary">Get Onside+</a>
   </div>
 </section>
 
@@ -585,7 +598,7 @@
           <p>Scoring pattern skews second half — 3 of 4 goals came after the 60th minute.</p>
         </div>
         <div class="locked-cta">
-          <button>Unlock with Onside+</button>
+          <a href="https://buy.stripe.com/dRm00j7db7JpaAVeEWcjS00" style="text-decoration:none;"><button>Unlock with Onside+</button></a>
         </div>
       </div>
     </div>
@@ -600,14 +613,15 @@
       <div class="tier">Free</div>
       <div class="amount">$0<span>/mo</span></div>
     </div>
-    <div class="price-card highlight">
+    <a href="https://buy.stripe.com/dRm00j7db7JpaAVeEWcjS00" class="price-card highlight" style="text-decoration:none;display:block;">
       <div class="tier">Onside+</div>
       <div class="amount">$9<span>/mo</span></div>
-    </div>
+    </a>
   </div>
   <div class="disclaimer">
     Onside Data provides sports information and statistical analysis for informational and entertainment purposes only. We are not a bookmaker and do not accept wagers. Nothing on this site constitutes betting or financial advice, and we do not guarantee outcomes.
   </div>
+  <p style="margin-top:18px;"><a href="https://billing.stripe.com/p/login/dRm00j7db7JpaAVeEWcjS00" style="font-family:'IBM Plex Mono';font-size:12.5px;color:var(--chalk-dim);text-decoration:underline;">Manage or cancel your subscription</a></p>
   <div class="foot-logo">Onside Data</div>
 </footer>
 
