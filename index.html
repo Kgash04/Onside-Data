@@ -269,7 +269,9 @@
     grid-template-columns: 90px 1fr auto;
     align-items: center;
     gap: 18px;
+    transition: background 0.15s;
   }
+  a.fixture-row:hover { background: #223626; }
   .fixture-row .comp { font-family: 'IBM Plex Mono'; font-size: 11px; color: var(--chalk-dim); text-transform: uppercase; letter-spacing: 0.05em; }
   .fixture-row .teams { font-size: 16px; font-weight: 600; }
   .fixture-row .teams .vs { color: var(--chalk-dim); font-weight: 400; margin: 0 8px; }
@@ -487,6 +489,17 @@
 </section>
 
 <script>
+  // Map fixtures to their match page files as pages get built.
+  // Key format: "hometeam|awayteam" (case-insensitive) — add an entry here each time a new match page is created.
+  const MATCH_PAGES = {
+    'newcastle united|liverpool': 'newcastle-vs-liverpool.html',
+  };
+
+  function findMatchPage(home, away) {
+    const key = `${home.toLowerCase()}|${away.toLowerCase()}`;
+    return MATCH_PAGES[key] || null;
+  }
+
   const COMP_NAMES = { PL: 'Premier League', PD: 'La Liga', BL1: 'Bundesliga', SA: 'Serie A', FL1: 'Ligue 1', CL: 'Champions League' };
 
   function formatKickoff(utcDate) {
@@ -517,13 +530,26 @@
       if (allFixtures.length === 0) {
         listEl.innerHTML = `<div class="fixture-row"><span class="comp mono">—</span><span class="teams">No scheduled fixtures returned yet — check back once the season is closer.</span><span class="time mono"></span></div>`;
       } else {
-        listEl.innerHTML = allFixtures.slice(0, 10).map((f) => `
-          <div class="fixture-row">
-            <span class="comp mono">${f.code}</span>
-            <span class="teams">${f.homeTeam} <span class="vs">vs</span> ${f.awayTeam}</span>
-            <span class="time mono">${formatKickoff(f.utcDate)}</span>
-          </div>
-        `).join('');
+        listEl.innerHTML = allFixtures.slice(0, 10).map((f) => {
+          const pageUrl = findMatchPage(f.homeTeam, f.awayTeam);
+          const teamsHtml = `${f.homeTeam} <span class="vs">vs</span> ${f.awayTeam}`;
+          if (pageUrl) {
+            return `
+              <a href="${pageUrl}" class="fixture-row" style="text-decoration:none;color:inherit;">
+                <span class="comp mono">${f.code}</span>
+                <span class="teams">${teamsHtml} <span style="color:var(--amber);font-family:'IBM Plex Mono';font-size:11px;">READ &rarr;</span></span>
+                <span class="time mono">${formatKickoff(f.utcDate)}</span>
+              </a>
+            `;
+          }
+          return `
+            <div class="fixture-row">
+              <span class="comp mono">${f.code}</span>
+              <span class="teams">${teamsHtml}</span>
+              <span class="time mono">${formatKickoff(f.utcDate)}</span>
+            </div>
+          `;
+        }).join('');
       }
 
       if (data.lastUpdated) {
