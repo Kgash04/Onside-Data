@@ -1,0 +1,35 @@
+# .github/workflows/update-players.yml
+# Refreshes player stats once a day (player stats change slower than fixtures,
+# and this API has a tighter free-tier limit — 100 requests/day)
+
+name: Update Onside Player Stats
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # once daily, 5:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  update-players:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest player stats
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: node fetch-players.js
+
+      - name: Commit updated player data
+        run: |
+          git config user.name "onside-data-bot"
+          git config user.email "actions@github.com"
+          git add data/players.json
+          git diff --quiet --cached || git commit -m "Auto-update player stats"
+          git push
