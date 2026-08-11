@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T20:46:30.677Z",
+  "lastUpdated": "2026-08-11T07:13:30.353Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,144 +334,144 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Getafe CF",
-          "awayTeam": "RC Deportivo La Coruña",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
+          "homeTeam": "Deportivo Alavés",
+          "awayTeam": "Getafe CF",
+          "utcDate": "2026-08-15T17:30:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Sevilla FC",
-          "awayTeam": "Valencia CF",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
+          "awayTeam": "Rayo Vallecano de Madrid",
+          "utcDate": "2026-08-15T19:30:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Real Racing Club de Santander",
-          "awayTeam": "Deportivo Alavés",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
+          "awayTeam": "Villarreal CF",
+          "utcDate": "2026-08-16T15:00:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
-          "homeTeam": "Villarreal CF",
-          "awayTeam": "Real Betis Balompié",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
+          "homeTeam": "RCD Espanyol de Barcelona",
+          "awayTeam": "Levante UD",
+          "utcDate": "2026-08-16T17:00:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
           "homeTeam": "RC Celta de Vigo",
-          "awayTeam": "Málaga CF",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "CA Osasuna",
-          "awayTeam": "RCD Espanyol de Barcelona",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Real Sociedad de Fútbol",
-          "awayTeam": "Club Atlético de Madrid",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Levante UD",
-          "awayTeam": "FC Barcelona",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Athletic Club",
-          "awayTeam": "Elche CF",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Real Madrid CF",
-          "awayTeam": "Rayo Vallecano de Madrid",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Rayo Vallecano de Madrid",
-          "awayTeam": "RCD Espanyol de Barcelona",
-          "utcDate": "2026-09-16T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "awayTeam": "CA Osasuna",
+          "utcDate": "2026-08-16T19:30:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
           "homeTeam": "RC Deportivo La Coruña",
-          "awayTeam": "Sevilla FC",
-          "utcDate": "2026-09-16T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Deportivo Alavés",
-          "awayTeam": "Valencia CF",
-          "utcDate": "2026-09-16T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Elche CF",
-          "awayTeam": "Real Madrid CF",
-          "utcDate": "2026-09-16T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Málaga CF",
-          "awayTeam": "Villarreal CF",
-          "utcDate": "2026-09-16T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "awayTeam": "Elche CF",
+          "utcDate": "2026-08-17T19:00:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Club Atlético de Madrid",
-          "awayTeam": "CA Osasuna",
-          "utcDate": "2026-09-16T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "awayTeam": "Málaga CF",
+          "utcDate": "2026-08-19T19:00:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
-          "homeTeam": "Levante UD",
-          "awayTeam": "Athletic Club",
-          "utcDate": "2026-09-16T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "homeTeam": "Rayo Vallecano de Madrid",
+          "awayTeam": "Deportivo Alavés",
+          "utcDate": "2026-08-20T19:00:00Z",
+          "matchday": 2,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Real Betis Balompié",
-          "awayTeam": "Getafe CF",
-          "utcDate": "2026-09-16T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "awayTeam": "Real Sociedad de Fútbol",
+          "utcDate": "2026-08-21T19:00:00Z",
+          "matchday": 2,
+          "status": "TIMED"
         },
         {
-          "homeTeam": "FC Barcelona",
-          "awayTeam": "Real Racing Club de Santander",
-          "utcDate": "2026-09-16T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "homeTeam": "Athletic Club",
+          "awayTeam": "Sevilla FC",
+          "utcDate": "2026-08-22T15:00:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Valencia CF",
+          "awayTeam": "RC Celta de Vigo",
+          "utcDate": "2026-08-22T17:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RCD Espanyol de Barcelona",
+          "awayTeam": "Real Madrid CF",
+          "utcDate": "2026-08-22T19:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Club Atlético de Madrid",
-          "awayTeam": "Real Madrid CF",
-          "utcDate": "2026-09-20T00:00:00Z",
-          "matchday": 7,
-          "status": "SCHEDULED"
+          "awayTeam": "Villarreal CF",
+          "utcDate": "2026-08-23T15:00:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Getafe CF",
+          "awayTeam": "Real Racing Club de Santander",
+          "utcDate": "2026-08-23T17:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Elche CF",
+          "awayTeam": "FC Barcelona",
+          "utcDate": "2026-08-23T19:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "CA Osasuna",
+          "awayTeam": "Levante UD",
+          "utcDate": "2026-08-24T17:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Málaga CF",
+          "awayTeam": "RC Deportivo La Coruña",
+          "utcDate": "2026-08-24T19:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Valencia CF",
+          "awayTeam": "Real Betis Balompié",
+          "utcDate": "2026-08-25T19:00:00Z",
+          "matchday": 1,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Madrid CF",
+          "awayTeam": "Real Sociedad de Fútbol",
+          "utcDate": "2026-08-26T19:00:00Z",
+          "matchday": 1,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Barcelona",
+          "awayTeam": "Athletic Club",
+          "utcDate": "2026-08-27T19:00:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         }
       ],
       "standings": [
