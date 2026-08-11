@@ -61,14 +61,22 @@ async function fetchTeamPlayers(teamId, teamMeta) {
   const players = [];
   let page = 1;
   let totalPages = 1;
+  let rawEntryCount = 0;
+  let skippedNoStats = 0;
 
   do {
     const data = await fetchFromApi(`/players?team=${teamId}&season=${SEASON}&page=${page}`);
+
+    if (data.errors && Object.keys(data.errors).length > 0) {
+      console.log(`  API error: ${JSON.stringify(data.errors)}`);
+    }
+
     totalPages = data.paging?.total || 1;
+    rawEntryCount += (data.response || []).length;
 
     (data.response || []).forEach((entry) => {
       const stats = entry.statistics?.[0];
-      if (!stats) return;
+      if (!stats) { skippedNoStats += 1; return; }
 
       const minutes = stats.games?.minutes || 0;
       const shots = stats.shots?.total || 0;
@@ -107,6 +115,7 @@ async function fetchTeamPlayers(teamId, teamMeta) {
     page += 1;
   } while (page <= totalPages);
 
+  console.log(`  Raw entries from API: ${rawEntryCount} | Skipped (no stats): ${skippedNoStats} | Kept: ${players.length}`);
   return players;
 }
 
