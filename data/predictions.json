@@ -31,6 +31,22 @@
       "graded": false,
       "actualResult": null,
       "correct": null
+    },
+    {
+      "id": "newcastle-vs-liverpool-2026-08-23",
+      "homeTeam": "Newcastle United",
+      "awayTeam": "Liverpool",
+      "competition": "Premier League",
+      "date": "2026-08-23",
+      "tier": "priority",
+      "headToHead": "This is Alexander Isak's first competitive appearance against Newcastle since his £125m move to Liverpool last summer.",
+      "narrative": "The marquee fixture of the opening weekend. Liverpool enter under new head coach Andoni Iraola, following Arne Slot's exit after last season.",
+      "prediction": "Liverpool's real depth concerns under a new manager, Isak's psychological test facing his old club, and what it all means heading into the season. Liverpool have depth concerns particularly at center-back and in wide areas, with Hugo Ekitike still recovering from an Achilles injury and a deal for PSG's Bradley Barcola still being pursued.",
+      "predictedOutcome": "away_win",
+      "keyPlayer": "Alexander Isak (Liverpool) — facing his former club for the first time",
+      "graded": false,
+      "actualResult": null,
+      "correct": null
     }
   ]
 }
