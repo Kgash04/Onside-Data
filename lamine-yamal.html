@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lamine Yamal — Onside Data</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders:wght@600;700;800&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#0B1410; --panel:#14231C; --panel-light:#1B2E23; --chalk:#F4F1E8; --chalk-dim:#A9B5AC; --turf:#3CA35A; --turf-dim:#2A7A42; --amber:#E8A33D; --amber-dim:#B87F2C; --line:rgba(244,241,232,0.14); --radius:6px; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--bg); color:var(--chalk); font-family:'Inter',sans-serif; line-height:1.6; -webkit-font-smoothing:antialiased; }
+  .display { font-family:'Big Shoulders',sans-serif; font-weight:800; text-transform:uppercase; line-height:0.95; }
+  .mono { font-family:'IBM Plex Mono',monospace; }
+  a { color:inherit; }
+  :focus-visible { outline:2px solid var(--amber); outline-offset:3px; }
+  .wrap { max-width:760px; margin:0 auto; padding:0 24px; }
+
+  nav { position:sticky; top:0; z-index:50; background:rgba(11,20,16,0.9); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }
+  .nav-inner { display:flex; align-items:center; justify-content:space-between; padding:18px 24px; max-width:1120px; margin:0 auto; }
+  .logo { font-family:'Big Shoulders',sans-serif; font-weight:800; font-size:22px; text-transform:uppercase; display:flex; align-items:center; gap:10px; }
+  .back-link { font-size:14px; color:var(--chalk-dim); text-decoration:none; }
+  .back-link:hover { color:var(--chalk); }
+  .nav-cta { background:var(--amber); color:#16130A; padding:10px 20px; border-radius:var(--radius); font-weight:600; font-size:14px; text-decoration:none; }
+  .nav-cta:hover { background:#f0b358; }
+
+  .hub-head { padding:56px 24px 40px; text-align:center; border-bottom:1px solid var(--line); background:linear-gradient(160deg,#14231C,#0f1a14); }
+  .team-tag { font-family:'IBM Plex Mono'; font-size:12px; color:var(--turf); letter-spacing:0.08em; text-transform:uppercase; margin-bottom:16px; display:block; }
+  .player-title { font-size:clamp(34px,7vw,58px); margin-bottom:10px; }
+  .player-meta { font-family:'IBM Plex Mono'; font-size:13px; color:var(--chalk-dim); }
+
+  .content-section { padding:44px 24px; }
+  .section-label { display:inline-flex; align-items:center; gap:8px; font-family:'IBM Plex Mono'; font-size:12px; letter-spacing:0.08em; text-transform:uppercase; padding:6px 14px; border-radius:999px; margin-bottom:24px; }
+  .section-label.free { color:var(--turf); background:rgba(60,163,90,0.1); border:1px solid rgba(60,163,90,0.3); }
+  .section-label.paid { color:var(--amber); background:rgba(232,163,61,0.1); border:1px solid rgba(232,163,61,0.3); }
+  .content-section p { color:var(--chalk-dim); margin-bottom:14px; font-size:15.5px; }
+
+  .stat-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:1px; background:var(--line); border-radius:var(--radius); overflow:hidden; margin:20px 0; }
+  .stat-cell { background:var(--panel-light); padding:20px 16px; }
+  .stat-cell .num { font-family:'IBM Plex Mono'; font-size:26px; font-weight:600; }
+  .stat-cell .label { font-size:11px; color:var(--chalk-dim); text-transform:uppercase; letter-spacing:0.05em; margin-top:6px; }
+  @media (max-width:600px) { .stat-grid { grid-template-columns:repeat(2,1fr); } }
+
+  .locked-wall { border:1px dashed var(--amber-dim); border-radius:10px; padding:40px 32px; text-align:center; background:linear-gradient(160deg,#241a0c,#1b1408); }
+  .locked-wall h3 { font-size:22px; margin-bottom:10px; }
+  .locked-wall p { color:var(--chalk-dim); max-width:440px; margin:0 auto 24px; font-size:14.5px; }
+  .unlock-btn { background:var(--amber); color:#16130A; border:none; padding:13px 26px; border-radius:var(--radius); font-weight:600; font-size:14.5px; cursor:pointer; text-decoration:none; display:inline-block; }
+  .unlock-btn:hover { background:#f0b358; }
+
+  .disclaimer { max-width:700px; margin:40px auto 0; font-size:12px; color:var(--chalk-dim); font-family:'IBM Plex Mono'; border-top:1px solid var(--line); padding-top:24px; line-height:1.7; text-align:center; }
+  footer { text-align:center; padding:60px 24px; border-top:1px solid var(--line); }
+  .foot-logo { font-family:'Big Shoulders'; font-weight:800; text-transform:uppercase; color:var(--chalk-dim); font-size:14px; letter-spacing:0.06em; }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <div class="logo">
+      <svg width="24" height="24" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" style="flex-shrink:0;">
+        <defs><pattern id="navchecker" width="16" height="16" patternUnits="userSpaceOnUse">
+          <rect width="16" height="16" fill="#F5C518"/><rect width="8" height="8" fill="#E8622A"/><rect x="8" y="8" width="8" height="8" fill="#E8622A"/>
+        </pattern></defs>
+        <rect x="52" y="24" width="7" height="82" rx="2" fill="#F4F1E8"/>
+        <rect x="48" y="88" width="15" height="20" rx="3" fill="#1B2E23"/>
+        <polygon points="59,26 102,17 97,52 59,50" fill="url(#navchecker)" stroke="#0B1410" stroke-width="1" stroke-linejoin="round"/>
+      </svg>
+      Onside Data
+    </div>
+    <a href="index.html#player-hub" class="back-link">&larr; All players</a>
+    <a href="https://buy.stripe.com/dRm00j7db7JpaAVeEWcjS00" class="nav-cta">Subscribe</a>
+  </div>
+</nav>
+
+<div class="hub-head">
+  <span class="team-tag mono">FC Barcelona &middot; Forward</span>
+  <h1 class="player-title display">Lamine Yamal</h1>
+  <p class="player-meta">Age 18 &middot; Spain &middot; La Liga Player of the Season, 2025/26</p>
+</div>
+
+<div class="wrap">
+  <section class="content-section">
+    <span class="section-label free">Onside &mdash; Free</span>
+    <p>Yamal reached a new level in 2025/26 — a central figure in Barcelona's La Liga title win, finishing as the league's top assist provider and being named La Liga Player of the Season at just 18 years old. His form carried into the Champions League too, and into the summer, where he was part of Spain's World Cup-winning squad.</p>
+
+    <div class="stat-grid">
+      <div class="stat-cell"><div class="num">16</div><div class="label">La Liga goals, 2025/26</div></div>
+      <div class="stat-cell"><div class="num">11</div><div class="label">La Liga assists, 2025/26</div></div>
+      <div class="stat-cell"><div class="num">6</div><div class="label">Champions League goals</div></div>
+      <div class="stat-cell"><div class="num">4</div><div class="label">Champions League assists</div></div>
+    </div>
+  </section>
+
+  <section class="content-section">
+    <span class="section-label paid">Beyond the Line &mdash; Paid</span>
+    <div class="locked-wall">
+      <h3 class="display" style="font-size:24px;">Form Trend &amp; History vs. Upcoming Opponents</h3>
+      <p>How Yamal's output splits home vs. away, his record against Barcelona's biggest rivals over the last 5 meetings, and what his workload across club and country this summer means for early-season fitness — unlocked with Onside+.</p>
+      <a href="https://buy.stripe.com/dRm00j7db7JpaAVeEWcjS00" class="unlock-btn">Unlock with Onside+ &mdash; $9/mo</a>
+    </div>
+  </section>
+
+  <div class="disclaimer">
+    Onside Data provides sports information and statistical analysis for informational and entertainment purposes only. We are not a bookmaker and do not accept wagers. Nothing on this site constitutes betting or financial advice, and we do not guarantee outcomes.
+  </div>
+  <p style="margin-top:14px;text-align:center;"><a href="https://billing.stripe.com/p/login/dRm00j7db7JpaAVeEWcjS00" style="font-family:'IBM Plex Mono';font-size:12px;color:var(--chalk-dim);text-decoration:underline;">Manage or cancel your subscription</a></p>
+  <p style="margin-top:8px;text-align:center;"><a href="terms.html" style="font-family:'IBM Plex Mono';font-size:11.5px;color:var(--chalk-dim);text-decoration:underline;margin-right:14px;">Terms</a><a href="privacy.html" style="font-family:'IBM Plex Mono';font-size:11.5px;color:var(--chalk-dim);text-decoration:underline;">Privacy</a></p>
+</div>
+
+<footer><div class="foot-logo">Onside Data</div></footer>
+
+</body>
+</html>
