@@ -1,0 +1,35 @@
+# .github/workflows/update-scorers.yml
+# Keeps top scorer stats current — runs on the same schedule as fixtures since this
+# is a lightweight pull (6 requests) and freshness is the whole point.
+
+name: Update Onside Scorer Stats
+
+on:
+  schedule:
+    - cron: '30 6,14,20 * * *'  # offset 30 min from the fixtures job to avoid overlap
+  workflow_dispatch: {}
+
+jobs:
+  update-scorers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest scorer stats
+        env:
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+        run: node fetch-scorers.js
+
+      - name: Commit updated scorer data
+        run: |
+          git config user.name "onside-data-bot"
+          git config user.email "actions@github.com"
+          git add data/scorers.json
+          git diff --quiet --cached || git commit -m "Auto-update scorer stats"
+          git push
