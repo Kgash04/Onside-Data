@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Match — Onside Data</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders:wght@600;700;800&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#0B1410; --panel:#14231C; --panel-light:#1B2E23; --chalk:#F4F1E8; --chalk-dim:#A9B5AC; --turf:#3CA35A; --amber:#E8A33D; --amber-dim:#B87F2C; --line:rgba(244,241,232,0.14); --radius:6px; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--bg); color:var(--chalk); font-family:'Inter',sans-serif; line-height:1.6; -webkit-font-smoothing:antialiased; }
+  .display { font-family:'Big Shoulders',sans-serif; font-weight:800; text-transform:uppercase; line-height:0.95; }
+  .mono { font-family:'IBM Plex Mono',monospace; }
+  a { color:inherit; }
+  :focus-visible { outline:2px solid var(--amber); outline-offset:3px; }
+  .wrap { max-width:760px; margin:0 auto; padding:0 24px; }
+
+  nav { position:sticky; top:0; z-index:50; background:rgba(11,20,16,0.9); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }
+  .nav-inner { display:flex; align-items:center; justify-content:space-between; padding:18px 24px; max-width:1120px; margin:0 auto; }
+  .logo { font-family:'Big Shoulders',sans-serif; font-weight:800; font-size:22px; text-transform:uppercase; display:flex; align-items:center; gap:10px; }
+  .back-link { font-size:14px; color:var(--chalk-dim); text-decoration:none; }
+  .back-link:hover { color:var(--chalk); }
+  .nav-cta { background:var(--amber); color:#16130A; padding:10px 20px; border-radius:var(--radius); font-weight:600; font-size:14px; text-decoration:none; }
+  .nav-cta:hover { background:#f0b358; }
+
+  .match-head { padding:56px 24px 40px; text-align:center; border-bottom:1px solid var(--line); }
+  .comp-tag { font-family:'IBM Plex Mono'; font-size:12px; letter-spacing:0.08em; text-transform:uppercase; color:var(--turf); margin-bottom:18px; display:block; }
+  .match-title { font-size:clamp(28px,6vw,46px); margin-bottom:14px; }
+  .match-title .vs { color:var(--chalk-dim); font-weight:400; font-family:'Inter'; font-size:0.5em; display:block; margin:6px 0; }
+  .match-meta { font-family:'IBM Plex Mono'; font-size:13px; color:var(--chalk-dim); }
+
+  .content-section { padding:44px 24px; }
+  .section-label { display:inline-flex; align-items:center; gap:8px; font-family:'IBM Plex Mono'; font-size:12px; letter-spacing:0.08em; text-transform:uppercase; padding:6px 14px; border-radius:999px; margin-bottom:24px; }
+  .section-label.free { color:var(--turf); background:rgba(60,163,90,0.1); border:1px solid rgba(60,163,90,0.3); }
+  .section-label.paid { color:var(--amber); background:rgba(232,163,61,0.1); border:1px solid rgba(232,163,61,0.3); }
+  .content-section h2 { font-size:18px; margin:20px 0 8px; font-weight:600; }
+  .content-section p { color:var(--chalk-dim); margin-bottom:14px; font-size:15px; }
+
+  .quick-facts { background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:20px 24px; margin:20px 0; }
+  .quick-facts .label { font-family:'IBM Plex Mono'; font-size:11px; text-transform:uppercase; letter-spacing:0.06em; color:var(--chalk-dim); margin-bottom:10px; }
+
+  .locked-wall { border:1px dashed var(--amber-dim); border-radius:10px; padding:36px 30px; text-align:center; background:linear-gradient(160deg,#241a0c,#1b1408); }
+  .locked-wall h3 { font-size:22px; margin-bottom:10px; }
+  .locked-wall p { color:var(--chalk-dim); max-width:440px; margin:0 auto 22px; font-size:14.5px; }
+  .unlock-btn { background:var(--amber); color:#16130A; border:none; padding:13px 26px; border-radius:var(--radius); font-weight:600; font-size:14.5px; cursor:pointer; text-decoration:none; display:inline-block; }
+  .unlock-btn:hover { background:#f0b358; }
+
+  .auto-badge { font-family:'IBM Plex Mono'; font-size:10.5px; color:var(--chalk-dim); text-transform:uppercase; letter-spacing:0.06em; margin-bottom:14px; display:block; }
+
+  .disclaimer { max-width:700px; margin:40px auto 0; font-size:12px; color:var(--chalk-dim); font-family:'IBM Plex Mono'; border-top:1px solid var(--line); padding-top:24px; line-height:1.7; text-align:center; }
+  footer { text-align:center; padding:60px 24px; border-top:1px solid var(--line); }
+  .foot-logo { font-family:'Big Shoulders'; font-weight:800; text-transform:uppercase; color:var(--chalk-dim); font-size:14px; letter-spacing:0.06em; }
+  .state-msg { text-align:center; padding:80px 24px; color:var(--chalk-dim); }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <div class="logo">
+      <svg width="24" height="24" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" style="flex-shrink:0;">
+        <defs><pattern id="navchecker" width="16" height="16" patternUnits="userSpaceOnUse">
+          <rect width="16" height="16" fill="#F5C518"/><rect width="8" height="8" fill="#E8622A"/><rect x="8" y="8" width="8" height="8" fill="#E8622A"/>
+        </pattern></defs>
+        <rect x="52" y="24" width="7" height="82" rx="2" fill="#F4F1E8"/>
+        <rect x="48" y="88" width="15" height="20" rx="3" fill="#1B2E23"/>
+        <polygon points="59,26 102,17 97,52 59,50" fill="url(#navchecker)" stroke="#0B1410" stroke-width="1" stroke-linejoin="round"/>
+      </svg>
+      Onside Data
+    </div>
+    <a href="index.html#fixtures" class="back-link">&larr; All fixtures</a>
+    <a href="https://buy.stripe.com/dRm00j7db7JpaAVeEWcjS00" class="nav-cta">Subscribe</a>
+  </div>
+</nav>
+
+<div id="match-content"><div class="state-msg">Loading match…</div></div>
+
+<footer><div class="foot-logo">Onside Data</div></footer>
+
+<script>
+  const STRIPE_LINK = 'https://buy.stripe.com/dRm00j7db7JpaAVeEWcjS00';
+
+  function getParam(name) { return new URLSearchParams(window.location.search).get(name); }
+
+  function findStandingsRow(fixturesData, teamName) {
+    for (const comp of Object.values(fixturesData.competitions || {})) {
+      const row = (comp.standings || []).find((r) => r.team === teamName);
+      if (row) return row;
+    }
+    return null;
+  }
+
+  function autoLean(homeTeam, awayTeam, fixturesData) {
+    const homeRow = findStandingsRow(fixturesData, homeTeam);
+    const awayRow = findStandingsRow(fixturesData, awayTeam);
+
+    if (!homeRow || !awayRow || homeRow.played === 0 || awayRow.played === 0) {
+      return `Season form data isn't available yet for this fixture — check back closer to kickoff once both teams have played league matches.`;
+    }
+
+    const homePPG = (homeRow.points / homeRow.played).toFixed(2);
+    const awayPPG = (awayRow.points / awayRow.played).toFixed(2);
+    const leader = homePPG > awayPPG ? homeTeam : (awayPPG > homePPG ? awayTeam : null);
+
+    if (!leader) {
+      return `${homeTeam} and ${awayTeam} are running near-identical points-per-game this season (${homePPG} vs ${awayPPG}) — a genuinely close matchup on current form.`;
+    }
+    return `Based on current standings, ${leader} is outperforming on points-per-game this season (${homeTeam}: ${homePPG} vs ${awayTeam}: ${awayPPG}${homeRow.played < 5 ? ' — early-season sample, worth treating cautiously' : ''}).`;
+  }
+
+  async function loadMatch() {
+    const home = getParam('home');
+    const away = getParam('away');
+    const container = document.getElementById('match-content');
+
+    if (!home || !away) {
+      container.innerHTML = `<div class="state-msg">No match specified. <a href="index.html" style="color:var(--turf);">Return home</a>.</div>`;
+      return;
+    }
+
+    try {
+      const [fixturesRes, predictionsRes] = await Promise.all([
+        fetch('data/fixtures.json', { cache: 'no-store' }),
+        fetch('data/predictions.json', { cache: 'no-store' }),
+      ]);
+      const fixturesData = fixturesRes.ok ? await fixturesRes.json() : { competitions: {} };
+      const predictionsData = predictionsRes.ok ? await predictionsRes.json() : { predictions: [] };
+
+      const curated = (predictionsData.predictions || []).find(
+        (p) => p.homeTeam === home && p.awayTeam === away
+      );
+
+      let fixtureMeta = null;
+      Object.entries(fixturesData.competitions || {}).forEach(([code, comp]) => {
+        (comp.fixtures || []).forEach((f) => {
+          if (f.homeTeam === home && f.awayTeam === away) fixtureMeta = { ...f, code };
+        });
+      });
+
+      document.title = `${home} vs ${away} — Onside Data`;
+      const kickoff = fixtureMeta ? new Date(fixtureMeta.utcDate).toLocaleString(undefined, { weekday: 'long', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : (curated ? curated.date : 'Date TBC');
+      const compName = curated?.competition || fixtureMeta?.code || '';
+
+      const freeContent = curated
+        ? `<h2>Head-to-Head</h2><p>${curated.headToHead || 'No recent meetings on record.'}</p><h2>Storyline</h2><p>${curated.narrative || ''}</p>`
+        : `<p>Detailed head-to-head history for this matchup hasn't been researched yet — check back closer to kickoff, or as coverage expands.</p>`;
+
+      const paidContent = curated
+        ? `<div class="locked-wall"><h3 class="display" style="font-size:22px;">Full Analysis</h3><p>${curated.prediction}</p><a href="${STRIPE_LINK}" class="unlock-btn">Unlock with Onside+ — $9/mo</a></div>`
+        : `<div class="locked-wall"><span class="auto-badge">Auto-generated from current form — not manually researched</span><h3 class="display" style="font-size:22px;">Form-Based Lean</h3><p>${autoLean(home, away, fixturesData)}</p><a href="${STRIPE_LINK}" class="unlock-btn">Unlock with Onside+ — $9/mo</a></div>`;
+
+      container.innerHTML = `
+        <div class="match-head">
+          <span class="comp-tag mono">${compName}</span>
+          <h1 class="match-title display">${home}<span class="vs">vs</span>${away}</h1>
+          <p class="match-meta">${kickoff}</p>
+        </div>
+        <div class="wrap">
+          <section class="content-section">
+            <span class="section-label free">Onside — Free</span>
+            ${freeContent}
+          </section>
+          <section class="content-section">
+            <span class="section-label paid">Beyond the Line — Paid</span>
+            ${paidContent}
+          </section>
+          <div class="disclaimer">
+            Onside Data provides sports information and statistical analysis for informational and entertainment purposes only. We are not a bookmaker and do not accept wagers. Nothing on this site constitutes betting or financial advice, and we do not guarantee outcomes.
+          </div>
+          <p style="margin-top:14px;text-align:center;"><a href="https://billing.stripe.com/p/login/dRm00j7db7JpaAVeEWcjS00" style="font-family:'IBM Plex Mono';font-size:12px;color:var(--chalk-dim);text-decoration:underline;">Manage or cancel your subscription</a></p>
+          <p style="margin-top:8px;text-align:center;"><a href="terms.html" style="font-family:'IBM Plex Mono';font-size:11.5px;color:var(--chalk-dim);text-decoration:underline;margin-right:14px;">Terms</a><a href="privacy.html" style="font-family:'IBM Plex Mono';font-size:11.5px;color:var(--chalk-dim);text-decoration:underline;">Privacy</a></p>
+        </div>
+      `;
+    } catch (err) {
+      container.innerHTML = `<div class="state-msg">Live match data not connected yet — this page needs to be hosted alongside data/fixtures.json and data/predictions.json.</div>`;
+      console.error('Onside Data match fetch error:', err);
+    }
+  }
+
+  loadMatch();
+</script>
+
+</body>
+</html>
