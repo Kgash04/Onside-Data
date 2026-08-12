@@ -98,10 +98,15 @@
     }
 
     try {
-      const res = await fetch('data/scorers.json', { cache: 'no-store' });
+      const [res, narrativesRes] = await Promise.all([
+        fetch('data/scorers.json', { cache: 'no-store' }),
+        fetch('data/player-narratives.json', { cache: 'no-store' }),
+      ]);
       if (!res.ok) throw new Error('scorers.json not found');
       const data = await res.json();
+      const narrativesData = narrativesRes.ok ? await narrativesRes.json() : { narratives: [] };
       const player = (data.players || []).find((pl) => pl.slug === slug);
+      const curated = (narrativesData.narratives || []).find((n) => n.slug === slug);
 
       if (!player) {
         container.innerHTML = `<div class="state-msg">Player not found yet — coverage is still growing. <a href="index.html" style="color:var(--turf);">Return home</a></div>`;
@@ -131,8 +136,8 @@
           <section class="content-section">
             <span class="section-label paid">Beyond the Line — Paid</span>
             <div class="locked-wall">
-              <h3 class="display" style="font-size:22px;">Form Trend & History vs. Upcoming Opponents</h3>
-              <p>How ${player.name.split(' ').pop()}'s output trends over recent matches, and history against upcoming opponents where available — unlocked with Onside+.</p>
+              <h3 class="display" style="font-size:22px;">${curated ? curated.storyline : 'Form Trend & History vs. Upcoming Opponents'}</h3>
+              <p>${curated ? curated.text : `How ${player.name.split(' ').pop()}'s output trends over recent matches, and history against upcoming opponents where available.`}</p>
               <a href="${STRIPE_LINK}" class="unlock-btn">Unlock with Onside+ — $9/mo</a>
             </div>
           </section>
