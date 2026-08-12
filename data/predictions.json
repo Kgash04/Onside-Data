@@ -15,6 +15,22 @@
       "graded": false,
       "actualResult": null,
       "correct": null
+    },
+    {
+      "id": "psg-vs-aston-villa-2026-08-12",
+      "homeTeam": "Paris Saint-Germain",
+      "awayTeam": "Aston Villa",
+      "competition": "UEFA Super Cup",
+      "date": "2026-08-12",
+      "tier": "priority",
+      "headToHead": "Just one previous meeting between these two clubs — and it was a classic. In the 2024/25 Champions League quarter-final, PSG won the first leg 3-1, then Aston Villa staged a stunning comeback in the second leg, winning 3-2 and clawing back from 5-1 down on aggregate before PSG held on to advance 5-4 on aggregate.",
+      "narrative": "European club football's traditional season-opener pits the reigning Champions League winners against the Europa League champions at a neutral venue in Salzburg, Austria. PSG are chasing back-to-back Super Cups — only Real Madrid (2016, 2017) have managed that in the modern era. Aston Villa are playing for their first Super Cup since 1982, when they beat Barcelona, and their first European trophy since a famous run to this year's Europa League title.",
+      "prediction": "PSG arrive with the sharper recent form — their last five matches include real competitive fixtures (Ligue 1 wins, a Champions League final), while Aston Villa's last five have been entirely pre-season friendlies, conceding 10 goals across that stretch including a 2-1 loss to Bayern Munich just five days before this final. That gap in competitive sharpness favors PSG heading in. But the history between these two sides is a real caution against assuming an easy PSG night — their only previous meeting produced one of the most dramatic comebacks in recent Champions League memory, and Villa have shown they're capable of turning a game on its head against this exact opponent. Reigning Ballon d'Or winner Ousmane Dembélé carries PSG's attacking threat, while Morgan Rogers, named the Europa League's best player this season, is the one Villa player capable of matching that quality individually.",
+      "predictedOutcome": "home_win",
+      "keyPlayer": "Ousmane Dembélé (PSG) — 2025 Ballon d'Or winner",
+      "graded": false,
+      "actualResult": null,
+      "correct": null
     }
   ]
 }
