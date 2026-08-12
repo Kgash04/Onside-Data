@@ -562,7 +562,8 @@
   // Map fixtures to their match page files as pages get built.
   // Key format: "hometeam|awayteam" (case-insensitive) — add an entry here each time a new match page is created.
   const MATCH_PAGES = {
-    'newcastle united|liverpool': 'newcastle-vs-liverpool.html',
+    // Standalone overrides go here if a match ever needs a fully custom page.
+    // Otherwise every fixture automatically routes to the dynamic match.html.
   };
 
   function findMatchPage(home, away) {
@@ -583,13 +584,11 @@
   // Manually maintained index of real destinations on the site.
   // Add an entry here each time a new match page or player hub is built.
   const SEARCH_PAGES = {
-    players: [
-      { name: 'Lamine Yamal', meta: 'FC Barcelona · Forward', url: 'lamine-yamal.html' },
-      { name: 'Alexander Isak', meta: 'Liverpool · Forward', url: 'alexander-isak.html' },
-    ],
-    matches: [
-      { name: 'Newcastle United vs. Liverpool', meta: 'Premier League · Matchweek 1', url: 'newcastle-vs-liverpool.html' },
-    ],
+    // Reserved for genuinely standalone editorial pages that don't fit the
+    // dynamic match/player system. Empty by default — most content routes
+    // automatically through match.html and player.html.
+    players: [],
+    matches: [],
   };
 
   let SEARCH_INDEX = [];
@@ -783,7 +782,7 @@
         <span class="team-tag">FC Barcelona · Forward</span>
         <h3 class="display">Lamine Yamal</h3>
       </div>
-      <a href="lamine-yamal.html" style="font-family:'IBM Plex Mono';font-size:12px;color:var(--turf);text-decoration:none;">View full profile &rarr;</a>
+      <a href="player.html?p=lamine-yamal" style="font-family:'IBM Plex Mono';font-size:12px;color:var(--turf);text-decoration:none;">View full profile &rarr;</a>
     </div>
     <div class="hub-body">
       <div class="stat-grid">
