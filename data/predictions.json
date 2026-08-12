@@ -1,0 +1,20 @@
+{
+  "predictions": [
+    {
+      "id": "arsenal-vs-coventry-city-2026-08-21",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Coventry City",
+      "competition": "Premier League",
+      "date": "2026-08-21",
+      "tier": "priority",
+      "headToHead": "First top-flight meeting between these two clubs in 25 years — Coventry's promotion ends a long gap in this fixture.",
+      "narrative": "Arsenal open their title defense at home against a Coventry side that won the Championship by 11 points under Frank Lampard, returning to the top flight for the first time in a quarter-century.",
+      "prediction": "William Saliba is ruled out for an extended period following a World Cup back injury, and Jurrien Timber is still working back from his own rehab — a real, specific vulnerability at center-back for a season opener. Bruno Guimarães' arrival gives Arteta a genuine midfield upgrade to lean on. The gap in overall quality clearly favors Arsenal, but the defensive absences are worth tracking, particularly if Coventry get numbers forward on the counter early.",
+      "predictedOutcome": "home_win",
+      "keyPlayer": "Bruno Guimarães (Arsenal) — full debut off the back of a £75m move",
+      "graded": false,
+      "actualResult": null,
+      "correct": null
+    }
+  ]
+}
