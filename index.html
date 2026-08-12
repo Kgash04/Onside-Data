@@ -465,6 +465,7 @@
     <div class="nav-links">
       <a href="#line-section">How it works</a>
       <a href="#fixtures">Fixtures</a>
+      <a href="track-record.html">Track Record</a>
       <a href="#player-hub">Player hubs</a>
     </div>
     <div class="nav-search-wrap">
@@ -554,7 +555,8 @@
 
   function findMatchPage(home, away) {
     const key = `${home.toLowerCase()}|${away.toLowerCase()}`;
-    return MATCH_PAGES[key] || null;
+    if (MATCH_PAGES[key]) return MATCH_PAGES[key];
+    return `match.html?home=${encodeURIComponent(home)}&away=${encodeURIComponent(away)}`;
   }
 
   const COMP_NAMES = { PL: 'Premier League', PD: 'La Liga', BL1: 'Bundesliga', SA: 'Serie A', FL1: 'Ligue 1', CL: 'Champions League' };
