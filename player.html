@@ -84,34 +84,6 @@
   const STRIPE_LINK = 'https://buy.stripe.com/dRm00j7db7JpaAVeEWcjS00';
   const PORTAL_LINK = 'https://billing.stripe.com/p/login/dRm00j7db7JpaAVeEWcjS00';
 
-  // Position-based stat templates — each returns the 4 stat cells shown in the free section
-  const TEMPLATES = {
-    attacker: (p) => [
-      { num: p.goals, label: 'Goals' },
-      { num: p.assists, label: 'Assists' },
-      { num: p.shotsPer90, label: 'Shots / 90' },
-      { num: p.shotsOnTargetPer90, label: 'Shots on Target / 90' },
-    ],
-    midfielder: (p) => [
-      { num: p.assists, label: 'Assists' },
-      { num: p.keyPassesPer90, label: 'Key Passes / 90' },
-      { num: p.passAccuracy ? p.passAccuracy + '%' : '—', label: 'Pass Accuracy' },
-      { num: p.tacklesPer90 + p.interceptionsPer90, label: 'Tackles + INT / 90' },
-    ],
-    defender: (p) => [
-      { num: p.tacklesPer90, label: 'Tackles / 90' },
-      { num: p.interceptionsPer90, label: 'Interceptions / 90' },
-      { num: p.goals, label: 'Goals' },
-      { num: p.assists, label: 'Assists' },
-    ],
-    goalkeeper: (p) => [
-      { num: p.saves, label: 'Saves' },
-      { num: p.goalsConceded, label: 'Goals Conceded' },
-      { num: p.appearances, label: 'Appearances' },
-      { num: p.minutes, label: 'Minutes Played' },
-    ],
-  };
-
   function getParam(name) {
     return new URLSearchParams(window.location.search).get(name);
   }
@@ -126,8 +98,8 @@
     }
 
     try {
-      const res = await fetch('data/players.json', { cache: 'no-store' });
-      if (!res.ok) throw new Error('players.json not found');
+      const res = await fetch('data/scorers.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error('scorers.json not found');
       const data = await res.json();
       const player = (data.players || []).find((pl) => pl.slug === slug);
 
@@ -137,20 +109,23 @@
       }
 
       document.title = `${player.name} — Onside Data`;
-      const statCells = (TEMPLATES[player.template] || TEMPLATES.midfielder)(player);
+      const updatedStr = data.lastUpdated ? new Date(data.lastUpdated).toLocaleString() : '';
 
       container.innerHTML = `
         <div class="hub-head">
-          <span class="team-tag mono">${player.team} · ${player.position}</span>
+          <span class="team-tag mono">${player.team} · ${player.league}</span>
           <h1 class="player-title display">${player.name}</h1>
-          <p class="player-meta">${player.league} ${player.age ? `· Age ${player.age}` : ''}</p>
+          <p class="player-meta">${player.nationality || ''} ${updatedStr ? `· Stats refreshed ${updatedStr}` : ''}</p>
         </div>
         <div class="wrap">
           <section class="content-section">
             <span class="section-label free">Onside — Free</span>
-            <p>Season stats for ${player.name}, updated automatically as ${player.team}'s season progresses.</p>
+            <p>Current-season stats for ${player.name}, refreshed automatically as the season progresses.</p>
             <div class="stat-grid">
-              ${statCells.map((c) => `<div class="stat-cell"><div class="num">${c.num}</div><div class="label">${c.label}</div></div>`).join('')}
+              <div class="stat-cell"><div class="num">${player.goals}</div><div class="label">Goals</div></div>
+              <div class="stat-cell"><div class="num">${player.assists}</div><div class="label">Assists</div></div>
+              <div class="stat-cell"><div class="num">${player.penalties}</div><div class="label">Penalties</div></div>
+              <div class="stat-cell"><div class="num">${player.playedMatches}</div><div class="label">Matches Played</div></div>
             </div>
           </section>
           <section class="content-section">
@@ -168,7 +143,7 @@
         </div>
       `;
     } catch (err) {
-      container.innerHTML = `<div class="state-msg">Live player data not connected yet — this page needs to be hosted alongside data/players.json.</div>`;
+      container.innerHTML = `<div class="state-msg">Live player data not connected yet — this page needs to be hosted alongside data/scorers.json.</div>`;
       console.error('Onside Data player fetch error:', err);
     }
   }
