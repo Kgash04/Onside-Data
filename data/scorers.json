@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-08-15T14:51:16.511Z",
+  "lastUpdated": "2026-08-15T20:51:10.008Z",
   "players": [
+    {
+      "slug": "nahuel-tenaglia",
+      "name": "Nahuel Tenaglia",
+      "team": "Deportivo Alavés",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Argentina",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "mariano-d-az",
+      "name": "Mariano Díaz",
+      "team": "Deportivo Alavés",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Dominican Republic",
+      "goals": 1,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "mikel-rodr-guez",
+      "name": "Mikel Rodríguez",
+      "team": "Deportivo Alavés",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "lvaro-garc-a",
+      "name": "Álvaro García",
+      "team": "Rayo Vallecano de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
     {
       "slug": "kylian-mbapp",
       "name": "Kylian Mbappé",
