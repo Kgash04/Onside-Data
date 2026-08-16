@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T14:26:53.729Z",
+  "lastUpdated": "2026-08-16T20:26:03.390Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,20 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Real Racing Club de Santander",
-          "awayTeam": "Villarreal CF",
-          "utcDate": "2026-08-16T15:00:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "RCD Espanyol de Barcelona",
-          "awayTeam": "Levante UD",
-          "utcDate": "2026-08-16T17:00:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "RC Deportivo La Coruña",
           "awayTeam": "Elche CF",
           "utcDate": "2026-08-17T19:00:00Z",
@@ -472,6 +458,20 @@
           "utcDate": "2026-08-28T19:30:00Z",
           "matchday": 3,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Levante UD",
+          "awayTeam": "Real Betis Balompié",
+          "utcDate": "2026-08-29T15:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Sociedad de Fútbol",
+          "awayTeam": "RCD Espanyol de Barcelona",
+          "utcDate": "2026-08-29T17:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -485,8 +485,8 @@
           "points": 3
         },
         {
-          "position": 2,
-          "team": "Sevilla FC",
+          "position": 1,
+          "team": "RCD Espanyol de Barcelona",
           "played": 1,
           "won": 1,
           "draw": 0,
@@ -495,6 +495,33 @@
         },
         {
           "position": 3,
+          "team": "Sevilla FC",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3
+        },
+        {
+          "position": 4,
+          "team": "Real Racing Club de Santander",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 4,
+          "team": "Villarreal CF",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 6,
           "team": "Athletic Club",
           "played": 0,
           "won": 0,
@@ -503,7 +530,7 @@
           "points": 0
         },
         {
-          "position": 3,
+          "position": 6,
           "team": "Club Atlético de Madrid",
           "played": 0,
           "won": 0,
@@ -512,7 +539,7 @@
           "points": 0
         },
         {
-          "position": 3,
+          "position": 6,
           "team": "CA Osasuna",
           "played": 0,
           "won": 0,
@@ -521,7 +548,7 @@
           "points": 0
         },
         {
-          "position": 3,
+          "position": 6,
           "team": "RC Deportivo La Coruña",
           "played": 0,
           "won": 0,
@@ -530,7 +557,7 @@
           "points": 0
         },
         {
-          "position": 3,
+          "position": 6,
           "team": "Elche CF",
           "played": 0,
           "won": 0,
@@ -539,16 +566,7 @@
           "points": 0
         },
         {
-          "position": 3,
-          "team": "RCD Espanyol de Barcelona",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 3,
+          "position": 6,
           "team": "FC Barcelona",
           "played": 0,
           "won": 0,
@@ -557,16 +575,7 @@
           "points": 0
         },
         {
-          "position": 3,
-          "team": "Levante UD",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 3,
+          "position": 6,
           "team": "Málaga CF",
           "played": 0,
           "won": 0,
@@ -575,16 +584,7 @@
           "points": 0
         },
         {
-          "position": 3,
-          "team": "Real Racing Club de Santander",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 3,
+          "position": 6,
           "team": "RC Celta de Vigo",
           "played": 0,
           "won": 0,
@@ -593,7 +593,7 @@
           "points": 0
         },
         {
-          "position": 3,
+          "position": 6,
           "team": "Real Betis Balompié",
           "played": 0,
           "won": 0,
@@ -602,7 +602,7 @@
           "points": 0
         },
         {
-          "position": 3,
+          "position": 6,
           "team": "Real Madrid CF",
           "played": 0,
           "won": 0,
@@ -611,7 +611,7 @@
           "points": 0
         },
         {
-          "position": 3,
+          "position": 6,
           "team": "Real Sociedad de Fútbol",
           "played": 0,
           "won": 0,
@@ -620,7 +620,7 @@
           "points": 0
         },
         {
-          "position": 3,
+          "position": 6,
           "team": "Valencia CF",
           "played": 0,
           "won": 0,
@@ -629,16 +629,7 @@
           "points": 0
         },
         {
-          "position": 3,
-          "team": "Villarreal CF",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 19,
+          "position": 18,
           "team": "Rayo Vallecano de Madrid",
           "played": 1,
           "won": 0,
@@ -647,8 +638,17 @@
           "points": 0
         },
         {
-          "position": 20,
+          "position": 19,
           "team": "Getafe CF",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 19,
+          "team": "Levante UD",
           "played": 1,
           "won": 0,
           "draw": 0,
