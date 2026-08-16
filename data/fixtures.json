@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T20:26:11.206Z",
+  "lastUpdated": "2026-08-16T06:45:08.087Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -486,7 +486,7 @@
         },
         {
           "position": 2,
-          "team": "Rayo Vallecano de Madrid",
+          "team": "Sevilla FC",
           "played": 1,
           "won": 1,
           "draw": 0,
@@ -639,7 +639,7 @@
         },
         {
           "position": 19,
-          "team": "Sevilla FC",
+          "team": "Rayo Vallecano de Madrid",
           "played": 1,
           "won": 0,
           "draw": 0,
