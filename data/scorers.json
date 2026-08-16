@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T20:51:10.008Z",
+  "lastUpdated": "2026-08-16T07:10:17.727Z",
   "players": [
     {
       "slug": "nahuel-tenaglia",
@@ -47,6 +47,30 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "jon-guridi",
+      "name": "Jon Guridi",
+      "team": "Sevilla FC",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 1
+    },
+    {
+      "slug": "peque",
+      "name": "Peque",
+      "team": "Sevilla FC",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 1,
       "playedMatches": 1
     },
     {
