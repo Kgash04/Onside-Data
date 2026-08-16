@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-08-16T14:51:38.035Z",
+  "lastUpdated": "2026-08-16T20:50:21.703Z",
   "players": [
+    {
+      "slug": "roberto-fern-ndez",
+      "name": "Roberto Fernández",
+      "team": "RCD Espanyol de Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
     {
       "slug": "nahuel-tenaglia",
       "name": "Nahuel Tenaglia",
@@ -71,6 +83,66 @@
       "goals": 1,
       "assists": 0,
       "penalties": 1,
+      "playedMatches": 1
+    },
+    {
+      "slug": "andr-s-mart-n",
+      "name": "Andrés Martín",
+      "team": "Real Racing Club de Santander",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 1
+    },
+    {
+      "slug": "sergio-mart-nez",
+      "name": "Sergio Martínez",
+      "team": "Real Racing Club de Santander",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "pape-gueye",
+      "name": "Pape Gueye",
+      "team": "Villarreal CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Senegal",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "nicolas-p-p",
+      "name": "Nicolas Pépé",
+      "team": "Villarreal CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Ivory Coast",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "tyrhys-dolan",
+      "name": "Tyrhys Dolan",
+      "team": "RCD Espanyol de Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "England",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
       "playedMatches": 1
     },
     {
