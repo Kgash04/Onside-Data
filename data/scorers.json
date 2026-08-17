@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T14:56:12.097Z",
+  "lastUpdated": "2026-08-17T20:56:35.693Z",
   "players": [
     {
       "slug": "roberto-fern-ndez",
@@ -140,6 +140,30 @@
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "England",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "pierre-emerick-aubameyang",
+      "name": "Pierre-Emerick Aubameyang",
+      "team": "RC Deportivo La Coruña",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Gabon",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "marc-aguado",
+      "name": "Marc Aguado",
+      "team": "Elche CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
