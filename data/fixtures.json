@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T14:31:01.870Z",
+  "lastUpdated": "2026-08-17T20:30:32.947Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,13 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "RC Deportivo La Coruña",
-          "awayTeam": "Elche CF",
-          "utcDate": "2026-08-17T19:00:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Club Atlético de Madrid",
           "awayTeam": "Málaga CF",
           "utcDate": "2026-08-19T19:00:00Z",
@@ -472,6 +465,13 @@
           "utcDate": "2026-08-29T17:00:00Z",
           "matchday": 3,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Sevilla FC",
+          "awayTeam": "Club Atlético de Madrid",
+          "utcDate": "2026-08-29T19:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -504,6 +504,15 @@
         },
         {
           "position": 4,
+          "team": "RC Deportivo La Coruña",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3
+        },
+        {
+          "position": 5,
           "team": "Real Racing Club de Santander",
           "played": 1,
           "won": 0,
@@ -512,7 +521,7 @@
           "points": 1
         },
         {
-          "position": 4,
+          "position": 5,
           "team": "Villarreal CF",
           "played": 1,
           "won": 0,
@@ -521,7 +530,7 @@
           "points": 1
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Athletic Club",
           "played": 0,
           "won": 0,
@@ -530,7 +539,7 @@
           "points": 0
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Club Atlético de Madrid",
           "played": 0,
           "won": 0,
@@ -539,7 +548,7 @@
           "points": 0
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "CA Osasuna",
           "played": 0,
           "won": 0,
@@ -548,25 +557,7 @@
           "points": 0
         },
         {
-          "position": 6,
-          "team": "RC Deportivo La Coruña",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 6,
-          "team": "Elche CF",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 6,
+          "position": 7,
           "team": "FC Barcelona",
           "played": 0,
           "won": 0,
@@ -575,7 +566,7 @@
           "points": 0
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Málaga CF",
           "played": 0,
           "won": 0,
@@ -584,7 +575,7 @@
           "points": 0
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "RC Celta de Vigo",
           "played": 0,
           "won": 0,
@@ -593,7 +584,7 @@
           "points": 0
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Real Betis Balompié",
           "played": 0,
           "won": 0,
@@ -602,7 +593,7 @@
           "points": 0
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Real Madrid CF",
           "played": 0,
           "won": 0,
@@ -611,7 +602,7 @@
           "points": 0
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Real Sociedad de Fútbol",
           "played": 0,
           "won": 0,
@@ -620,7 +611,7 @@
           "points": 0
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Valencia CF",
           "played": 0,
           "won": 0,
@@ -629,8 +620,17 @@
           "points": 0
         },
         {
-          "position": 18,
+          "position": 17,
           "team": "Rayo Vallecano de Madrid",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 18,
+          "team": "Elche CF",
           "played": 1,
           "won": 0,
           "draw": 0,
