@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T20:27:47.251Z",
+  "lastUpdated": "2026-08-19T06:49:52.694Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -1300,144 +1300,144 @@
       "name": "Ligue 1",
       "fixtures": [
         {
-          "homeTeam": "AJ Auxerre",
-          "awayTeam": "Stade Brestois 29",
-          "utcDate": "2026-09-19T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Le Mans FC",
-          "awayTeam": "FC Lorient",
-          "utcDate": "2026-09-19T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "OGC Nice",
-          "awayTeam": "Lille OSC",
-          "utcDate": "2026-09-19T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Paris FC",
+          "homeTeam": "Olympique de Marseille",
           "awayTeam": "RC Strasbourg Alsace",
-          "utcDate": "2026-09-19T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Toulouse FC",
-          "awayTeam": "Le Havre AC",
-          "utcDate": "2026-09-19T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Angers SCO",
-          "awayTeam": "ES Troyes AC",
-          "utcDate": "2026-09-19T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "AS Monaco FC",
-          "awayTeam": "Racing Club de Lens",
-          "utcDate": "2026-09-19T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Olympique Lyonnais",
-          "awayTeam": "Stade Rennais FC 1901",
-          "utcDate": "2026-09-19T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Stade Brestois 29",
-          "awayTeam": "Angers SCO",
-          "utcDate": "2026-10-10T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Stade Rennais FC 1901",
-          "awayTeam": "AJ Auxerre",
-          "utcDate": "2026-10-10T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "FC Lorient",
-          "awayTeam": "Paris FC",
-          "utcDate": "2026-10-10T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "utcDate": "2026-08-21T18:45:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Racing Club de Lens",
-          "awayTeam": "Olympique Lyonnais",
-          "utcDate": "2026-10-10T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "awayTeam": "AJ Auxerre",
+          "utcDate": "2026-08-22T15:15:00Z",
+          "matchday": 1,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Le Mans FC",
+          "awayTeam": "Stade Brestois 29",
+          "utcDate": "2026-08-22T18:45:00Z",
+          "matchday": 1,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "ES Troyes AC",
+          "awayTeam": "Paris FC",
+          "utcDate": "2026-08-22T18:45:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
           "homeTeam": "OGC Nice",
-          "awayTeam": "RC Strasbourg Alsace",
-          "utcDate": "2026-10-10T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "awayTeam": "FC Lorient",
+          "utcDate": "2026-08-22T18:45:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
-          "homeTeam": "ES Troyes AC",
-          "awayTeam": "Olympique de Marseille",
-          "utcDate": "2026-10-10T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "homeTeam": "Toulouse FC",
+          "awayTeam": "Olympique Lyonnais",
+          "utcDate": "2026-08-22T18:45:00Z",
+          "matchday": 1,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Angers SCO",
+          "awayTeam": "Lille OSC",
+          "utcDate": "2026-08-23T13:00:00Z",
+          "matchday": 1,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Le Havre AC",
+          "awayTeam": "AS Monaco FC",
+          "utcDate": "2026-08-23T15:15:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Paris Saint-Germain FC",
-          "awayTeam": "Le Mans FC",
-          "utcDate": "2026-10-10T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "AS Monaco FC",
-          "awayTeam": "Toulouse FC",
-          "utcDate": "2026-10-10T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "awayTeam": "Stade Rennais FC 1901",
+          "utcDate": "2026-08-23T18:45:00Z",
+          "matchday": 1,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Lille OSC",
-          "awayTeam": "Le Havre AC",
-          "utcDate": "2026-10-10T00:00:00Z",
-          "matchday": 6,
-          "status": "SCHEDULED"
+          "awayTeam": "Paris Saint-Germain FC",
+          "utcDate": "2026-08-28T18:45:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Strasbourg Alsace",
+          "awayTeam": "Racing Club de Lens",
+          "utcDate": "2026-08-29T15:15:00Z",
+          "matchday": 2,
+          "status": "TIMED"
         },
         {
           "homeTeam": "FC Lorient",
-          "awayTeam": "AS Monaco FC",
-          "utcDate": "2026-10-17T00:00:00Z",
-          "matchday": 7,
-          "status": "SCHEDULED"
+          "awayTeam": "ES Troyes AC",
+          "utcDate": "2026-08-29T18:45:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Olympique Lyonnais",
+          "awayTeam": "Le Havre AC",
+          "utcDate": "2026-08-29T18:45:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "AJ Auxerre",
+          "awayTeam": "Angers SCO",
+          "utcDate": "2026-08-29T18:45:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Stade Brestois 29",
+          "awayTeam": "Toulouse FC",
+          "utcDate": "2026-08-29T18:45:00Z",
+          "matchday": 2,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Paris FC",
-          "awayTeam": "Stade Rennais FC 1901",
-          "utcDate": "2026-10-17T00:00:00Z",
-          "matchday": 7,
-          "status": "SCHEDULED"
+          "awayTeam": "OGC Nice",
+          "utcDate": "2026-08-30T13:00:00Z",
+          "matchday": 2,
+          "status": "TIMED"
         },
         {
-          "homeTeam": "ES Troyes AC",
-          "awayTeam": "Racing Club de Lens",
-          "utcDate": "2026-10-17T00:00:00Z",
-          "matchday": 7,
-          "status": "SCHEDULED"
+          "homeTeam": "Stade Rennais FC 1901",
+          "awayTeam": "Le Mans FC",
+          "utcDate": "2026-08-30T15:15:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "AS Monaco FC",
+          "awayTeam": "Olympique de Marseille",
+          "utcDate": "2026-08-30T18:45:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Toulouse FC",
+          "awayTeam": "Lille OSC",
+          "utcDate": "2026-09-03T18:45:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Olympique Lyonnais",
+          "awayTeam": "AJ Auxerre",
+          "utcDate": "2026-09-04T17:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
         }
       ],
       "standings": [
