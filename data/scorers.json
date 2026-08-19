@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T15:03:53.353Z",
+  "lastUpdated": "2026-08-19T20:56:36.918Z",
   "players": [
     {
       "slug": "roberto-fern-ndez",
@@ -161,6 +161,30 @@
       "slug": "marc-aguado",
       "name": "Marc Aguado",
       "team": "Elche CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "kang-in-lee",
+      "name": "Kang-in Lee",
+      "team": "Club Atlético de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "South Korea",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "lex-baena",
+      "name": "Álex Baena",
+      "team": "Club Atlético de Madrid",
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Spain",
