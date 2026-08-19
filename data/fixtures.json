@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T14:37:24.660Z",
+  "lastUpdated": "2026-08-19T20:32:20.001Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,13 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Club Atlético de Madrid",
-          "awayTeam": "Málaga CF",
-          "utcDate": "2026-08-19T19:00:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Rayo Vallecano de Madrid",
           "awayTeam": "Deportivo Alavés",
           "utcDate": "2026-08-20T19:00:00Z",
@@ -472,6 +465,13 @@
           "utcDate": "2026-08-29T19:30:00Z",
           "matchday": 3,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Madrid CF",
+          "awayTeam": "Málaga CF",
+          "utcDate": "2026-08-30T15:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -540,6 +540,24 @@
         },
         {
           "position": 8,
+          "team": "Club Atlético de Madrid",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 8,
+          "team": "Málaga CF",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 10,
           "team": "Athletic Club",
           "played": 0,
           "won": 0,
@@ -548,16 +566,7 @@
           "points": 0
         },
         {
-          "position": 8,
-          "team": "Club Atlético de Madrid",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 8,
+          "position": 10,
           "team": "CA Osasuna",
           "played": 0,
           "won": 0,
@@ -566,7 +575,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 10,
           "team": "FC Barcelona",
           "played": 0,
           "won": 0,
@@ -575,16 +584,7 @@
           "points": 0
         },
         {
-          "position": 8,
-          "team": "Málaga CF",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 8,
+          "position": 10,
           "team": "RC Celta de Vigo",
           "played": 0,
           "won": 0,
@@ -593,7 +593,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 10,
           "team": "Real Betis Balompié",
           "played": 0,
           "won": 0,
@@ -602,7 +602,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 10,
           "team": "Real Madrid CF",
           "played": 0,
           "won": 0,
@@ -611,7 +611,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 10,
           "team": "Real Sociedad de Fútbol",
           "played": 0,
           "won": 0,
@@ -620,7 +620,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 10,
           "team": "Valencia CF",
           "played": 0,
           "won": 0,
