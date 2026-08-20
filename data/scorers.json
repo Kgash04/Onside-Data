@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-08-20T15:07:13.159Z",
+  "lastUpdated": "2026-08-20T20:58:34.449Z",
   "players": [
+    {
+      "slug": "mariano-d-az",
+      "name": "Mariano Díaz",
+      "team": "Deportivo Alavés",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Dominican Republic",
+      "goals": 2,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 2
+    },
     {
       "slug": "roberto-fern-ndez",
       "name": "Roberto Fernández",
@@ -23,19 +35,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "mariano-d-az",
-      "name": "Mariano Díaz",
-      "team": "Deportivo Alavés",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Dominican Republic",
-      "goals": 1,
-      "assists": 2,
-      "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "mikel-rodr-guez",
@@ -47,7 +47,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "lvaro-garc-a",
@@ -59,7 +59,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "jon-guridi",
@@ -192,6 +192,18 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 1
+    },
+    {
+      "slug": "sergio-camello",
+      "name": "Sergio Camello",
+      "team": "Rayo Vallecano de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
     },
     {
       "slug": "kylian-mbapp",
