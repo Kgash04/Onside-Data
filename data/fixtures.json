@@ -1,17 +1,10 @@
 {
-  "lastUpdated": "2026-08-21T14:38:38.043Z",
+  "lastUpdated": "2026-08-21T20:29:18.741Z",
   "competitions": {
     "PL": {
       "code": "PL",
       "name": "Premier League",
       "fixtures": [
-        {
-          "homeTeam": "Arsenal FC",
-          "awayTeam": "Coventry City FC",
-          "utcDate": "2026-08-21T19:00:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Hull City AFC",
           "awayTeam": "Manchester United FC",
@@ -144,11 +137,27 @@
           "utcDate": "2026-08-31T19:00:00Z",
           "matchday": 2,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Ipswich Town FC",
+          "awayTeam": "Liverpool FC",
+          "utcDate": "2026-09-04T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
+          "team": "Arsenal FC",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3
+        },
+        {
+          "position": 2,
           "team": "AFC Bournemouth",
           "played": 0,
           "won": 0,
@@ -157,16 +166,7 @@
           "points": 0
         },
         {
-          "position": 1,
-          "team": "Arsenal FC",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
+          "position": 2,
           "team": "Aston Villa FC",
           "played": 0,
           "won": 0,
@@ -175,7 +175,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Brentford FC",
           "played": 0,
           "won": 0,
@@ -184,7 +184,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Brighton & Hove Albion FC",
           "played": 0,
           "won": 0,
@@ -193,7 +193,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Chelsea FC",
           "played": 0,
           "won": 0,
@@ -202,16 +202,7 @@
           "points": 0
         },
         {
-          "position": 1,
-          "team": "Coventry City FC",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
+          "position": 2,
           "team": "Crystal Palace FC",
           "played": 0,
           "won": 0,
@@ -220,7 +211,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Everton FC",
           "played": 0,
           "won": 0,
@@ -229,7 +220,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Fulham FC",
           "played": 0,
           "won": 0,
@@ -238,7 +229,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Hull City AFC",
           "played": 0,
           "won": 0,
@@ -247,7 +238,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Ipswich Town FC",
           "played": 0,
           "won": 0,
@@ -256,7 +247,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Leeds United FC",
           "played": 0,
           "won": 0,
@@ -265,7 +256,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Liverpool FC",
           "played": 0,
           "won": 0,
@@ -274,7 +265,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Manchester City FC",
           "played": 0,
           "won": 0,
@@ -283,7 +274,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Manchester United FC",
           "played": 0,
           "won": 0,
@@ -292,7 +283,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Newcastle United FC",
           "played": 0,
           "won": 0,
@@ -301,7 +292,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Nottingham Forest FC",
           "played": 0,
           "won": 0,
@@ -310,7 +301,7 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Sunderland AFC",
           "played": 0,
           "won": 0,
@@ -319,12 +310,21 @@
           "points": 0
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Tottenham Hotspur FC",
           "played": 0,
           "won": 0,
           "draw": 0,
           "lost": 0,
+          "points": 0
+        },
+        {
+          "position": 20,
+          "team": "Coventry City FC",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
           "points": 0
         }
       ]
@@ -333,13 +333,6 @@
       "code": "PD",
       "name": "La Liga",
       "fixtures": [
-        {
-          "homeTeam": "Real Betis Balompié",
-          "awayTeam": "Real Sociedad de Fútbol",
-          "utcDate": "2026-08-21T19:00:00Z",
-          "matchday": 2,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Athletic Club",
           "awayTeam": "Sevilla FC",
@@ -472,6 +465,13 @@
           "utcDate": "2026-08-30T17:30:00Z",
           "matchday": 3,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Celta de Vigo",
+          "awayTeam": "Athletic Club",
+          "utcDate": "2026-08-30T19:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -549,6 +549,24 @@
         },
         {
           "position": 9,
+          "team": "Real Betis Balompié",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 9,
+          "team": "Real Sociedad de Fútbol",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 11,
           "team": "Rayo Vallecano de Madrid",
           "played": 2,
           "won": 0,
@@ -557,7 +575,7 @@
           "points": 1
         },
         {
-          "position": 10,
+          "position": 12,
           "team": "Athletic Club",
           "played": 0,
           "won": 0,
@@ -566,7 +584,7 @@
           "points": 0
         },
         {
-          "position": 10,
+          "position": 12,
           "team": "CA Osasuna",
           "played": 0,
           "won": 0,
@@ -575,7 +593,7 @@
           "points": 0
         },
         {
-          "position": 10,
+          "position": 12,
           "team": "FC Barcelona",
           "played": 0,
           "won": 0,
@@ -584,7 +602,7 @@
           "points": 0
         },
         {
-          "position": 10,
+          "position": 12,
           "team": "RC Celta de Vigo",
           "played": 0,
           "won": 0,
@@ -593,16 +611,7 @@
           "points": 0
         },
         {
-          "position": 10,
-          "team": "Real Betis Balompié",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 10,
+          "position": 12,
           "team": "Real Madrid CF",
           "played": 0,
           "won": 0,
@@ -611,16 +620,7 @@
           "points": 0
         },
         {
-          "position": 10,
-          "team": "Real Sociedad de Fútbol",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 10,
+          "position": 12,
           "team": "Valencia CF",
           "played": 0,
           "won": 0,
@@ -1300,13 +1300,6 @@
       "name": "Ligue 1",
       "fixtures": [
         {
-          "homeTeam": "Olympique de Marseille",
-          "awayTeam": "RC Strasbourg Alsace",
-          "utcDate": "2026-08-21T18:45:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Racing Club de Lens",
           "awayTeam": "AJ Auxerre",
           "utcDate": "2026-08-22T15:15:00Z",
@@ -1436,6 +1429,13 @@
           "homeTeam": "Olympique Lyonnais",
           "awayTeam": "AJ Auxerre",
           "utcDate": "2026-09-04T17:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Paris Saint-Germain FC",
+          "awayTeam": "AS Monaco FC",
+          "utcDate": "2026-09-04T19:05:00Z",
           "matchday": 3,
           "status": "TIMED"
         }
