@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-08-21T15:05:45.823Z",
+  "lastUpdated": "2026-08-21T20:52:46.795Z",
   "players": [
+    {
+      "slug": "kai-havertz",
+      "name": "Kai Havertz",
+      "team": "Arsenal FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Germany",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "bukayo-saka",
+      "name": "Bukayo Saka",
+      "team": "Arsenal FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "England",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "martin-degaard",
+      "name": "Martin Ødegaard",
+      "team": "Arsenal FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Norway",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
     {
       "slug": "mariano-d-az",
       "name": "Mariano Díaz",
@@ -204,6 +240,54 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 2
+    },
+    {
+      "slug": "rodrigo-riquelme",
+      "name": "Rodrigo Riquelme",
+      "team": "Real Betis Balompié",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "amine-gouiri",
+      "name": "Amine Gouiri",
+      "team": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Algeria",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 1
+    },
+    {
+      "slug": "keyliane-abdallah",
+      "name": "Keyliane Abdallah",
+      "team": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "France",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "pierre-emile-h-jbjerg",
+      "name": "Pierre Emile Højbjerg",
+      "team": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Denmark",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
     },
     {
       "slug": "kylian-mbapp",
