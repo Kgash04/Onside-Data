@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T07:11:03.164Z",
+  "lastUpdated": "2026-08-22T14:50:56.985Z",
   "players": [
     {
       "slug": "kai-havertz",
@@ -32,6 +32,66 @@
       "league": "Premier League",
       "leagueCode": "PL",
       "nationality": "Norway",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "semi-ajayi",
+      "name": "Semi Ajayi",
+      "team": "Hull City AFC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Nigeria",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "nobel-mendy",
+      "name": "Nobel Mendy",
+      "team": "Hull City AFC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Senegal",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "emersonn",
+      "name": "Emersonn",
+      "team": "Ipswich Town FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Brazil",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "nilson-angulo",
+      "name": "Nilson Angulo",
+      "team": "Sunderland AFC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Ecuador",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "kiernan-dewsbury-hall",
+      "name": "Kiernan Dewsbury Hall",
+      "team": "Everton FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "England",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
@@ -107,7 +167,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "peque",
@@ -119,7 +179,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "andr-s-mart-n",
