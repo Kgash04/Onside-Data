@@ -1,24 +1,10 @@
 {
-  "lastUpdated": "2026-08-23T06:46:35.369Z",
+  "lastUpdated": "2026-08-23T14:26:40.825Z",
   "competitions": {
     "PL": {
       "code": "PL",
       "name": "Premier League",
       "fixtures": [
-        {
-          "homeTeam": "Manchester City FC",
-          "awayTeam": "AFC Bournemouth",
-          "utcDate": "2026-08-23T13:00:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Brighton & Hove Albion FC",
-          "awayTeam": "Aston Villa FC",
-          "utcDate": "2026-08-23T13:00:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Newcastle United FC",
           "awayTeam": "Liverpool FC",
@@ -144,11 +130,34 @@
           "utcDate": "2026-09-05T14:00:00Z",
           "matchday": 3,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Fulham FC",
+          "awayTeam": "Crystal Palace FC",
+          "utcDate": "2026-09-05T14:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Hull City AFC",
+          "awayTeam": "Aston Villa FC",
+          "utcDate": "2026-09-05T16:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
+          "team": "Brighton & Hove Albion FC",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3
+        },
+        {
+          "position": 2,
           "team": "Arsenal FC",
           "played": 1,
           "won": 1,
@@ -157,7 +166,7 @@
           "points": 3
         },
         {
-          "position": 1,
+          "position": 2,
           "team": "Brentford FC",
           "played": 1,
           "won": 1,
@@ -166,7 +175,7 @@
           "points": 3
         },
         {
-          "position": 3,
+          "position": 4,
           "team": "Everton FC",
           "played": 1,
           "won": 1,
@@ -175,7 +184,7 @@
           "points": 3
         },
         {
-          "position": 3,
+          "position": 4,
           "team": "Hull City AFC",
           "played": 1,
           "won": 1,
@@ -184,17 +193,8 @@
           "points": 3
         },
         {
-          "position": 5,
-          "team": "Ipswich Town FC",
-          "played": 1,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "points": 3
-        },
-        {
           "position": 6,
-          "team": "Leeds United FC",
+          "team": "Ipswich Town FC",
           "played": 1,
           "won": 1,
           "draw": 0,
@@ -204,32 +204,23 @@
         {
           "position": 7,
           "team": "AFC Bournemouth",
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "draw": 0,
           "lost": 0,
-          "points": 0
+          "points": 3
         },
         {
           "position": 7,
-          "team": "Aston Villa FC",
-          "played": 0,
-          "won": 0,
+          "team": "Leeds United FC",
+          "played": 1,
+          "won": 1,
           "draw": 0,
           "lost": 0,
-          "points": 0
+          "points": 3
         },
         {
-          "position": 7,
-          "team": "Brighton & Hove Albion FC",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 7,
+          "position": 9,
           "team": "Chelsea FC",
           "played": 0,
           "won": 0,
@@ -238,7 +229,7 @@
           "points": 0
         },
         {
-          "position": 7,
+          "position": 9,
           "team": "Fulham FC",
           "played": 0,
           "won": 0,
@@ -247,7 +238,7 @@
           "points": 0
         },
         {
-          "position": 7,
+          "position": 9,
           "team": "Liverpool FC",
           "played": 0,
           "won": 0,
@@ -256,16 +247,7 @@
           "points": 0
         },
         {
-          "position": 7,
-          "team": "Manchester City FC",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 7,
+          "position": 9,
           "team": "Newcastle United FC",
           "played": 0,
           "won": 0,
@@ -274,7 +256,7 @@
           "points": 0
         },
         {
-          "position": 15,
+          "position": 13,
           "team": "Sunderland AFC",
           "played": 1,
           "won": 0,
@@ -283,7 +265,16 @@
           "points": 0
         },
         {
-          "position": 16,
+          "position": 14,
+          "team": "Manchester City FC",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 14,
           "team": "Nottingham Forest FC",
           "played": 1,
           "won": 0,
@@ -292,7 +283,7 @@
           "points": 0
         },
         {
-          "position": 17,
+          "position": 16,
           "team": "Crystal Palace FC",
           "played": 1,
           "won": 0,
@@ -301,7 +292,7 @@
           "points": 0
         },
         {
-          "position": 17,
+          "position": 16,
           "team": "Manchester United FC",
           "played": 1,
           "won": 0,
@@ -310,7 +301,7 @@
           "points": 0
         },
         {
-          "position": 19,
+          "position": 18,
           "team": "Coventry City FC",
           "played": 1,
           "won": 0,
@@ -319,8 +310,17 @@
           "points": 0
         },
         {
-          "position": 19,
+          "position": 18,
           "team": "Tottenham Hotspur FC",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 20,
+          "team": "Aston Villa FC",
           "played": 1,
           "won": 0,
           "draw": 0,
@@ -1300,13 +1300,6 @@
       "name": "Ligue 1",
       "fixtures": [
         {
-          "homeTeam": "Angers SCO",
-          "awayTeam": "Lille OSC",
-          "utcDate": "2026-08-23T13:00:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Le Havre AC",
           "awayTeam": "AS Monaco FC",
           "utcDate": "2026-08-23T15:15:00Z",
@@ -1436,6 +1429,13 @@
           "homeTeam": "Angers SCO",
           "awayTeam": "Stade Rennais FC 1901",
           "utcDate": "2026-09-06T15:15:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Olympique de Marseille",
+          "awayTeam": "Paris FC",
+          "utcDate": "2026-09-06T18:45:00Z",
           "matchday": 3,
           "status": "TIMED"
         }
