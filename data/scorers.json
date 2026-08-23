@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T14:52:42.915Z",
+  "lastUpdated": "2026-08-23T20:51:20.465Z",
   "players": [
     {
       "slug": "jack-hinshelwood",
@@ -206,12 +206,36 @@
       "playedMatches": 1
     },
     {
+      "slug": "jo-ko-gvardiol",
+      "name": "Joško Gvardiol",
+      "team": "Manchester City FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Croatia",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
       "slug": "maxim-de-cuyper",
       "name": "Maxim De Cuyper",
       "team": "Brighton & Hove Albion FC",
       "league": "Premier League",
       "leagueCode": "PL",
       "nationality": "Belgium",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "anthony-elanga",
+      "name": "Anthony Elanga",
+      "team": "Newcastle United FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Sweden",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
@@ -311,7 +335,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "sergio-mart-nez",
@@ -323,7 +347,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "pape-gueye",
@@ -383,7 +407,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "kang-in-lee",
@@ -405,7 +429,7 @@
       "leagueCode": "PD",
       "nationality": "Spain",
       "goals": 1,
-      "assists": 0,
+      "assists": 1,
       "penalties": 0,
       "playedMatches": 2
     },
@@ -578,6 +602,114 @@
       "playedMatches": 1
     },
     {
+      "slug": "bremer",
+      "name": "Bremer",
+      "team": "Juventus FC",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Brazil",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "olaf-gorter",
+      "name": "Olaf Gorter",
+      "team": "US Lecce",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Netherlands",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "tiago-gabriel",
+      "name": "Tiago Gabriel",
+      "team": "US Lecce",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Portugal",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "giacomo-raspadori",
+      "name": "Giacomo Raspadori",
+      "team": "Atalanta BC",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "cas-odenthal",
+      "name": "Cas Odenthal",
+      "team": "US Sassuolo Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Netherlands",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "nikola-krstovi",
+      "name": "Nikola Krstović",
+      "team": "Atalanta BC",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Montenegro",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "alphadjo-cisse",
+      "name": "Alphadjo Cisse",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "adrien-rabiot",
+      "name": "Adrien Rabiot",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "France",
+      "goals": 1,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "che-adams",
+      "name": "Che Adams",
+      "team": "Torino FC",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Scotland",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
       "slug": "amine-gouiri",
       "name": "Amine Gouiri",
       "team": "Olympique de Marseille",
@@ -599,6 +731,18 @@
       "goals": 2,
       "assists": 1,
       "penalties": 2,
+      "playedMatches": 1
+    },
+    {
+      "slug": "ferr-n-torres",
+      "name": "Ferrán Torres",
+      "team": "Paris Saint-Germain FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
       "playedMatches": 1
     },
     {
@@ -776,6 +920,30 @@
       "league": "Ligue 1",
       "leagueCode": "FL1",
       "nationality": "Portugal",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "eric-dier",
+      "name": "Eric Dier",
+      "team": "AS Monaco FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "England",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "sebastian-szyma-ski",
+      "name": "Sebastian Szymański",
+      "team": "Stade Rennais FC 1901",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Poland",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
