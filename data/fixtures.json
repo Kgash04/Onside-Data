@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T20:26:22.572Z",
+  "lastUpdated": "2026-08-23T06:46:35.369Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -494,13 +494,13 @@
           "points": 4
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "RCD Espanyol de Barcelona",
           "played": 2,
           "won": 1,
-          "draw": 1,
-          "lost": 0,
-          "points": 4
+          "draw": 0,
+          "lost": 1,
+          "points": 3
         },
         {
           "position": 4,
@@ -513,7 +513,7 @@
         },
         {
           "position": 5,
-          "team": "Real Betis Balompié",
+          "team": "Real Madrid CF",
           "played": 1,
           "won": 1,
           "draw": 0,
@@ -522,6 +522,15 @@
         },
         {
           "position": 6,
+          "team": "Real Betis Balompié",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3
+        },
+        {
+          "position": 7,
           "team": "Real Racing Club de Santander",
           "played": 1,
           "won": 0,
@@ -530,7 +539,7 @@
           "points": 1
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Villarreal CF",
           "played": 1,
           "won": 0,
@@ -539,7 +548,7 @@
           "points": 1
         },
         {
-          "position": 8,
+          "position": 9,
           "team": "RC Deportivo La Coruña",
           "played": 1,
           "won": 0,
@@ -548,17 +557,8 @@
           "points": 1
         },
         {
-          "position": 8,
+          "position": 9,
           "team": "Elche CF",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1
-        },
-        {
-          "position": 8,
-          "team": "Real Madrid CF",
           "played": 1,
           "won": 0,
           "draw": 1,
@@ -1124,6 +1124,24 @@
         },
         {
           "position": 2,
+          "team": "SSC Napoli",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3
+        },
+        {
+          "position": 3,
+          "team": "Cagliari Calcio",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3
+        },
+        {
+          "position": 4,
           "team": "Como 1907",
           "played": 1,
           "won": 0,
@@ -1132,7 +1150,7 @@
           "points": 1
         },
         {
-          "position": 2,
+          "position": 4,
           "team": "Udinese Calcio",
           "played": 1,
           "won": 0,
@@ -1141,43 +1159,7 @@
           "points": 1
         },
         {
-          "position": 4,
-          "team": "Cagliari Calcio",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1
-        },
-        {
-          "position": 4,
-          "team": "Genoa CFC",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1
-        },
-        {
-          "position": 4,
-          "team": "Parma Calcio 1913",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1
-        },
-        {
-          "position": 4,
-          "team": "SSC Napoli",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1
-        },
-        {
-          "position": 8,
+          "position": 6,
           "team": "AC Milan",
           "played": 0,
           "won": 0,
@@ -1186,7 +1168,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 6,
           "team": "ACF Fiorentina",
           "played": 0,
           "won": 0,
@@ -1195,7 +1177,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 6,
           "team": "AS Roma",
           "played": 0,
           "won": 0,
@@ -1204,7 +1186,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 6,
           "team": "Atalanta BC",
           "played": 0,
           "won": 0,
@@ -1213,7 +1195,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 6,
           "team": "Bologna FC 1909",
           "played": 0,
           "won": 0,
@@ -1222,7 +1204,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 6,
           "team": "Frosinone Calcio",
           "played": 0,
           "won": 0,
@@ -1231,7 +1213,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 6,
           "team": "Juventus FC",
           "played": 0,
           "won": 0,
@@ -1240,7 +1222,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 6,
           "team": "SS Lazio",
           "played": 0,
           "won": 0,
@@ -1249,7 +1231,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 6,
           "team": "US Sassuolo Calcio",
           "played": 0,
           "won": 0,
@@ -1258,7 +1240,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 6,
           "team": "Torino FC",
           "played": 0,
           "won": 0,
@@ -1267,7 +1249,7 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 6,
           "team": "US Lecce",
           "played": 0,
           "won": 0,
@@ -1276,12 +1258,30 @@
           "points": 0
         },
         {
-          "position": 8,
+          "position": 6,
           "team": "Venezia FC",
           "played": 0,
           "won": 0,
           "draw": 0,
           "lost": 0,
+          "points": 0
+        },
+        {
+          "position": 18,
+          "team": "Parma Calcio 1913",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 19,
+          "team": "Genoa CFC",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
           "points": 0
         },
         {
