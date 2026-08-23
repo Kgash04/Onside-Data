@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-08-23T07:12:30.872Z",
+  "lastUpdated": "2026-08-23T14:52:42.915Z",
   "players": [
+    {
+      "slug": "jack-hinshelwood",
+      "name": "Jack Hinshelwood",
+      "team": "Brighton & Hove Albion FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "England",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
     {
       "slug": "kai-havertz",
       "name": "Kai Havertz",
@@ -170,6 +182,42 @@
       "playedMatches": 1
     },
     {
+      "slug": "marcus-tavernier",
+      "name": "Marcus Tavernier",
+      "team": "AFC Bournemouth",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "England",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "marc-gu-hi",
+      "name": "Marc Guéhi",
+      "team": "Manchester City FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "England",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "maxim-de-cuyper",
+      "name": "Maxim De Cuyper",
+      "team": "Brighton & Hove Albion FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Belgium",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
       "slug": "mariano-d-az",
       "name": "Mariano Díaz",
       "team": "Deportivo Alavés",
@@ -287,7 +335,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "nicolas-p-p",
@@ -299,7 +347,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "tyrhys-dolan",
@@ -347,7 +395,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "lex-baena",
@@ -359,7 +407,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "sergio-camello",
@@ -704,6 +752,30 @@
       "league": "Ligue 1",
       "leagueCode": "FL1",
       "nationality": "Belgium",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "olivier-giroud",
+      "name": "Olivier Giroud",
+      "team": "Lille OSC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "France",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "tiago-santos",
+      "name": "Tiago Santos",
+      "team": "Lille OSC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Portugal",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
