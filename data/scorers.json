@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T15:11:31.139Z",
+  "lastUpdated": "2026-08-24T21:01:12.906Z",
   "players": [
     {
       "slug": "jack-hinshelwood",
@@ -266,6 +266,18 @@
       "playedMatches": 2
     },
     {
+      "slug": "pierre-emerick-aubameyang",
+      "name": "Pierre-Emerick Aubameyang",
+      "team": "RC Deportivo La Coruña",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Gabon",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
       "slug": "raphinha",
       "name": "Raphinha",
       "team": "FC Barcelona",
@@ -410,18 +422,6 @@
       "playedMatches": 2
     },
     {
-      "slug": "pierre-emerick-aubameyang",
-      "name": "Pierre-Emerick Aubameyang",
-      "team": "RC Deportivo La Coruña",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Gabon",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
       "slug": "marc-aguado",
       "name": "Marc Aguado",
       "team": "Elche CF",
@@ -477,6 +477,18 @@
       "leagueCode": "PD",
       "nationality": "Spain",
       "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "donyell-malen",
+      "name": "Donyell Malen",
+      "team": "AS Roma",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Netherlands",
+      "goals": 3,
       "assists": 0,
       "penalties": 0,
       "playedMatches": 1
