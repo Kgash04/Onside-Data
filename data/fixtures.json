@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T20:26:45.503Z",
+  "lastUpdated": "2026-08-24T07:04:38.427Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -504,24 +504,6 @@
         },
         {
           "position": 4,
-          "team": "RCD Espanyol de Barcelona",
-          "played": 2,
-          "won": 1,
-          "draw": 0,
-          "lost": 1,
-          "points": 3
-        },
-        {
-          "position": 5,
-          "team": "Real Madrid CF",
-          "played": 1,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "points": 3
-        },
-        {
-          "position": 6,
           "team": "FC Barcelona",
           "played": 1,
           "won": 1,
@@ -530,7 +512,25 @@
           "points": 3
         },
         {
+          "position": 5,
+          "team": "RCD Espanyol de Barcelona",
+          "played": 2,
+          "won": 1,
+          "draw": 0,
+          "lost": 1,
+          "points": 3
+        },
+        {
           "position": 6,
+          "team": "Real Madrid CF",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3
+        },
+        {
+          "position": 7,
           "team": "Real Betis Balompié",
           "played": 1,
           "won": 1,
@@ -1124,15 +1124,6 @@
         },
         {
           "position": 2,
-          "team": "AC Milan",
-          "played": 1,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "points": 3
-        },
-        {
-          "position": 2,
           "team": "SSC Napoli",
           "played": 1,
           "won": 1,
@@ -1150,7 +1141,16 @@
           "points": 3
         },
         {
-          "position": 5,
+          "position": 4,
+          "team": "AC Milan",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3
+        },
+        {
+          "position": 4,
           "team": "Atalanta BC",
           "played": 1,
           "won": 1,
@@ -1240,34 +1240,7 @@
           "points": 0
         },
         {
-          "position": 15,
-          "team": "Frosinone Calcio",
-          "played": 1,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "points": 0
-        },
-        {
-          "position": 15,
-          "team": "Parma Calcio 1913",
-          "played": 1,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "points": 0
-        },
-        {
-          "position": 17,
-          "team": "Genoa CFC",
-          "played": 1,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "points": 0
-        },
-        {
-          "position": 17,
+          "position": 14,
           "team": "Torino FC",
           "played": 1,
           "won": 0,
@@ -1276,7 +1249,34 @@
           "points": 0
         },
         {
-          "position": 17,
+          "position": 16,
+          "team": "Frosinone Calcio",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 16,
+          "team": "Parma Calcio 1913",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 18,
+          "team": "Genoa CFC",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 18,
           "team": "Venezia FC",
           "played": 1,
           "won": 0,
@@ -1443,164 +1443,164 @@
       "standings": [
         {
           "position": 1,
-          "team": "Lille OSC",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
-          "team": "Le Mans FC",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
           "team": "Olympique de Marseille",
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "draw": 0,
           "lost": 0,
-          "points": 0
+          "points": 3
         },
         {
-          "position": 1,
-          "team": "FC Lorient",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
-          "team": "Stade Brestois 29",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
+          "position": 2,
           "team": "Racing Club de Lens",
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "draw": 0,
           "lost": 0,
-          "points": 0
+          "points": 3
         },
         {
-          "position": 1,
-          "team": "Stade Rennais FC 1901",
-          "played": 0,
-          "won": 0,
+          "position": 3,
+          "team": "Lille OSC",
+          "played": 1,
+          "won": 1,
           "draw": 0,
           "lost": 0,
-          "points": 0
+          "points": 3
         },
         {
-          "position": 1,
-          "team": "Angers SCO",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
-          "team": "AJ Auxerre",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
-          "team": "Le Havre AC",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
-          "team": "RC Strasbourg Alsace",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
-          "team": "OGC Nice",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
-          "team": "Paris Saint-Germain FC",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
-          "team": "Toulouse FC",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
+          "position": 3,
           "team": "Olympique Lyonnais",
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "draw": 0,
           "lost": 0,
-          "points": 0
+          "points": 3
         },
         {
-          "position": 1,
-          "team": "Paris FC",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 1,
+          "position": 5,
           "team": "AS Monaco FC",
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "draw": 0,
           "lost": 0,
+          "points": 3
+        },
+        {
+          "position": 6,
+          "team": "Le Mans FC",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 6,
+          "team": "Paris Saint-Germain FC",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 6,
+          "team": "Stade Brestois 29",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 6,
+          "team": "Stade Rennais FC 1901",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 10,
+          "team": "ES Troyes AC",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 10,
+          "team": "FC Lorient",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 10,
+          "team": "OGC Nice",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 10,
+          "team": "Paris FC",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 14,
+          "team": "Le Havre AC",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
           "points": 0
         },
         {
-          "position": 1,
-          "team": "ES Troyes AC",
-          "played": 0,
+          "position": 15,
+          "team": "Angers SCO",
+          "played": 1,
           "won": 0,
           "draw": 0,
-          "lost": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 15,
+          "team": "Toulouse FC",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 17,
+          "team": "AJ Auxerre",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 18,
+          "team": "RC Strasbourg Alsace",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
           "points": 0
         }
       ]
