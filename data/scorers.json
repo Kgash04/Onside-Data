@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T20:51:20.465Z",
+  "lastUpdated": "2026-08-24T07:39:56.255Z",
   "players": [
     {
       "slug": "jack-hinshelwood",
@@ -266,6 +266,30 @@
       "playedMatches": 2
     },
     {
+      "slug": "raphinha",
+      "name": "Raphinha",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Brazil",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 1
+    },
+    {
+      "slug": "ferm-n-l-pez",
+      "name": "Fermín López",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
       "slug": "nahuel-tenaglia",
       "name": "Nahuel Tenaglia",
       "team": "Deportivo Alavés",
@@ -456,30 +480,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 1
-    },
-    {
-      "slug": "oso",
-      "name": "Oso",
-      "team": "Sevilla FC",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 1,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "chidera-ejuke",
-      "name": "Chidera Ejuke",
-      "team": "Sevilla FC",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Nigeria",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
     },
     {
       "slug": "hassane-kamara",
