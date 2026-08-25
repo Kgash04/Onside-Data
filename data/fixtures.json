@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T20:34:11.061Z",
+  "lastUpdated": "2026-08-25T06:53:49.208Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -1115,7 +1115,7 @@
       "standings": [
         {
           "position": 1,
-          "team": "FC Internazionale Milano",
+          "team": "AS Roma",
           "played": 1,
           "won": 1,
           "draw": 0,
@@ -1124,7 +1124,7 @@
         },
         {
           "position": 2,
-          "team": "AS Roma",
+          "team": "FC Internazionale Milano",
           "played": 1,
           "won": 1,
           "draw": 0,
