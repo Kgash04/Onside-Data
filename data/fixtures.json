@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T14:48:05.626Z",
+  "lastUpdated": "2026-08-26T22:54:08.597Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,13 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Real Madrid CF",
-          "awayTeam": "Real Sociedad de Fútbol",
-          "utcDate": "2026-08-26T19:00:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "RC Celta de Vigo",
           "awayTeam": "CA Osasuna",
           "utcDate": "2026-08-27T18:30:00Z",
@@ -472,12 +465,19 @@
           "utcDate": "2026-09-06T16:30:00Z",
           "matchday": 4,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Málaga CF",
+          "awayTeam": "Levante UD",
+          "utcDate": "2026-09-06T16:30:00Z",
+          "matchday": 4,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
-          "team": "Sevilla FC",
+          "team": "Real Madrid CF",
           "played": 2,
           "won": 2,
           "draw": 0,
@@ -486,7 +486,7 @@
         },
         {
           "position": 2,
-          "team": "Real Betis Balompié",
+          "team": "Sevilla FC",
           "played": 2,
           "won": 2,
           "draw": 0,
@@ -495,6 +495,15 @@
         },
         {
           "position": 3,
+          "team": "Real Betis Balompié",
+          "played": 2,
+          "won": 2,
+          "draw": 0,
+          "lost": 0,
+          "points": 6
+        },
+        {
+          "position": 4,
           "team": "Deportivo Alavés",
           "played": 2,
           "won": 1,
@@ -503,7 +512,7 @@
           "points": 4
         },
         {
-          "position": 4,
+          "position": 5,
           "team": "Club Atlético de Madrid",
           "played": 2,
           "won": 1,
@@ -512,7 +521,7 @@
           "points": 4
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "FC Barcelona",
           "played": 1,
           "won": 1,
@@ -521,21 +530,12 @@
           "points": 3
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "RCD Espanyol de Barcelona",
           "played": 2,
           "won": 1,
           "draw": 0,
           "lost": 1,
-          "points": 3
-        },
-        {
-          "position": 7,
-          "team": "Real Madrid CF",
-          "played": 1,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
           "points": 3
         },
         {
@@ -639,7 +639,7 @@
         },
         {
           "position": 19,
-          "team": "Real Sociedad de Fútbol",
+          "team": "Athletic Club",
           "played": 1,
           "won": 0,
           "draw": 0,
@@ -648,11 +648,11 @@
         },
         {
           "position": 20,
-          "team": "Athletic Club",
-          "played": 1,
+          "team": "Real Sociedad de Fútbol",
+          "played": 2,
           "won": 0,
           "draw": 0,
-          "lost": 1,
+          "lost": 2,
           "points": 0
         }
       ]
