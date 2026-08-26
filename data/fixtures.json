@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T06:55:08.715Z",
+  "lastUpdated": "2026-08-26T14:48:05.626Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -90,13 +90,6 @@
           "status": "TIMED"
         },
         {
-          "homeTeam": "Nottingham Forest FC",
-          "awayTeam": "Tottenham Hotspur FC",
-          "utcDate": "2026-09-05T14:00:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Manchester City FC",
           "awayTeam": "Coventry City FC",
           "utcDate": "2026-09-05T14:00:00Z",
@@ -143,6 +136,13 @@
           "awayTeam": "Chelsea FC",
           "utcDate": "2026-09-06T15:30:00Z",
           "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Crystal Palace FC",
+          "awayTeam": "Ipswich Town FC",
+          "utcDate": "2026-09-12T14:00:00Z",
+          "matchday": 4,
           "status": "TIMED"
         }
       ],
