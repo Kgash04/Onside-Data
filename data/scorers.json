@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T16:02:04.604Z",
+  "lastUpdated": "2026-08-27T00:00:01.045Z",
   "players": [
     {
       "slug": "jack-hinshelwood",
@@ -242,6 +242,18 @@
       "playedMatches": 1
     },
     {
+      "slug": "kylian-mbapp",
+      "name": "Kylian Mbappé",
+      "team": "Real Madrid CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "France",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
       "slug": "mariano-d-az",
       "name": "Mariano Díaz",
       "team": "Deportivo Alavés",
@@ -461,18 +473,6 @@
       "slug": "sergio-camello",
       "name": "Sergio Camello",
       "team": "Rayo Vallecano de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "rodrigo-riquelme",
-      "name": "Rodrigo Riquelme",
-      "team": "Real Betis Balompié",
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Spain",
