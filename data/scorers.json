@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T04:26:40.098Z",
+  "lastUpdated": "2026-08-28T18:57:35.351Z",
   "players": [
     {
       "slug": "jack-hinshelwood",
@@ -203,7 +203,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "jo-ko-gvardiol",
@@ -215,7 +215,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "maxim-de-cuyper",
@@ -278,6 +278,18 @@
       "playedMatches": 2
     },
     {
+      "slug": "yassir-zabiri",
+      "name": "Yassir Zabiri",
+      "team": "Real Racing Club de Santander",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Morocco",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "mariano-d-az",
       "name": "Mariano Díaz",
       "team": "Deportivo Alavés",
@@ -287,7 +299,7 @@
       "goals": 2,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "roberto-fern-ndez",
@@ -323,7 +335,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "mikel-rodr-guez",
@@ -335,7 +347,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "lvaro-garc-a",
@@ -383,7 +395,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "sergio-mart-nez",
@@ -395,7 +407,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "pape-gueye",
@@ -407,7 +419,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "nicolas-p-p",
@@ -419,7 +431,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "tyrhys-dolan",
@@ -443,7 +455,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "kang-in-lee",
@@ -470,16 +482,16 @@
       "playedMatches": 2
     },
     {
-      "slug": "sergio-camello",
-      "name": "Sergio Camello",
-      "team": "Rayo Vallecano de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
+      "slug": "dayot-upamecano",
+      "name": "Dayot Upamecano",
+      "team": "FC Bayern München",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "France",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 1
     },
     {
       "slug": "donyell-malen",
@@ -695,7 +707,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "adrien-rabiot",
@@ -707,7 +719,7 @@
       "goals": 1,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "che-adams",
@@ -755,7 +767,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "keyliane-abdallah",
@@ -923,7 +935,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "tiago-santos",
@@ -935,7 +947,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "eric-dier",
