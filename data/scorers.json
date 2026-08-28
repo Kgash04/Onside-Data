@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T17:52:15.377Z",
+  "lastUpdated": "2026-08-28T04:26:40.098Z",
   "players": [
     {
       "slug": "jack-hinshelwood",
@@ -242,6 +242,30 @@
       "playedMatches": 1
     },
     {
+      "slug": "raphinha",
+      "name": "Raphinha",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Brazil",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 2
+    },
+    {
+      "slug": "ferm-n-l-pez",
+      "name": "Fermín López",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
       "slug": "kylian-mbapp",
       "name": "Kylian Mbappé",
       "team": "Real Madrid CF",
@@ -288,30 +312,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 2
-    },
-    {
-      "slug": "raphinha",
-      "name": "Raphinha",
-      "team": "FC Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Brazil",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 1
-    },
-    {
-      "slug": "ferm-n-l-pez",
-      "name": "Fermín López",
-      "team": "FC Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
     },
     {
       "slug": "nahuel-tenaglia",
