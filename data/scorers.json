@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T12:48:51.504Z",
+  "lastUpdated": "2026-08-29T17:50:00.205Z",
   "players": [
     {
       "slug": "jack-hinshelwood",
@@ -12,6 +12,18 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 1
+    },
+    {
+      "slug": "anthony-elanga",
+      "name": "Anthony Elanga",
+      "team": "Newcastle United FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Sweden",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
     },
     {
       "slug": "erling-haaland",
@@ -83,7 +95,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "nobel-mendy",
@@ -95,7 +107,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "emersonn",
@@ -155,7 +167,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "thierno-barry",
@@ -167,7 +179,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "keane-lewis-potter",
@@ -215,7 +227,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "marc-gu-hi",
@@ -226,18 +238,6 @@
       "nationality": "England",
       "goals": 1,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "jo-ko-gvardiol",
-      "name": "Joško Gvardiol",
-      "team": "Manchester City FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "Croatia",
-      "goals": 1,
-      "assists": 1,
       "penalties": 0,
       "playedMatches": 2
     },
@@ -311,7 +311,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "pierre-emerick-aubameyang",
@@ -320,6 +320,30 @@
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Gabon",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
+      "slug": "rodrigo-riquelme",
+      "name": "Rodrigo Riquelme",
+      "team": "Real Betis Balompié",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
+      "slug": "brugui",
+      "name": "Brugui",
+      "team": "Levante UD",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
       "goals": 2,
       "assists": 0,
       "penalties": 0,
@@ -443,7 +467,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "marc-aguado",
@@ -458,28 +482,28 @@
       "playedMatches": 3
     },
     {
-      "slug": "kang-in-lee",
-      "name": "Kang-in Lee",
-      "team": "Club Atlético de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "South Korea",
-      "goals": 1,
+      "slug": "younes-ebnoutalib",
+      "name": "Younes Ebnoutalib",
+      "team": "Eintracht Frankfurt",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 1
     },
     {
-      "slug": "lex-baena",
-      "name": "Álex Baena",
-      "team": "Club Atlético de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 1,
-      "assists": 1,
+      "slug": "thijs-dallinga",
+      "name": "Thijs Dallinga",
+      "team": "1. FC Köln",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Netherlands",
+      "goals": 2,
+      "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 1
     },
     {
       "slug": "dayot-upamecano",
@@ -542,6 +566,162 @@
       "playedMatches": 1
     },
     {
+      "slug": "ridle-baku",
+      "name": "Ridle Baku",
+      "team": "RB Leipzig",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "antonio-nusa",
+      "name": "Antonio Nusa",
+      "team": "RB Leipzig",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Norway",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "rocco-reitz",
+      "name": "Rocco Reitz",
+      "team": "RB Leipzig",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "emmanuel-latte-lath",
+      "name": "Emmanuel Latte Lath",
+      "team": "1. FC Union Berlin",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Ivory Coast",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "leopold-querfeld",
+      "name": "Leopold Querfeld",
+      "team": "1. FC Union Berlin",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Austria",
+      "goals": 1,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "tim-skarke",
+      "name": "Tim Skarke",
+      "team": "1. FC Union Berlin",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "lukas-petkov",
+      "name": "Lukas Petkov",
+      "team": "SV 07 Elversberg",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Bulgaria",
+      "goals": 1,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "cole-campbell",
+      "name": "Cole Campbell",
+      "team": "SV 07 Elversberg",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "USA",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "david-mokwa-ntusu",
+      "name": "David Mokwa Ntusu",
+      "team": "SV 07 Elversberg",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "France",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "patrik-schick",
+      "name": "Patrik Schick",
+      "team": "Bayer 04 Leverkusen",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Czech Republic",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "christian-kofane",
+      "name": "Christian Kofane",
+      "team": "Bayer 04 Leverkusen",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Cameroon",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "adam-daghim",
+      "name": "Adam Daghim",
+      "team": "TSG 1899 Hoffenheim",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Denmark",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "said-el-mala",
+      "name": "Said El Mala",
+      "team": "1. FC Köln",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
       "slug": "donyell-malen",
       "name": "Donyell Malen",
       "team": "AS Roma",
@@ -560,10 +740,10 @@
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Ivory Coast",
-      "goals": 1,
-      "assists": 0,
+      "goals": 2,
+      "assists": 1,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "anastasios-douvikas",
@@ -599,7 +779,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "piotr-zieli-ski",
@@ -731,7 +911,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "nikola-krstovi",
@@ -779,7 +959,19 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
+    },
+    {
+      "slug": "florian-thauvin",
+      "name": "Florian Thauvin",
+      "team": "Racing Club de Lens",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "France",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 3,
+      "playedMatches": 2
     },
     {
       "slug": "amine-gouiri",
@@ -794,24 +986,24 @@
       "playedMatches": 1
     },
     {
-      "slug": "florian-thauvin",
-      "name": "Florian Thauvin",
-      "team": "Racing Club de Lens",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "France",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 2,
-      "playedMatches": 1
-    },
-    {
       "slug": "ferr-n-torres",
       "name": "Ferrán Torres",
       "team": "Paris Saint-Germain FC",
       "league": "Ligue 1",
       "leagueCode": "FL1",
       "nationality": "Spain",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
+      "slug": "gessime-yassine",
+      "name": "Gessime Yassine",
+      "team": "RC Strasbourg Alsace",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "France",
       "goals": 2,
       "assists": 0,
       "penalties": 0,
@@ -851,7 +1043,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "saud-abdulhamid",
@@ -887,7 +1079,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "lamine-sy",
@@ -911,7 +1103,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "dame-gu-ye",
@@ -947,7 +1139,7 @@
       "goals": 1,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "noah-nartey",
@@ -1004,18 +1196,6 @@
       "league": "Ligue 1",
       "leagueCode": "FL1",
       "nationality": "England",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "sebastian-szyma-ski",
-      "name": "Sebastian Szymański",
-      "team": "Stade Rennais FC 1901",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Poland",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
