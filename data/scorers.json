@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T17:50:00.205Z",
+  "lastUpdated": "2026-08-29T22:45:40.709Z",
   "players": [
     {
       "slug": "jack-hinshelwood",
@@ -242,6 +242,30 @@
       "playedMatches": 2
     },
     {
+      "slug": "roberto-fern-ndez",
+      "name": "Roberto Fernández",
+      "team": "RCD Espanyol de Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
+      "slug": "lex-baena",
+      "name": "Álex Baena",
+      "team": "Club Atlético de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "raphinha",
       "name": "Raphinha",
       "team": "FC Barcelona",
@@ -298,18 +322,6 @@
       "nationality": "Dominican Republic",
       "goals": 2,
       "assists": 2,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "roberto-fern-ndez",
-      "name": "Roberto Fernández",
-      "team": "RCD Espanyol de Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 0,
       "penalties": 0,
       "playedMatches": 3
     },
@@ -395,7 +407,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "peque",
@@ -407,7 +419,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "andr-s-mart-n",
@@ -464,18 +476,6 @@
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "England",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "marc-aguado",
-      "name": "Marc Aguado",
-      "team": "Elche CF",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
@@ -746,6 +746,30 @@
       "playedMatches": 2
     },
     {
+      "slug": "gustavo-varela",
+      "name": "Gustavo Varela",
+      "team": "AC Monza",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Portugal",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
+      "slug": "antonio-raimondo",
+      "name": "Antonio Raimondo",
+      "team": "Frosinone Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
       "slug": "anastasios-douvikas",
       "name": "Anastasios Douvikas",
       "team": "Como 1907",
@@ -768,18 +792,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 1
-    },
-    {
-      "slug": "gustavo-varela",
-      "name": "Gustavo Varela",
-      "team": "AC Monza",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Portugal",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
     },
     {
       "slug": "piotr-zieli-ski",
@@ -863,7 +875,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "olaf-gorter",
@@ -950,18 +962,6 @@
       "playedMatches": 2
     },
     {
-      "slug": "che-adams",
-      "name": "Che Adams",
-      "team": "Torino FC",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Scotland",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
       "slug": "florian-thauvin",
       "name": "Florian Thauvin",
       "team": "Racing Club de Lens",
@@ -984,6 +984,18 @@
       "assists": 0,
       "penalties": 1,
       "playedMatches": 1
+    },
+    {
+      "slug": "kamory-doumbia",
+      "name": "Kamory Doumbia",
+      "team": "Stade Brestois 29",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Mali",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 2
     },
     {
       "slug": "ferr-n-torres",
@@ -1067,7 +1079,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "pierre-ganiou",
@@ -1091,7 +1103,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "romain-del-castillo",
@@ -1130,18 +1142,6 @@
       "playedMatches": 1
     },
     {
-      "slug": "kamory-doumbia",
-      "name": "Kamory Doumbia",
-      "team": "Stade Brestois 29",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Mali",
-      "goals": 1,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
       "slug": "noah-nartey",
       "name": "Noah Nartey",
       "team": "Olympique Lyonnais",
@@ -1151,7 +1151,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "malick-fofana",
@@ -1163,7 +1163,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "olivier-giroud",
