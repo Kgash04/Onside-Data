@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T18:57:35.351Z",
+  "lastUpdated": "2026-08-29T02:53:52.417Z",
   "players": [
     {
       "slug": "jack-hinshelwood",
@@ -12,6 +12,30 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 1
+    },
+    {
+      "slug": "erling-haaland",
+      "name": "Erling Haaland",
+      "team": "Manchester City FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Norway",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
+      "slug": "rayan-cherki",
+      "name": "Rayan Cherki",
+      "team": "Manchester City FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "France",
+      "goals": 2,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 2
     },
     {
       "slug": "kai-havertz",
@@ -213,33 +237,9 @@
       "leagueCode": "PL",
       "nationality": "Croatia",
       "goals": 1,
-      "assists": 0,
+      "assists": 1,
       "penalties": 0,
       "playedMatches": 2
-    },
-    {
-      "slug": "maxim-de-cuyper",
-      "name": "Maxim De Cuyper",
-      "team": "Brighton & Hove Albion FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "Belgium",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "anthony-elanga",
-      "name": "Anthony Elanga",
-      "team": "Newcastle United FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "Sweden",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
     },
     {
       "slug": "raphinha",
@@ -488,6 +488,54 @@
       "league": "Bundesliga",
       "leagueCode": "BL1",
       "nationality": "France",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "josha-vagnoman",
+      "name": "Josha Vagnoman",
+      "team": "VfB Stuttgart",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "michael-olise",
+      "name": "Michael Olise",
+      "team": "FC Bayern München",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "France",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "aleksandar-pavlovi",
+      "name": "Aleksandar Pavlović",
+      "team": "FC Bayern München",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "luis-d-az",
+      "name": "Luis Díaz",
+      "team": "FC Bayern München",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Colombia",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
@@ -933,7 +981,7 @@
       "leagueCode": "FL1",
       "nationality": "France",
       "goals": 1,
-      "assists": 0,
+      "assists": 2,
       "penalties": 0,
       "playedMatches": 2
     },
