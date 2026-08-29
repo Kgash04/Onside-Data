@@ -1,17 +1,10 @@
 {
-  "lastUpdated": "2026-08-29T02:45:47.426Z",
+  "lastUpdated": "2026-08-29T12:29:59.132Z",
   "competitions": {
     "PL": {
       "code": "PL",
       "name": "Premier League",
       "fixtures": [
-        {
-          "homeTeam": "Liverpool FC",
-          "awayTeam": "Nottingham Forest FC",
-          "utcDate": "2026-08-29T11:30:00Z",
-          "matchday": 2,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "AFC Bournemouth",
           "awayTeam": "Everton FC",
@@ -144,6 +137,13 @@
           "utcDate": "2026-09-12T14:00:00Z",
           "matchday": 4,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Liverpool FC",
+          "awayTeam": "Fulham FC",
+          "utcDate": "2026-09-12T14:00:00Z",
+          "matchday": 4,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -230,15 +230,15 @@
         },
         {
           "position": 10,
-          "team": "Liverpool FC",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1
+          "team": "Nottingham Forest FC",
+          "played": 2,
+          "won": 1,
+          "draw": 0,
+          "lost": 1,
+          "points": 3
         },
         {
-          "position": 10,
+          "position": 11,
           "team": "Newcastle United FC",
           "played": 1,
           "won": 0,
@@ -248,6 +248,15 @@
         },
         {
           "position": 12,
+          "team": "Liverpool FC",
+          "played": 2,
+          "won": 0,
+          "draw": 1,
+          "lost": 1,
+          "points": 1
+        },
+        {
+          "position": 13,
           "team": "Fulham FC",
           "played": 1,
           "won": 0,
@@ -256,7 +265,7 @@
           "points": 0
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "AFC Bournemouth",
           "played": 1,
           "won": 0,
@@ -265,17 +274,8 @@
           "points": 0
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "Sunderland AFC",
-          "played": 1,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "points": 0
-        },
-        {
-          "position": 15,
-          "team": "Nottingham Forest FC",
           "played": 1,
           "won": 0,
           "draw": 0,
