@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T22:45:40.709Z",
+  "lastUpdated": "2026-08-30T12:09:57.790Z",
   "players": [
     {
       "slug": "jack-hinshelwood",
@@ -131,7 +131,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "jack-clarke",
@@ -155,7 +155,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "kiernan-dewsbury-hall",
@@ -191,7 +191,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "vitaly-janelt",
@@ -203,7 +203,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "michael-kayode",
@@ -215,7 +215,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "marcus-tavernier",
