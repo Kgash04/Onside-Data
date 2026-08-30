@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T18:10:18.836Z",
+  "lastUpdated": "2026-08-30T22:54:41.822Z",
   "players": [
     {
       "slug": "bruno-fernandes",
@@ -758,12 +758,36 @@
       "playedMatches": 2
     },
     {
+      "slug": "hakan-alhano-lu",
+      "name": "Hakan Çalhanoğlu",
+      "team": "FC Internazionale Milano",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Turkey",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
       "slug": "gustavo-varela",
       "name": "Gustavo Varela",
       "team": "AC Monza",
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Portugal",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
+      "slug": "davide-frattesi",
+      "name": "Davide Frattesi",
+      "team": "SS Lazio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
       "goals": 2,
       "assists": 0,
       "penalties": 0,
@@ -777,18 +801,6 @@
       "leagueCode": "SA",
       "nationality": "Italy",
       "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "hakan-alhano-lu",
-      "name": "Hakan Çalhanoğlu",
-      "team": "FC Internazionale Milano",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Turkey",
-      "goals": 1,
       "assists": 0,
       "penalties": 0,
       "playedMatches": 2
@@ -950,18 +962,6 @@
       "playedMatches": 2
     },
     {
-      "slug": "adrien-rabiot",
-      "name": "Adrien Rabiot",
-      "team": "AC Milan",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "France",
-      "goals": 1,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
       "slug": "florian-thauvin",
       "name": "Florian Thauvin",
       "team": "Racing Club de Lens",
@@ -1007,7 +1007,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "kamory-doumbia",
@@ -1046,6 +1046,18 @@
       "playedMatches": 2
     },
     {
+      "slug": "paris-brunner",
+      "name": "Paris Brunner",
+      "team": "AS Monaco FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Germany",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
       "slug": "keyliane-abdallah",
       "name": "Keyliane Abdallah",
       "team": "Olympique de Marseille",
@@ -1055,7 +1067,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "pierre-emile-h-jbjerg",
@@ -1067,7 +1079,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "franjo-ivanovic",
@@ -1186,18 +1198,6 @@
       "nationality": "France",
       "goals": 1,
       "assists": 2,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "tiago-santos",
-      "name": "Tiago Santos",
-      "team": "Lille OSC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Portugal",
-      "goals": 1,
-      "assists": 0,
       "penalties": 0,
       "playedMatches": 2
     }
