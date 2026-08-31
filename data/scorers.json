@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T14:19:48.307Z",
+  "lastUpdated": "2026-08-31T20:18:33.747Z",
   "players": [
     {
       "slug": "bruno-fernandes",
@@ -95,7 +95,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "bukayo-saka",
@@ -107,7 +107,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "martin-degaard",
@@ -119,7 +119,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "semi-ajayi",
@@ -242,6 +242,18 @@
       "playedMatches": 2
     },
     {
+      "slug": "raphinha",
+      "name": "Raphinha",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Brazil",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 3
+    },
+    {
       "slug": "kylian-mbapp",
       "name": "Kylian Mbappé",
       "team": "Real Madrid CF",
@@ -290,18 +302,6 @@
       "playedMatches": 3
     },
     {
-      "slug": "raphinha",
-      "name": "Raphinha",
-      "team": "FC Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Brazil",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 2
-    },
-    {
       "slug": "ferm-n-l-pez",
       "name": "Fermín López",
       "team": "FC Barcelona",
@@ -311,7 +311,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "yassir-zabiri",
@@ -338,6 +338,18 @@
       "playedMatches": 3
     },
     {
+      "slug": "sergio-camello",
+      "name": "Sergio Camello",
+      "team": "Rayo Vallecano de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "rodrigo-riquelme",
       "name": "Rodrigo Riquelme",
       "team": "Real Betis Balompié",
@@ -359,6 +371,18 @@
       "goals": 2,
       "assists": 2,
       "penalties": 0,
+      "playedMatches": 3
+    },
+    {
+      "slug": "ante-budimir",
+      "name": "Ante Budimir",
+      "team": "CA Osasuna",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Croatia",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 2,
       "playedMatches": 3
     },
     {
@@ -405,9 +429,9 @@
       "leagueCode": "PD",
       "nationality": "Spain",
       "goals": 1,
-      "assists": 0,
+      "assists": 1,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "jon-guridi",
@@ -452,30 +476,6 @@
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Spain",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "pape-gueye",
-      "name": "Pape Gueye",
-      "team": "Villarreal CF",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Senegal",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "nicolas-p-p",
-      "name": "Nicolas Pépé",
-      "team": "Villarreal CF",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Ivory Coast",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
@@ -728,10 +728,10 @@
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Netherlands",
-      "goals": 3,
+      "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "hassane-kamara",
@@ -899,7 +899,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "tiago-gabriel",
@@ -911,7 +911,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "giacomo-raspadori",
@@ -923,7 +923,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "cas-odenthal",
@@ -947,7 +947,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "alphadjo-cisse",
