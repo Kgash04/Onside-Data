@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T20:18:33.747Z",
+  "lastUpdated": "2026-09-01T00:02:16.247Z",
   "players": [
     {
       "slug": "bruno-fernandes",
@@ -11,6 +11,18 @@
       "goals": 3,
       "assists": 1,
       "penalties": 1,
+      "playedMatches": 2
+    },
+    {
+      "slug": "bukayo-saka",
+      "name": "Bukayo Saka",
+      "team": "Arsenal FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "England",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
       "playedMatches": 2
     },
     {
@@ -92,18 +104,6 @@
       "league": "Premier League",
       "leagueCode": "PL",
       "nationality": "Germany",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "bukayo-saka",
-      "name": "Bukayo Saka",
-      "team": "Arsenal FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "England",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
@@ -248,7 +248,7 @@
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Brazil",
-      "goals": 4,
+      "goals": 5,
       "assists": 0,
       "penalties": 1,
       "playedMatches": 3
@@ -302,6 +302,18 @@
       "playedMatches": 3
     },
     {
+      "slug": "sergio-camello",
+      "name": "Sergio Camello",
+      "team": "Rayo Vallecano de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "ferm-n-l-pez",
       "name": "Fermín López",
       "team": "FC Barcelona",
@@ -334,18 +346,6 @@
       "nationality": "Dominican Republic",
       "goals": 2,
       "assists": 2,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "sergio-camello",
-      "name": "Sergio Camello",
-      "team": "Rayo Vallecano de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 0,
       "penalties": 0,
       "playedMatches": 3
     },
@@ -396,6 +396,18 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 2
+    },
+    {
+      "slug": "lamine-yamal",
+      "name": "Lamine Yamal",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
     },
     {
       "slug": "nahuel-tenaglia",
@@ -467,18 +479,6 @@
       "goals": 1,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 3
-    },
-    {
-      "slug": "sergio-mart-nez",
-      "name": "Sergio Martínez",
-      "team": "Real Racing Club de Santander",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
       "playedMatches": 3
     },
     {
