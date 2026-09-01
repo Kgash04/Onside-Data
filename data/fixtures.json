@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T23:39:54.746Z",
+  "lastUpdated": "2026-09-01T11:21:26.186Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,13 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "RC Celta de Vigo",
-          "awayTeam": "Athletic Club",
-          "utcDate": "2026-08-30T19:30:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Real Sociedad de Fútbol",
           "awayTeam": "RC Celta de Vigo",
           "utcDate": "2026-09-03T19:00:00Z",
@@ -418,60 +411,67 @@
           "status": "TIMED"
         },
         {
-          "homeTeam": "Getafe CF",
-          "awayTeam": "RC Deportivo La Coruña",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
           "homeTeam": "Sevilla FC",
           "awayTeam": "Valencia CF",
-          "utcDate": "2026-09-13T00:00:00Z",
+          "utcDate": "2026-09-11T19:00:00Z",
           "matchday": 5,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "Real Racing Club de Santander",
           "awayTeam": "Deportivo Alavés",
-          "utcDate": "2026-09-13T00:00:00Z",
+          "utcDate": "2026-09-12T12:00:00Z",
           "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Villarreal CF",
-          "awayTeam": "Real Betis Balompié",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "RC Celta de Vigo",
-          "awayTeam": "Málaga CF",
-          "utcDate": "2026-09-13T00:00:00Z",
-          "matchday": 5,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
           "homeTeam": "CA Osasuna",
           "awayTeam": "RCD Espanyol de Barcelona",
-          "utcDate": "2026-09-13T00:00:00Z",
+          "utcDate": "2026-09-12T14:15:00Z",
           "matchday": 5,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
-          "homeTeam": "Real Sociedad de Fútbol",
-          "awayTeam": "Club Atlético de Madrid",
-          "utcDate": "2026-09-13T00:00:00Z",
+          "homeTeam": "Athletic Club",
+          "awayTeam": "Elche CF",
+          "utcDate": "2026-09-12T16:30:00Z",
           "matchday": 5,
-          "status": "SCHEDULED"
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Madrid CF",
+          "awayTeam": "Rayo Vallecano de Madrid",
+          "utcDate": "2026-09-12T19:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Celta de Vigo",
+          "awayTeam": "Málaga CF",
+          "utcDate": "2026-09-13T12:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Levante UD",
           "awayTeam": "FC Barcelona",
-          "utcDate": "2026-09-13T00:00:00Z",
+          "utcDate": "2026-09-13T14:15:00Z",
           "matchday": 5,
-          "status": "SCHEDULED"
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Getafe CF",
+          "awayTeam": "RC Deportivo La Coruña",
+          "utcDate": "2026-09-13T16:30:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Sociedad de Fútbol",
+          "awayTeam": "Club Atlético de Madrid",
+          "utcDate": "2026-09-13T19:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1426,18 +1426,18 @@
           "status": "TIMED"
         },
         {
-          "homeTeam": "AJ Auxerre",
-          "awayTeam": "Stade Brestois 29",
-          "utcDate": "2026-09-19T00:00:00Z",
+          "homeTeam": "AS Monaco FC",
+          "awayTeam": "Racing Club de Lens",
+          "utcDate": "2026-09-18T18:45:00Z",
           "matchday": 5,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         },
         {
-          "homeTeam": "Le Mans FC",
-          "awayTeam": "FC Lorient",
-          "utcDate": "2026-09-19T00:00:00Z",
+          "homeTeam": "Paris FC",
+          "awayTeam": "RC Strasbourg Alsace",
+          "utcDate": "2026-09-19T15:15:00Z",
           "matchday": 5,
-          "status": "SCHEDULED"
+          "status": "TIMED"
         }
       ],
       "standings": [
