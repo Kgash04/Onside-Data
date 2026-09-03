@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T17:39:42.436Z",
+  "lastUpdated": "2026-09-03T22:24:38.570Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,13 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Real Sociedad de Fútbol",
-          "awayTeam": "RC Celta de Vigo",
-          "utcDate": "2026-09-03T19:00:00Z",
-          "matchday": 6,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Rayo Vallecano de Madrid",
           "awayTeam": "Real Racing Club de Santander",
           "utcDate": "2026-09-05T16:30:00Z",
@@ -472,6 +465,13 @@
           "utcDate": "2026-09-15T17:00:00Z",
           "matchday": 6,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Deportivo Alavés",
+          "awayTeam": "Valencia CF",
+          "utcDate": "2026-09-15T18:00:00Z",
+          "matchday": 6,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -567,6 +567,15 @@
         },
         {
           "position": 11,
+          "team": "Real Sociedad de Fútbol",
+          "played": 4,
+          "won": 1,
+          "draw": 1,
+          "lost": 2,
+          "points": 4
+        },
+        {
+          "position": 12,
           "team": "RCD Espanyol de Barcelona",
           "played": 3,
           "won": 1,
@@ -575,17 +584,8 @@
           "points": 3
         },
         {
-          "position": 12,
-          "team": "Athletic Club",
-          "played": 3,
-          "won": 1,
-          "draw": 0,
-          "lost": 2,
-          "points": 3
-        },
-        {
           "position": 13,
-          "team": "Real Sociedad de Fútbol",
+          "team": "Athletic Club",
           "played": 3,
           "won": 1,
           "draw": 0,
@@ -613,14 +613,14 @@
         {
           "position": 16,
           "team": "RC Celta de Vigo",
-          "played": 3,
+          "played": 4,
           "won": 0,
-          "draw": 1,
+          "draw": 2,
           "lost": 2,
-          "points": 1
+          "points": 2
         },
         {
-          "position": 16,
+          "position": 17,
           "team": "Valencia CF",
           "played": 3,
           "won": 0,
@@ -1300,13 +1300,6 @@
       "name": "Ligue 1",
       "fixtures": [
         {
-          "homeTeam": "Toulouse FC",
-          "awayTeam": "Lille OSC",
-          "utcDate": "2026-09-03T18:45:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Olympique Lyonnais",
           "awayTeam": "AJ Auxerre",
           "utcDate": "2026-09-04T17:00:00Z",
@@ -1438,11 +1431,27 @@
           "utcDate": "2026-09-19T15:15:00Z",
           "matchday": 5,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Le Mans FC",
+          "awayTeam": "FC Lorient",
+          "utcDate": "2026-09-19T18:45:00Z",
+          "matchday": 5,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
+          "team": "Lille OSC",
+          "played": 3,
+          "won": 2,
+          "draw": 1,
+          "lost": 0,
+          "points": 7
+        },
+        {
+          "position": 2,
           "team": "AS Monaco FC",
           "played": 2,
           "won": 2,
@@ -1451,17 +1460,8 @@
           "points": 6
         },
         {
-          "position": 2,
-          "team": "Paris FC",
-          "played": 2,
-          "won": 1,
-          "draw": 1,
-          "lost": 0,
-          "points": 4
-        },
-        {
           "position": 3,
-          "team": "Lille OSC",
+          "team": "Paris FC",
           "played": 2,
           "won": 1,
           "draw": 1,
@@ -1579,10 +1579,10 @@
         {
           "position": 16,
           "team": "Toulouse FC",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "points": 1
         },
         {
