@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T22:27:34.984Z",
+  "lastUpdated": "2026-09-03T10:54:26.085Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -341,20 +341,6 @@
           "status": "TIMED"
         },
         {
-          "homeTeam": "Real Betis Balompié",
-          "awayTeam": "Real Madrid CF",
-          "utcDate": "2026-09-04T19:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Athletic Club",
-          "awayTeam": "Club Atlético de Madrid",
-          "utcDate": "2026-09-05T14:15:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Rayo Vallecano de Madrid",
           "awayTeam": "Real Racing Club de Santander",
           "utcDate": "2026-09-05T16:30:00Z",
@@ -411,67 +397,81 @@
           "status": "TIMED"
         },
         {
-          "homeTeam": "Rayo Vallecano de Madrid",
-          "awayTeam": "Athletic Club",
-          "utcDate": "2026-10-11T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Deportivo Alavés",
-          "awayTeam": "Club Atlético de Madrid",
-          "utcDate": "2026-10-11T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "FC Barcelona",
-          "awayTeam": "Getafe CF",
-          "utcDate": "2026-10-11T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Real Betis Balompié",
-          "awayTeam": "CA Osasuna",
-          "utcDate": "2026-10-11T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Real Madrid CF",
-          "awayTeam": "Villarreal CF",
-          "utcDate": "2026-10-11T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Elche CF",
-          "awayTeam": "RC Celta de Vigo",
-          "utcDate": "2026-10-11T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Levante UD",
-          "awayTeam": "Sevilla FC",
-          "utcDate": "2026-10-11T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
+          "homeTeam": "Sevilla FC",
+          "awayTeam": "Valencia CF",
+          "utcDate": "2026-09-11T19:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Real Racing Club de Santander",
-          "awayTeam": "Valencia CF",
-          "utcDate": "2026-10-11T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
+          "awayTeam": "Deportivo Alavés",
+          "utcDate": "2026-09-12T12:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
         },
         {
-          "homeTeam": "Málaga CF",
+          "homeTeam": "CA Osasuna",
           "awayTeam": "RCD Espanyol de Barcelona",
-          "utcDate": "2026-10-11T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
+          "utcDate": "2026-09-12T14:15:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Athletic Club",
+          "awayTeam": "Elche CF",
+          "utcDate": "2026-09-12T16:30:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Madrid CF",
+          "awayTeam": "Rayo Vallecano de Madrid",
+          "utcDate": "2026-09-12T19:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Celta de Vigo",
+          "awayTeam": "Málaga CF",
+          "utcDate": "2026-09-13T12:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Levante UD",
+          "awayTeam": "FC Barcelona",
+          "utcDate": "2026-09-13T14:15:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Getafe CF",
+          "awayTeam": "RC Deportivo La Coruña",
+          "utcDate": "2026-09-13T16:30:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Sociedad de Fútbol",
+          "awayTeam": "Club Atlético de Madrid",
+          "utcDate": "2026-09-13T19:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Villarreal CF",
+          "awayTeam": "Real Betis Balompié",
+          "utcDate": "2026-09-14T19:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Rayo Vallecano de Madrid",
+          "awayTeam": "RCD Espanyol de Barcelona",
+          "utcDate": "2026-09-15T17:00:00Z",
+          "matchday": 6,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -662,144 +662,144 @@
       "name": "Bundesliga",
       "fixtures": [
         {
-          "homeTeam": "Borussia Mönchengladbach",
-          "awayTeam": "SC Paderborn 07",
-          "utcDate": "2026-10-31T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "FC Schalke 04",
-          "awayTeam": "RB Leipzig",
-          "utcDate": "2026-10-31T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "1. FC Union Berlin",
+          "homeTeam": "VfB Stuttgart",
           "awayTeam": "1. FC Köln",
-          "utcDate": "2026-10-31T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "FC Augsburg",
-          "awayTeam": "SC Freiburg",
-          "utcDate": "2026-10-31T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
+          "utcDate": "2026-09-04T18:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
         },
         {
           "homeTeam": "SV Werder Bremen",
-          "awayTeam": "TSG 1899 Hoffenheim",
-          "utcDate": "2026-10-31T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Eintracht Frankfurt",
-          "awayTeam": "Hamburger SV",
-          "utcDate": "2026-10-31T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "FC Bayern München",
-          "awayTeam": "Borussia Dortmund",
-          "utcDate": "2026-10-31T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "SV 07 Elversberg",
-          "awayTeam": "1. FSV Mainz 05",
-          "utcDate": "2026-10-31T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Bayer 04 Leverkusen",
-          "awayTeam": "VfB Stuttgart",
-          "utcDate": "2026-10-31T00:00:00Z",
-          "matchday": 8,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "RB Leipzig",
-          "awayTeam": "FC Augsburg",
-          "utcDate": "2026-11-07T00:00:00Z",
-          "matchday": 9,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "VfB Stuttgart",
-          "awayTeam": "SV Werder Bremen",
-          "utcDate": "2026-11-07T00:00:00Z",
-          "matchday": 9,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Borussia Dortmund",
-          "awayTeam": "SV 07 Elversberg",
-          "utcDate": "2026-11-07T00:00:00Z",
-          "matchday": 9,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "1. FSV Mainz 05",
-          "awayTeam": "FC Bayern München",
-          "utcDate": "2026-11-07T00:00:00Z",
-          "matchday": 9,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "Hamburger SV",
-          "awayTeam": "Borussia Mönchengladbach",
-          "utcDate": "2026-11-07T00:00:00Z",
-          "matchday": 9,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "SC Paderborn 07",
-          "awayTeam": "Eintracht Frankfurt",
-          "utcDate": "2026-11-07T00:00:00Z",
-          "matchday": 9,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "SC Freiburg",
-          "awayTeam": "1. FC Union Berlin",
-          "utcDate": "2026-11-07T00:00:00Z",
-          "matchday": 9,
-          "status": "SCHEDULED"
-        },
-        {
-          "homeTeam": "1. FC Köln",
-          "awayTeam": "Bayer 04 Leverkusen",
-          "utcDate": "2026-11-07T00:00:00Z",
-          "matchday": 9,
-          "status": "SCHEDULED"
+          "awayTeam": "RB Leipzig",
+          "utcDate": "2026-09-05T13:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
         },
         {
           "homeTeam": "TSG 1899 Hoffenheim",
-          "awayTeam": "FC Schalke 04",
-          "utcDate": "2026-11-07T00:00:00Z",
-          "matchday": 9,
-          "status": "SCHEDULED"
+          "awayTeam": "Borussia Dortmund",
+          "utcDate": "2026-09-05T13:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
         },
         {
           "homeTeam": "Bayer 04 Leverkusen",
-          "awayTeam": "SC Paderborn 07",
-          "utcDate": "2026-11-21T00:00:00Z",
-          "matchday": 10,
-          "status": "SCHEDULED"
+          "awayTeam": "1. FC Union Berlin",
+          "utcDate": "2026-09-05T13:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Borussia Mönchengladbach",
+          "awayTeam": "SV 07 Elversberg",
+          "utcDate": "2026-09-05T13:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "SC Paderborn 07",
+          "awayTeam": "SC Freiburg",
+          "utcDate": "2026-09-05T13:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "FC Bayern München",
+          "utcDate": "2026-09-05T16:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "1. FSV Mainz 05",
+          "utcDate": "2026-09-06T13:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "FC Augsburg",
+          "utcDate": "2026-09-06T15:30:00Z",
+          "matchday": 2,
+          "status": "TIMED"
         },
         {
           "homeTeam": "1. FC Union Berlin",
-          "awayTeam": "RB Leipzig",
-          "utcDate": "2026-11-21T00:00:00Z",
-          "matchday": 10,
-          "status": "SCHEDULED"
+          "awayTeam": "FC Schalke 04",
+          "utcDate": "2026-09-11T18:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "VfB Stuttgart",
+          "utcDate": "2026-09-12T13:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "SC Paderborn 07",
+          "utcDate": "2026-09-12T13:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "utcDate": "2026-09-12T13:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "Eintracht Frankfurt",
+          "utcDate": "2026-09-12T13:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "Borussia Mönchengladbach",
+          "utcDate": "2026-09-12T13:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "1. FC Köln",
+          "awayTeam": "SV Werder Bremen",
+          "utcDate": "2026-09-12T16:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RB Leipzig",
+          "awayTeam": "Hamburger SV",
+          "utcDate": "2026-09-13T13:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "SV 07 Elversberg",
+          "awayTeam": "FC Bayern München",
+          "utcDate": "2026-09-13T15:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Bayern München",
+          "awayTeam": "1. FC Union Berlin",
+          "utcDate": "2026-09-18T18:30:00Z",
+          "matchday": 4,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "1. FC Köln",
+          "utcDate": "2026-09-19T13:30:00Z",
+          "matchday": 4,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1028,6 +1028,13 @@
           "status": "TIMED"
         },
         {
+          "homeTeam": "Cagliari Calcio",
+          "awayTeam": "US Lecce",
+          "utcDate": "2026-09-07T16:30:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
           "homeTeam": "Udinese Calcio",
           "awayTeam": "SS Lazio",
           "utcDate": "2026-09-07T18:45:00Z",
@@ -1045,6 +1052,13 @@
           "homeTeam": "Genoa CFC",
           "awayTeam": "Frosinone Calcio",
           "utcDate": "2026-09-12T13:00:00Z",
+          "matchday": 4,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "SS Lazio",
+          "awayTeam": "AC Milan",
+          "utcDate": "2026-09-12T16:00:00Z",
           "matchday": 4,
           "status": "TIMED"
         },
@@ -1070,45 +1084,31 @@
           "status": "TIMED"
         },
         {
-          "homeTeam": "FC Internazionale Milano",
-          "awayTeam": "Udinese Calcio",
-          "utcDate": "2026-09-14T18:45:00Z",
+          "homeTeam": "US Sassuolo Calcio",
+          "awayTeam": "Juventus FC",
+          "utcDate": "2026-09-13T18:45:00Z",
           "matchday": 4,
           "status": "TIMED"
         },
         {
-          "homeTeam": "AC Monza",
-          "awayTeam": "US Sassuolo Calcio",
-          "utcDate": "2026-09-18T18:45:00Z",
-          "matchday": 5,
+          "homeTeam": "Como 1907",
+          "awayTeam": "Parma Calcio 1913",
+          "utcDate": "2026-09-14T16:30:00Z",
+          "matchday": 4,
           "status": "TIMED"
         },
         {
-          "homeTeam": "Bologna FC 1909",
-          "awayTeam": "Torino FC",
-          "utcDate": "2026-09-19T13:00:00Z",
-          "matchday": 5,
+          "homeTeam": "Torino FC",
+          "awayTeam": "AS Roma",
+          "utcDate": "2026-09-14T16:30:00Z",
+          "matchday": 4,
           "status": "TIMED"
         },
         {
-          "homeTeam": "Udinese Calcio",
-          "awayTeam": "Cagliari Calcio",
-          "utcDate": "2026-09-19T13:00:00Z",
-          "matchday": 5,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "AS Roma",
-          "awayTeam": "FC Internazionale Milano",
-          "utcDate": "2026-09-19T16:00:00Z",
-          "matchday": 5,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Venezia FC",
-          "awayTeam": "SS Lazio",
-          "utcDate": "2026-09-19T18:45:00Z",
-          "matchday": 5,
+          "homeTeam": "FC Internazionale Milano",
+          "awayTeam": "Udinese Calcio",
+          "utcDate": "2026-09-14T18:45:00Z",
+          "matchday": 4,
           "status": "TIMED"
         }
       ],
@@ -1426,17 +1426,17 @@
           "status": "TIMED"
         },
         {
-          "homeTeam": "Olympique de Marseille",
-          "awayTeam": "Paris Saint-Germain FC",
-          "utcDate": "2026-09-20T18:45:00Z",
+          "homeTeam": "AS Monaco FC",
+          "awayTeam": "Racing Club de Lens",
+          "utcDate": "2026-09-18T18:45:00Z",
           "matchday": 5,
           "status": "TIMED"
         },
         {
-          "homeTeam": "Paris Saint-Germain FC",
-          "awayTeam": "Olympique Lyonnais",
-          "utcDate": "2026-10-25T19:45:00Z",
-          "matchday": 8,
+          "homeTeam": "Paris FC",
+          "awayTeam": "RC Strasbourg Alsace",
+          "utcDate": "2026-09-19T15:15:00Z",
+          "matchday": 5,
           "status": "TIMED"
         }
       ],
