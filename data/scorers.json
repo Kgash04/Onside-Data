@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T16:55:25.151Z",
+  "lastUpdated": "2026-09-05T22:11:46.992Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -242,6 +242,18 @@
       "playedMatches": 3
     },
     {
+      "slug": "sergio-camello",
+      "name": "Sergio Camello",
+      "team": "Rayo Vallecano de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 5,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "raphinha",
       "name": "Raphinha",
       "team": "FC Barcelona",
@@ -252,6 +264,18 @@
       "assists": 0,
       "penalties": 1,
       "playedMatches": 3
+    },
+    {
+      "slug": "pierre-emerick-aubameyang",
+      "name": "Pierre-Emerick Aubameyang",
+      "team": "RC Deportivo La Coruña",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Gabon",
+      "goals": 4,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 4
     },
     {
       "slug": "kylian-mbapp",
@@ -278,33 +302,9 @@
       "playedMatches": 3
     },
     {
-      "slug": "pierre-emerick-aubameyang",
-      "name": "Pierre-Emerick Aubameyang",
-      "team": "RC Deportivo La Coruña",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Gabon",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
       "slug": "lex-baena",
       "name": "Álex Baena",
       "team": "Club Atlético de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "sergio-camello",
-      "name": "Sergio Camello",
-      "team": "Rayo Vallecano de Madrid",
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Spain",
@@ -350,6 +350,18 @@
       "playedMatches": 3
     },
     {
+      "slug": "nicolas-p-p",
+      "name": "Nicolas Pépé",
+      "team": "Villarreal CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Ivory Coast",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "rodrigo-riquelme",
       "name": "Rodrigo Riquelme",
       "team": "Real Betis Balompié",
@@ -370,6 +382,18 @@
       "nationality": "England",
       "goals": 2,
       "assists": 2,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
+      "slug": "pablo-garc-a",
+      "name": "Pablo García",
+      "team": "Real Racing Club de Santander",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 0,
       "penalties": 0,
       "playedMatches": 4
     },
@@ -456,30 +480,6 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 4
-    },
-    {
-      "slug": "jon-guridi",
-      "name": "Jon Guridi",
-      "team": "Sevilla FC",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 3
-    },
-    {
-      "slug": "peque",
-      "name": "Peque",
-      "team": "Sevilla FC",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 3
     },
     {
       "slug": "younes-ebnoutalib",
@@ -731,7 +731,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "hassane-kamara",
@@ -830,6 +830,30 @@
       "playedMatches": 3
     },
     {
+      "slug": "rasmus-h-jlund",
+      "name": "Rasmus Højlund",
+      "team": "SSC Napoli",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Denmark",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
+      "slug": "matias-soule",
+      "name": "Matias Soule",
+      "team": "AS Roma",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Argentina",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "assane-diao",
       "name": "Assane Diao",
       "team": "Como 1907",
@@ -838,6 +862,18 @@
       "nationality": "Senegal",
       "goals": 2,
       "assists": 1,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
+      "slug": "lautaro-mart-nez",
+      "name": "Lautaro Martínez",
+      "team": "FC Internazionale Milano",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Argentina",
+      "goals": 2,
+      "assists": 0,
       "penalties": 0,
       "playedMatches": 3
     },
@@ -926,40 +962,16 @@
       "playedMatches": 2
     },
     {
-      "slug": "olaf-gorter",
-      "name": "Olaf Gorter",
-      "team": "US Lecce",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Netherlands",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "tiago-gabriel",
-      "name": "Tiago Gabriel",
-      "team": "US Lecce",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Portugal",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "giacomo-raspadori",
-      "name": "Giacomo Raspadori",
-      "team": "Atalanta BC",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Italy",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
+      "slug": "kamory-doumbia",
+      "name": "Kamory Doumbia",
+      "team": "Stade Brestois 29",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Mali",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 1,
+      "playedMatches": 3
     },
     {
       "slug": "florian-thauvin",
@@ -983,7 +995,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "esteban-lepaul",
@@ -1007,18 +1019,6 @@
       "goals": 2,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 2
-    },
-    {
-      "slug": "kamory-doumbia",
-      "name": "Kamory Doumbia",
-      "team": "Stade Brestois 29",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Mali",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
       "playedMatches": 2
     },
     {
@@ -1175,7 +1175,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "noah-nartey",
