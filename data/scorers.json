@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T17:17:39.963Z",
+  "lastUpdated": "2026-09-06T22:15:36.042Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -302,6 +302,30 @@
       "playedMatches": 4
     },
     {
+      "slug": "ante-budimir",
+      "name": "Ante Budimir",
+      "team": "CA Osasuna",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Croatia",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 3,
+      "playedMatches": 4
+    },
+    {
+      "slug": "lucas-boy",
+      "name": "Lucas Boyé",
+      "team": "Deportivo Alavés",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Argentina",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "lamine-yamal",
       "name": "Lamine Yamal",
       "team": "FC Barcelona",
@@ -335,7 +359,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "lex-baena",
@@ -408,30 +432,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 4
-    },
-    {
-      "slug": "ante-budimir",
-      "name": "Ante Budimir",
-      "team": "CA Osasuna",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Croatia",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 2,
-      "playedMatches": 4
-    },
-    {
-      "slug": "lucas-boy",
-      "name": "Lucas Boyé",
-      "team": "Deportivo Alavés",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Argentina",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
     },
     {
       "slug": "brugui",
@@ -794,6 +794,18 @@
       "playedMatches": 2
     },
     {
+      "slug": "alphadjo-cisse",
+      "name": "Alphadjo Cisse",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "che-adams",
       "name": "Che Adams",
       "team": "Torino FC",
@@ -950,16 +962,16 @@
       "playedMatches": 2
     },
     {
-      "slug": "bremer",
-      "name": "Bremer",
-      "team": "Juventus FC",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Brazil",
-      "goals": 1,
+      "slug": "amine-gouiri",
+      "name": "Amine Gouiri",
+      "team": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Algeria",
+      "goals": 4,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
+      "penalties": 1,
+      "playedMatches": 3
     },
     {
       "slug": "kamory-doumbia",
@@ -971,6 +983,18 @@
       "goals": 4,
       "assists": 1,
       "penalties": 1,
+      "playedMatches": 3
+    },
+    {
+      "slug": "lassine-sinayoko",
+      "name": "Lassine Sinayoko",
+      "team": "Paris FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Mali",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 2,
       "playedMatches": 3
     },
     {
@@ -1008,18 +1032,6 @@
       "assists": 0,
       "penalties": 1,
       "playedMatches": 3
-    },
-    {
-      "slug": "amine-gouiri",
-      "name": "Amine Gouiri",
-      "team": "Olympique de Marseille",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Algeria",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 2
     },
     {
       "slug": "ferr-n-torres",
@@ -1091,7 +1103,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "pierre-emile-h-jbjerg",
@@ -1103,7 +1115,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "franjo-ivanovic",
@@ -1184,18 +1196,6 @@
       "league": "Ligue 1",
       "leagueCode": "FL1",
       "nationality": "Senegal",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "noah-nartey",
-      "name": "Noah Nartey",
-      "team": "Olympique Lyonnais",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Denmark",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
