@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T12:57:39.881Z",
+  "lastUpdated": "2026-09-07T18:50:00.390Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -755,7 +755,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "anastasios-douvikas",
@@ -827,7 +827,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "martin-baturina",
@@ -959,7 +959,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "amine-gouiri",
