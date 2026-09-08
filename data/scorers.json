@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T11:39:24.569Z",
+  "lastUpdated": "2026-09-08T18:02:03.716Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1200,6 +1200,66 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 3
+    },
+    {
+      "slug": "john-mcginn",
+      "name": "John McGinn",
+      "team": "Aston Villa FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Scotland",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "hugo-vetlesen",
+      "name": "Hugo Vetlesen",
+      "team": "Club Brugge KV",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Belgium",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "emiliano-buend-a",
+      "name": "Emiliano Buendía",
+      "team": "Aston Villa FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Argentina",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "nicolas-jackson",
+      "name": "Nicolas Jackson",
+      "team": "Aston Villa FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Senegal",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "r-zvan-marin",
+      "name": "Răzvan Marin",
+      "team": "PAE AEK",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Romania",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
     }
   ]
 }
