@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T18:02:03.716Z",
+  "lastUpdated": "2026-09-08T22:55:47.243Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1202,6 +1202,42 @@
       "playedMatches": 3
     },
     {
+      "slug": "erling-haaland",
+      "name": "Erling Haaland",
+      "team": "Manchester City FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Norway",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "sehrou-guirassy",
+      "name": "Sehrou Guirassy",
+      "team": "Borussia Dortmund",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Guinea",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 1
+    },
+    {
+      "slug": "bartra",
+      "name": "Bartra",
+      "team": "Real Betis Balompié",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
       "slug": "john-mcginn",
       "name": "John McGinn",
       "team": "Aston Villa FC",
@@ -1250,12 +1286,108 @@
       "playedMatches": 1
     },
     {
+      "slug": "nicolo-tresoldi",
+      "name": "Nicolo Tresoldi",
+      "team": "Club Brugge KV",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Italy",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 1
+    },
+    {
       "slug": "r-zvan-marin",
       "name": "Răzvan Marin",
       "team": "PAE AEK",
       "league": "Champions League",
       "leagueCode": "CL",
       "nationality": "Romania",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "kylian-mbapp",
+      "name": "Kylian Mbappé",
+      "team": "Real Madrid CF",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "France",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "federico-valverde",
+      "name": "Federico Valverde",
+      "team": "Real Madrid CF",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Uruguay",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "carlos-augusto-lobaton",
+      "name": "Carlos Augusto Lobaton",
+      "team": "FC Internazionale Milano",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Brazil",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "santiago-mouri-o",
+      "name": "Santiago Mouriño",
+      "team": "Villarreal CF",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Uruguay",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "ayase-ueda",
+      "name": "Ayase Ueda",
+      "team": "Lille OSC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Japan",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "alexsandro-ribeiro",
+      "name": "Alexsandro Ribeiro",
+      "team": "Lille OSC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Brazil",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "troy-parrott",
+      "name": "Troy Parrott",
+      "team": "Real Betis Balompié",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Ireland",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
