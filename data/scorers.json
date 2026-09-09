@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:56:48.628Z",
+  "lastUpdated": "2026-09-09T22:42:26.661Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1214,6 +1214,18 @@
       "playedMatches": 1
     },
     {
+      "slug": "ferr-n-torres",
+      "name": "Ferrán Torres",
+      "team": "Paris Saint-Germain FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Spain",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
       "slug": "erling-haaland",
       "name": "Erling Haaland",
       "team": "Manchester City FC",
@@ -1246,6 +1258,30 @@
       "nationality": "Spain",
       "goals": 2,
       "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "raphinha",
+      "name": "Raphinha",
+      "team": "FC Barcelona",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Brazil",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "ousmane-demb-l",
+      "name": "Ousmane Dembélé",
+      "team": "Paris Saint-Germain FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "France",
+      "goals": 2,
+      "assists": 2,
       "penalties": 0,
       "playedMatches": 1
     },
@@ -1400,42 +1436,6 @@
       "league": "Champions League",
       "leagueCode": "CL",
       "nationality": "Ireland",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "raphinha",
-      "name": "Raphinha",
-      "team": "FC Barcelona",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Brazil",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "karim-adeyemi",
-      "name": "Karim Adeyemi",
-      "team": "FC Barcelona",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Germany",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "zlatko-tripi",
-      "name": "Zlatko Tripić",
-      "team": "Viking FK",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Norway",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
