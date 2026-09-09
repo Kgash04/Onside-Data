@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T11:45:22.693Z",
+  "lastUpdated": "2026-09-09T17:56:48.628Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1202,6 +1202,18 @@
       "playedMatches": 3
     },
     {
+      "slug": "ermedin-demirovic",
+      "name": "Ermedin Demirovic",
+      "team": "VfB Stuttgart",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Bosnia-Herzegovina",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
       "slug": "erling-haaland",
       "name": "Erling Haaland",
       "team": "Manchester City FC",
@@ -1388,6 +1400,42 @@
       "league": "Champions League",
       "leagueCode": "CL",
       "nationality": "Ireland",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "raphinha",
+      "name": "Raphinha",
+      "team": "FC Barcelona",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Brazil",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "karim-adeyemi",
+      "name": "Karim Adeyemi",
+      "team": "FC Barcelona",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Germany",
+      "goals": 1,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "zlatko-tripi",
+      "name": "Zlatko Tripić",
+      "team": "Viking FK",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Norway",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
