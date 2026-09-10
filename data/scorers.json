@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T17:48:40.918Z",
+  "lastUpdated": "2026-09-10T22:44:30.708Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1286,6 +1286,30 @@
       "playedMatches": 1
     },
     {
+      "slug": "michael-olise",
+      "name": "Michael Olise",
+      "team": "FC Bayern München",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "France",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
+      "slug": "danijel-sturm",
+      "name": "Danijel Sturm",
+      "team": "SK Slavia Praha",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Slovenia",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 1
+    },
+    {
       "slug": "john-mcginn",
       "name": "John McGinn",
       "team": "Aston Villa FC",
@@ -1412,30 +1436,6 @@
       "league": "Champions League",
       "leagueCode": "CL",
       "nationality": "Japan",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "alexsandro-ribeiro",
-      "name": "Alexsandro Ribeiro",
-      "team": "Lille OSC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Brazil",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "troy-parrott",
-      "name": "Troy Parrott",
-      "team": "Real Betis Balompié",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Ireland",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
