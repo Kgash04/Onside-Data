@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T10:55:58.102Z",
+  "lastUpdated": "2026-09-10T17:34:29.870Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -663,142 +663,142 @@
       "fixtures": [
         {
           "homeTeam": "1. FC Union Berlin",
-          "awayTeam": "FC Schalke 04",
-          "utcDate": "2026-09-11T18:30:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "TSG 1899 Hoffenheim",
-          "awayTeam": "VfB Stuttgart",
-          "utcDate": "2026-09-12T13:30:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Borussia Dortmund",
-          "awayTeam": "SC Paderborn 07",
-          "utcDate": "2026-09-12T13:30:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "FC Augsburg",
-          "awayTeam": "Bayer 04 Leverkusen",
-          "utcDate": "2026-09-12T13:30:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "1. FSV Mainz 05",
-          "awayTeam": "Eintracht Frankfurt",
-          "utcDate": "2026-09-12T13:30:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "SC Freiburg",
-          "awayTeam": "Borussia Mönchengladbach",
-          "utcDate": "2026-09-12T13:30:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "1. FC Köln",
-          "awayTeam": "SV Werder Bremen",
-          "utcDate": "2026-09-12T16:30:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "RB Leipzig",
           "awayTeam": "Hamburger SV",
-          "utcDate": "2026-09-13T13:30:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "SV 07 Elversberg",
-          "awayTeam": "FC Bayern München",
-          "utcDate": "2026-09-13T15:30:00Z",
-          "matchday": 3,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "FC Bayern München",
-          "awayTeam": "1. FC Union Berlin",
-          "utcDate": "2026-09-18T18:30:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Hamburger SV",
-          "awayTeam": "1. FC Köln",
-          "utcDate": "2026-09-19T13:30:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Borussia Mönchengladbach",
-          "awayTeam": "1. FSV Mainz 05",
-          "utcDate": "2026-09-19T13:30:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "SV Werder Bremen",
-          "awayTeam": "FC Augsburg",
-          "utcDate": "2026-09-19T13:30:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Eintracht Frankfurt",
-          "awayTeam": "SC Freiburg",
-          "utcDate": "2026-09-19T13:30:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "VfB Stuttgart",
-          "awayTeam": "Borussia Dortmund",
-          "utcDate": "2026-09-19T16:30:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Bayer 04 Leverkusen",
-          "awayTeam": "RB Leipzig",
-          "utcDate": "2026-09-20T13:30:00Z",
-          "matchday": 4,
-          "status": "TIMED"
+          "utcDate": "2026-12-05T00:00:00Z",
+          "matchday": 12,
+          "status": "SCHEDULED"
         },
         {
           "homeTeam": "FC Schalke 04",
-          "awayTeam": "SV 07 Elversberg",
-          "utcDate": "2026-09-20T15:30:00Z",
-          "matchday": 4,
-          "status": "TIMED"
+          "awayTeam": "Borussia Dortmund",
+          "utcDate": "2026-12-05T00:00:00Z",
+          "matchday": 12,
+          "status": "SCHEDULED"
         },
         {
-          "homeTeam": "SC Paderborn 07",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "Borussia Mönchengladbach",
+          "utcDate": "2026-12-05T00:00:00Z",
+          "matchday": 12,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "SV Werder Bremen",
+          "utcDate": "2026-12-05T00:00:00Z",
+          "matchday": 12,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "RB Leipzig",
+          "awayTeam": "1. FSV Mainz 05",
+          "utcDate": "2026-12-05T00:00:00Z",
+          "matchday": 12,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "SV 07 Elversberg",
+          "awayTeam": "VfB Stuttgart",
+          "utcDate": "2026-12-05T00:00:00Z",
+          "matchday": 12,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "SC Freiburg",
           "awayTeam": "TSG 1899 Hoffenheim",
-          "utcDate": "2026-09-20T17:30:00Z",
-          "matchday": 4,
-          "status": "TIMED"
+          "utcDate": "2026-12-05T00:00:00Z",
+          "matchday": 12,
+          "status": "SCHEDULED"
         },
         {
-          "homeTeam": "1. FSV Mainz 05",
-          "awayTeam": "Bayer 04 Leverkusen",
-          "utcDate": "2026-10-10T00:00:00Z",
-          "matchday": 5,
+          "homeTeam": "FC Bayern München",
+          "awayTeam": "SC Paderborn 07",
+          "utcDate": "2026-12-05T00:00:00Z",
+          "matchday": 12,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "1. FC Köln",
+          "utcDate": "2026-12-05T00:00:00Z",
+          "matchday": 12,
           "status": "SCHEDULED"
         },
         {
           "homeTeam": "SC Paderborn 07",
-          "awayTeam": "VfB Stuttgart",
-          "utcDate": "2026-10-10T00:00:00Z",
-          "matchday": 5,
+          "awayTeam": "SV 07 Elversberg",
+          "utcDate": "2026-12-12T00:00:00Z",
+          "matchday": 13,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "SV Werder Bremen",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "utcDate": "2026-12-12T00:00:00Z",
+          "matchday": 13,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "1. FC Union Berlin",
+          "utcDate": "2026-12-12T00:00:00Z",
+          "matchday": 13,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "FC Augsburg",
+          "utcDate": "2026-12-12T00:00:00Z",
+          "matchday": 13,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "FC Schalke 04",
+          "utcDate": "2026-12-12T00:00:00Z",
+          "matchday": 13,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "SC Freiburg",
+          "utcDate": "2026-12-12T00:00:00Z",
+          "matchday": 13,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "1. FC Köln",
+          "awayTeam": "RB Leipzig",
+          "utcDate": "2026-12-12T00:00:00Z",
+          "matchday": 13,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "FC Bayern München",
+          "utcDate": "2026-12-12T00:00:00Z",
+          "matchday": 13,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "Borussia Mönchengladbach",
+          "awayTeam": "Eintracht Frankfurt",
+          "utcDate": "2026-12-12T00:00:00Z",
+          "matchday": 13,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "Borussia Mönchengladbach",
+          "utcDate": "2026-12-19T00:00:00Z",
+          "matchday": 14,
+          "status": "SCHEDULED"
+        },
+        {
+          "homeTeam": "FC Bayern München",
+          "awayTeam": "SV Werder Bremen",
+          "utcDate": "2026-12-19T00:00:00Z",
+          "matchday": 14,
           "status": "SCHEDULED"
         }
       ],
@@ -1610,20 +1610,6 @@
       "name": "Champions League",
       "fixtures": [
         {
-          "homeTeam": "Fenerbahçe SK",
-          "awayTeam": "AS Roma",
-          "utcDate": "2026-09-10T16:45:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "PSV",
-          "awayTeam": "FK Shakhtar Donetsk",
-          "utcDate": "2026-09-10T16:45:00Z",
-          "matchday": 1,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "FC Bayern München",
           "awayTeam": "FK Bodø/Glimt",
           "utcDate": "2026-09-10T19:00:00Z",
@@ -1748,6 +1734,20 @@
           "utcDate": "2026-10-14T19:00:00Z",
           "matchday": 2,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Aston Villa FC",
+          "awayTeam": "Fenerbahçe SK",
+          "utcDate": "2026-10-14T19:00:00Z",
+          "matchday": 2,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Betis Balompié",
+          "awayTeam": "FC Porto",
+          "utcDate": "2026-10-14T19:00:00Z",
+          "matchday": 2,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1851,8 +1851,8 @@
           "points": 3
         },
         {
-          "position": 12,
-          "team": "PAE AEK",
+          "position": 11,
+          "team": "AS Roma",
           "played": 1,
           "won": 1,
           "draw": 0,
@@ -1861,15 +1861,33 @@
         },
         {
           "position": 13,
-          "team": "AS Roma",
-          "played": 0,
-          "won": 0,
+          "team": "PAE AEK",
+          "played": 1,
+          "won": 1,
           "draw": 0,
           "lost": 0,
-          "points": 0
+          "points": 3
         },
         {
-          "position": 13,
+          "position": 14,
+          "team": "PSV",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 14,
+          "team": "FK Shakhtar Donetsk",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1
+        },
+        {
+          "position": 16,
           "team": "FC Bayern München",
           "played": 0,
           "won": 0,
@@ -1878,7 +1896,7 @@
           "points": 0
         },
         {
-          "position": 13,
+          "position": 16,
           "team": "Como 1907",
           "played": 0,
           "won": 0,
@@ -1887,16 +1905,7 @@
           "points": 0
         },
         {
-          "position": 13,
-          "team": "Fenerbahçe SK",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 13,
+          "position": 16,
           "team": "FK Bodø/Glimt",
           "played": 0,
           "won": 0,
@@ -1905,7 +1914,7 @@
           "points": 0
         },
         {
-          "position": 13,
+          "position": 16,
           "team": "Manchester United FC",
           "played": 0,
           "won": 0,
@@ -1914,16 +1923,7 @@
           "points": 0
         },
         {
-          "position": 13,
-          "team": "PSV",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 13,
+          "position": 16,
           "team": "RB Leipzig",
           "played": 0,
           "won": 0,
@@ -1932,7 +1932,7 @@
           "points": 0
         },
         {
-          "position": 13,
+          "position": 16,
           "team": "Racing Club de Lens",
           "played": 0,
           "won": 0,
@@ -1941,7 +1941,7 @@
           "points": 0
         },
         {
-          "position": 13,
+          "position": 16,
           "team": "Sabah FK",
           "played": 0,
           "won": 0,
@@ -1950,16 +1950,7 @@
           "points": 0
         },
         {
-          "position": 13,
-          "team": "FK Shakhtar Donetsk",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0
-        },
-        {
-          "position": 13,
+          "position": 16,
           "team": "SK Slavia Praha",
           "played": 0,
           "won": 0,
@@ -1968,7 +1959,7 @@
           "points": 0
         },
         {
-          "position": 25,
+          "position": 24,
           "team": "Villarreal CF",
           "played": 1,
           "won": 0,
@@ -1977,7 +1968,7 @@
           "points": 0
         },
         {
-          "position": 26,
+          "position": 25,
           "team": "Club Brugge KV",
           "played": 1,
           "won": 0,
@@ -1986,7 +1977,7 @@
           "points": 0
         },
         {
-          "position": 26,
+          "position": 25,
           "team": "Lille OSC",
           "played": 1,
           "won": 0,
@@ -1995,7 +1986,7 @@
           "points": 0
         },
         {
-          "position": 28,
+          "position": 27,
           "team": "Club Atlético de Madrid",
           "played": 1,
           "won": 0,
@@ -2004,7 +1995,7 @@
           "points": 0
         },
         {
-          "position": 28,
+          "position": 27,
           "team": "FC Internazionale Milano",
           "played": 1,
           "won": 0,
@@ -2013,7 +2004,16 @@
           "points": 0
         },
         {
-          "position": 30,
+          "position": 29,
+          "team": "Fenerbahçe SK",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0
+        },
+        {
+          "position": 29,
           "team": "LASK Linz",
           "played": 1,
           "won": 0,
@@ -2022,7 +2022,7 @@
           "points": 0
         },
         {
-          "position": 30,
+          "position": 29,
           "team": "SSC Napoli",
           "played": 1,
           "won": 0,
