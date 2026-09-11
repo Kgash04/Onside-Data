@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T17:51:18.752Z",
+  "lastUpdated": "2026-09-11T22:44:50.526Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -530,6 +530,18 @@
       "playedMatches": 2
     },
     {
+      "slug": "tim-skarke",
+      "name": "Tim Skarke",
+      "team": "1. FC Union Berlin",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "david-mokwa-ntusu",
       "name": "David Mokwa Ntusu",
       "team": "SV 07 Elversberg",
@@ -710,18 +722,6 @@
       "playedMatches": 3
     },
     {
-      "slug": "tim-skarke",
-      "name": "Tim Skarke",
-      "team": "1. FC Union Berlin",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
       "slug": "donyell-malen",
       "name": "Donyell Malen",
       "team": "AS Roma",
@@ -756,6 +756,18 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 3
+    },
+    {
+      "slug": "franco-mastantuono",
+      "name": "Franco Mastantuono",
+      "team": "ACF Fiorentina",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Argentina",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 4
     },
     {
       "slug": "hassane-kamara",
@@ -878,6 +890,18 @@
       "playedMatches": 3
     },
     {
+      "slug": "mateo-pellegrino",
+      "name": "Mateo Pellegrino",
+      "team": "ACF Fiorentina",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Argentina",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "lautaro-mart-nez",
       "name": "Lautaro Martínez",
       "team": "FC Internazionale Milano",
@@ -938,30 +962,6 @@
       "playedMatches": 3
     },
     {
-      "slug": "antonio-vergara",
-      "name": "Antonio Vergara",
-      "team": "SSC Napoli",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Italy",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "alessandro-romano",
-      "name": "Alessandro Romano",
-      "team": "Cagliari Calcio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Switzerland",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
       "slug": "amine-gouiri",
       "name": "Amine Gouiri",
       "team": "Olympique de Marseille",
@@ -971,7 +971,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "kamory-doumbia",
@@ -1031,7 +1031,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "ferr-n-torres",
@@ -1103,7 +1103,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "pierre-emile-h-jbjerg",
@@ -1115,7 +1115,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "franjo-ivanovic",
