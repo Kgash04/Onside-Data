@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T11:43:31.851Z",
+  "lastUpdated": "2026-09-11T17:51:18.752Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -695,7 +695,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "leopold-querfeld",
@@ -707,7 +707,7 @@
       "goals": 1,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "tim-skarke",
@@ -719,7 +719,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "donyell-malen",
