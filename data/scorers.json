@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-09-12T11:09:49.802Z",
+  "lastUpdated": "2026-09-12T17:23:38.876Z",
   "players": [
+    {
+      "slug": "marcus-tavernier",
+      "name": "Marcus Tavernier",
+      "team": "AFC Bournemouth",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "England",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
+      "slug": "jo-o-pedro",
+      "name": "João Pedro",
+      "team": "Chelsea FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Brazil",
+      "goals": 3,
+      "assists": 3,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
+      "slug": "morgan-rogers",
+      "name": "Morgan Rogers",
+      "team": "Chelsea FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "England",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
+    },
     {
       "slug": "erling-haaland",
       "name": "Erling Haaland",
@@ -23,7 +59,19 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
+    },
+    {
+      "slug": "kevin-schade",
+      "name": "Kevin Schade",
+      "team": "Brentford FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Germany",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 4
     },
     {
       "slug": "bruno-fernandes",
@@ -74,6 +122,18 @@
       "playedMatches": 3
     },
     {
+      "slug": "emersonn",
+      "name": "Emersonn",
+      "team": "Ipswich Town FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Brazil",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "vitaly-janelt",
       "name": "Vitaly Janelt",
       "team": "Brentford FC",
@@ -83,19 +143,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "marcus-tavernier",
-      "name": "Marcus Tavernier",
-      "team": "AFC Bournemouth",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "England",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "jack-hinshelwood",
@@ -122,18 +170,6 @@
       "playedMatches": 3
     },
     {
-      "slug": "jo-o-pedro",
-      "name": "João Pedro",
-      "team": "Chelsea FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "Brazil",
-      "goals": 2,
-      "assists": 2,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
       "slug": "joshua-king",
       "name": "Joshua King",
       "team": "Fulham FC",
@@ -143,19 +179,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "morgan-rogers",
-      "name": "Morgan Rogers",
-      "team": "Chelsea FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "England",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "cole-palmer",
@@ -165,9 +189,9 @@
       "leagueCode": "PL",
       "nationality": "England",
       "goals": 2,
-      "assists": 1,
+      "assists": 2,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "rayan-cherki",
@@ -180,6 +204,18 @@
       "assists": 2,
       "penalties": 0,
       "playedMatches": 3
+    },
+    {
+      "slug": "leif-davis",
+      "name": "Leif Davis",
+      "team": "Ipswich Town FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "England",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
     },
     {
       "slug": "bryan-mbeumo",
@@ -203,43 +239,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "semi-ajayi",
-      "name": "Semi Ajayi",
-      "team": "Hull City AFC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "Nigeria",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "nobel-mendy",
-      "name": "Nobel Mendy",
-      "team": "Hull City AFC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "Senegal",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "emersonn",
-      "name": "Emersonn",
-      "team": "Ipswich Town FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "Brazil",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "raphinha",
@@ -254,6 +254,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "roberto-fern-ndez",
+      "name": "Roberto Fernández",
+      "team": "RCD Espanyol de Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 5,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
       "slug": "sergio-camello",
       "name": "Sergio Camello",
       "team": "Rayo Vallecano de Madrid",
@@ -264,6 +276,18 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 4
+    },
+    {
+      "slug": "yassir-zabiri",
+      "name": "Yassir Zabiri",
+      "team": "Real Racing Club de Santander",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Morocco",
+      "goals": 5,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
     },
     {
       "slug": "pierre-emerick-aubameyang",
@@ -311,7 +335,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 3,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "lucas-boy",
@@ -350,18 +374,6 @@
       "playedMatches": 5
     },
     {
-      "slug": "roberto-fern-ndez",
-      "name": "Roberto Fernández",
-      "team": "RCD Espanyol de Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 4
-    },
-    {
       "slug": "lex-baena",
       "name": "Álex Baena",
       "team": "Club Atlético de Madrid",
@@ -372,18 +384,6 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 4
-    },
-    {
-      "slug": "yassir-zabiri",
-      "name": "Yassir Zabiri",
-      "team": "Real Racing Club de Santander",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Morocco",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 5
     },
     {
       "slug": "nicolas-p-p",
@@ -455,7 +455,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "brugui",
@@ -479,7 +479,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "younes-ebnoutalib",
@@ -491,7 +491,19 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
+    },
+    {
+      "slug": "patrik-schick",
+      "name": "Patrik Schick",
+      "team": "Bayer 04 Leverkusen",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Czech Republic",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 3
     },
     {
       "slug": "yuito-suzuki",
@@ -503,7 +515,43 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
+    },
+    {
+      "slug": "igor-matanovic",
+      "name": "Igor Matanovic",
+      "team": "SC Freiburg",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Croatia",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
+      "slug": "michael-gregoritsch",
+      "name": "Michael Gregoritsch",
+      "team": "FC Augsburg",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Austria",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
+      "slug": "phillip-tietz",
+      "name": "Phillip Tietz",
+      "team": "1. FSV Mainz 05",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
     },
     {
       "slug": "josha-vagnoman",
@@ -515,7 +563,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "ridle-baku",
@@ -554,16 +602,16 @@
       "playedMatches": 2
     },
     {
-      "slug": "patrik-schick",
-      "name": "Patrik Schick",
+      "slug": "christian-kofane",
+      "name": "Christian Kofane",
       "team": "Bayer 04 Leverkusen",
       "league": "Bundesliga",
       "leagueCode": "BL1",
-      "nationality": "Czech Republic",
+      "nationality": "Cameroon",
       "goals": 2,
-      "assists": 1,
+      "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "thijs-dallinga",
@@ -575,7 +623,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "sehrou-guirassy",
@@ -585,9 +633,21 @@
       "leagueCode": "BL1",
       "nationality": "Guinea",
       "goals": 2,
-      "assists": 1,
+      "assists": 2,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
+    },
+    {
+      "slug": "f-bio-silva",
+      "name": "Fábio Silva",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Portugal",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
     },
     {
       "slug": "hugo-bolin",
@@ -599,7 +659,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "maurice-krattenmacher",
@@ -614,110 +674,50 @@
       "playedMatches": 2
     },
     {
-      "slug": "phillip-tietz",
-      "name": "Phillip Tietz",
-      "team": "1. FSV Mainz 05",
+      "slug": "maximilian-eggestein",
+      "name": "Maximilian Eggestein",
+      "team": "SC Freiburg",
       "league": "Bundesliga",
       "leagueCode": "BL1",
       "nationality": "Germany",
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
-      "slug": "dayot-upamecano",
-      "name": "Dayot Upamecano",
-      "team": "FC Bayern München",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "France",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "michael-olise",
-      "name": "Michael Olise",
-      "team": "FC Bayern München",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "France",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "aleksandar-pavlovi",
-      "name": "Aleksandar Pavlović",
-      "team": "FC Bayern München",
+      "slug": "jonathan-burkardt",
+      "name": "Jonathan Burkardt",
+      "team": "Eintracht Frankfurt",
       "league": "Bundesliga",
       "leagueCode": "BL1",
       "nationality": "Germany",
-      "goals": 1,
-      "assists": 0,
+      "goals": 2,
+      "assists": 1,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
-      "slug": "luis-d-az",
-      "name": "Luis Díaz",
-      "team": "FC Bayern München",
+      "slug": "adam-hlo-ek",
+      "name": "Adam Hložek",
+      "team": "TSG 1899 Hoffenheim",
       "league": "Bundesliga",
       "leagueCode": "BL1",
-      "nationality": "Colombia",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "antonio-nusa",
-      "name": "Antonio Nusa",
-      "team": "RB Leipzig",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Norway",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "rocco-reitz",
-      "name": "Rocco Reitz",
-      "team": "RB Leipzig",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "emmanuel-latte-lath",
-      "name": "Emmanuel Latte Lath",
-      "team": "1. FC Union Berlin",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Ivory Coast",
-      "goals": 1,
+      "nationality": "Czech Republic",
+      "goals": 2,
       "assists": 0,
       "penalties": 0,
       "playedMatches": 3
     },
     {
-      "slug": "leopold-querfeld",
-      "name": "Leopold Querfeld",
-      "team": "1. FC Union Berlin",
+      "slug": "felix-kalu-nmecha",
+      "name": "Felix Kalu Nmecha",
+      "team": "Borussia Dortmund",
       "league": "Bundesliga",
       "leagueCode": "BL1",
-      "nationality": "Austria",
-      "goals": 1,
-      "assists": 1,
+      "nationality": "Germany",
+      "goals": 2,
+      "assists": 0,
       "penalties": 0,
       "playedMatches": 3
     },
@@ -743,7 +743,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "davide-frattesi",
@@ -755,7 +755,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "franco-mastantuono",
@@ -827,7 +827,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "che-adams",
@@ -914,6 +914,18 @@
       "playedMatches": 3
     },
     {
+      "slug": "giorgi-kvernadze",
+      "name": "Giorgi Kvernadze",
+      "team": "Frosinone Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Georgia",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "piotr-zieli-ski",
       "name": "Piotr Zieliński",
       "team": "FC Internazionale Milano",
@@ -946,18 +958,6 @@
       "nationality": "Germany",
       "goals": 1,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "kevin-de-bruyne",
-      "name": "Kevin De Bruyne",
-      "team": "SSC Napoli",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Belgium",
-      "goals": 1,
-      "assists": 1,
       "penalties": 0,
       "playedMatches": 3
     },
@@ -1034,6 +1034,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "paris-brunner",
+      "name": "Paris Brunner",
+      "team": "AS Monaco FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Germany",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "ferr-n-torres",
       "name": "Ferrán Torres",
       "team": "Paris Saint-Germain FC",
@@ -1067,19 +1079,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "paris-brunner",
-      "name": "Paris Brunner",
-      "team": "AS Monaco FC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Germany",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "samuel-amo-ameyaw",
@@ -1091,7 +1091,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "keyliane-abdallah",
