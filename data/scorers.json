@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T17:35:07.922Z",
+  "lastUpdated": "2026-09-13T22:34:04.141Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -302,6 +302,18 @@
       "playedMatches": 5
     },
     {
+      "slug": "pierre-emerick-aubameyang",
+      "name": "Pierre-Emerick Aubameyang",
+      "team": "RC Deportivo La Coruña",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Gabon",
+      "goals": 5,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
       "slug": "yassir-zabiri",
       "name": "Yassir Zabiri",
       "team": "Real Racing Club de Santander",
@@ -310,18 +322,6 @@
       "nationality": "Morocco",
       "goals": 5,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 5
-    },
-    {
-      "slug": "pierre-emerick-aubameyang",
-      "name": "Pierre-Emerick Aubameyang",
-      "team": "RC Deportivo La Coruña",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Gabon",
-      "goals": 4,
-      "assists": 2,
       "penalties": 0,
       "playedMatches": 5
     },
@@ -383,7 +383,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "jude-bellingham",
@@ -434,6 +434,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "giuliano-simeone",
+      "name": "Giuliano Simeone",
+      "team": "Club Atlético de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Argentina",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
       "slug": "karim-adeyemi",
       "name": "Karim Adeyemi",
       "team": "FC Barcelona",
@@ -467,19 +479,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 5
-    },
-    {
-      "slug": "fer-ni-o",
-      "name": "Fer Niño",
-      "team": "Elche CF",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "younes-ebnoutalib",
@@ -938,6 +938,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "vasilije-adzic",
+      "name": "Vasilije Adzic",
+      "team": "US Sassuolo Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Montenegro",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "daniel-maldini",
       "name": "Daniel Maldini",
       "team": "Cagliari Calcio",
@@ -947,18 +959,6 @@
       "goals": 2,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 4
-    },
-    {
-      "slug": "diego-moreira",
-      "name": "Diego Moreira",
-      "team": "AC Milan",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Belgium",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
       "playedMatches": 4
     },
     {
@@ -983,7 +983,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "lassine-sinayoko",
@@ -1034,6 +1034,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "ferr-n-torres",
+      "name": "Ferrán Torres",
+      "team": "Paris Saint-Germain FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Spain",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "paris-brunner",
       "name": "Paris Brunner",
       "team": "AS Monaco FC",
@@ -1070,18 +1082,6 @@
       "playedMatches": 4
     },
     {
-      "slug": "ferr-n-torres",
-      "name": "Ferrán Torres",
-      "team": "Paris Saint-Germain FC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
       "slug": "marquinhos",
       "name": "Marquinhos",
       "team": "Paris Saint-Germain FC",
@@ -1091,7 +1091,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "gessime-yassine",
