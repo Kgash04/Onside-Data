@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T19:33:11.875Z",
+  "lastUpdated": "2026-09-14T23:21:25.567Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -230,9 +230,9 @@
       "playedMatches": 4
     },
     {
-      "slug": "leif-davis",
-      "name": "Leif Davis",
-      "team": "Ipswich Town FC",
+      "slug": "dominic-calvert-lewin",
+      "name": "Dominic Calvert-Lewin",
+      "team": "Leeds United FC",
       "league": "Premier League",
       "leagueCode": "PL",
       "nationality": "England",
@@ -818,6 +818,18 @@
       "playedMatches": 3
     },
     {
+      "slug": "francesco-esposito",
+      "name": "Francesco Esposito",
+      "team": "FC Internazionale Milano",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "tiago-gabriel",
       "name": "Tiago Gabriel",
       "team": "US Lecce",
@@ -946,18 +958,6 @@
       "nationality": "Argentina",
       "goals": 2,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "giorgi-kvernadze",
-      "name": "Giorgi Kvernadze",
-      "team": "Frosinone Calcio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Georgia",
-      "goals": 2,
-      "assists": 1,
       "penalties": 0,
       "playedMatches": 4
     },
