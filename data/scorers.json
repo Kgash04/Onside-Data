@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T13:14:37.715Z",
+  "lastUpdated": "2026-09-14T19:33:11.875Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -419,7 +419,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "rodrigo-riquelme",
@@ -431,7 +431,19 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
+    },
+    {
+      "slug": "gerard-moreno",
+      "name": "Gerard Moreno",
+      "team": "Villarreal CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 5
     },
     {
       "slug": "giuliano-simeone",
@@ -468,18 +480,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 5
-    },
-    {
-      "slug": "luka-su-i",
-      "name": "Luka Sučić",
-      "team": "Real Sociedad de Fútbol",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Croatia",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 6
     },
     {
       "slug": "younes-ebnoutalib",
@@ -728,10 +728,10 @@
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Netherlands",
-      "goals": 5,
+      "goals": 6,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "antonio-raimondo",
@@ -779,7 +779,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "anastasios-douvikas",
@@ -791,7 +791,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "hakan-alhano-lu",
@@ -854,6 +854,30 @@
       "playedMatches": 3
     },
     {
+      "slug": "niccolo-pisilli",
+      "name": "Niccolo Pisilli",
+      "team": "AS Roma",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
+      "slug": "jurgen-ekkelenkamp",
+      "name": "Jurgen Ekkelenkamp",
+      "team": "Udinese Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Netherlands",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "martin-baturina",
       "name": "Martin Baturina",
       "team": "Como 1907",
@@ -863,7 +887,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "rasmus-h-jlund",
@@ -887,7 +911,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "assane-diao",
@@ -899,7 +923,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "mateo-pellegrino",
@@ -923,7 +947,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "giorgi-kvernadze",
@@ -935,30 +959,6 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "vasilije-adzic",
-      "name": "Vasilije Adzic",
-      "team": "US Sassuolo Calcio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Montenegro",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "daniel-maldini",
-      "name": "Daniel Maldini",
-      "team": "Cagliari Calcio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Italy",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 1,
       "playedMatches": 4
     },
     {
