@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T18:25:02.506Z",
+  "lastUpdated": "2026-09-15T23:06:21.664Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -242,6 +242,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "kylian-mbapp",
+      "name": "Kylian Mbappé",
+      "team": "Real Madrid CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "France",
+      "goals": 7,
+      "assists": 2,
+      "penalties": 1,
+      "playedMatches": 6
+    },
+    {
       "slug": "roberto-fern-ndez",
       "name": "Roberto Fernández",
       "team": "RCD Espanyol de Barcelona",
@@ -274,18 +286,6 @@
       "nationality": "Brazil",
       "goals": 6,
       "assists": 2,
-      "penalties": 1,
-      "playedMatches": 5
-    },
-    {
-      "slug": "kylian-mbapp",
-      "name": "Kylian Mbappé",
-      "team": "Real Madrid CF",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "France",
-      "goals": 6,
-      "assists": 1,
       "penalties": 1,
       "playedMatches": 5
     },
@@ -395,7 +395,19 @@
       "goals": 3,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
+    },
+    {
+      "slug": "fer-ni-o",
+      "name": "Fer Niño",
+      "team": "Elche CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 6
     },
     {
       "slug": "brugui",
@@ -446,6 +458,18 @@
       "playedMatches": 5
     },
     {
+      "slug": "carlos-esp",
+      "name": "Carlos Espí",
+      "team": "Real Madrid CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 6
+    },
+    {
       "slug": "gerard-moreno",
       "name": "Gerard Moreno",
       "team": "Villarreal CF",
@@ -455,30 +479,6 @@
       "goals": 2,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 5
-    },
-    {
-      "slug": "giuliano-simeone",
-      "name": "Giuliano Simeone",
-      "team": "Club Atlético de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Argentina",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 5
-    },
-    {
-      "slug": "karim-adeyemi",
-      "name": "Karim Adeyemi",
-      "team": "FC Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Germany",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
       "playedMatches": 5
     },
     {
