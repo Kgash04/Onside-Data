@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T12:01:03.153Z",
+  "lastUpdated": "2026-09-15T18:25:02.506Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -242,6 +242,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "roberto-fern-ndez",
+      "name": "Roberto Fernández",
+      "team": "RCD Espanyol de Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 6,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 6
+    },
+    {
       "slug": "sergio-camello",
       "name": "Sergio Camello",
       "team": "Rayo Vallecano de Madrid",
@@ -251,7 +263,7 @@
       "goals": 6,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "raphinha",
@@ -287,18 +299,6 @@
       "goals": 6,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 5
-    },
-    {
-      "slug": "roberto-fern-ndez",
-      "name": "Roberto Fernández",
-      "team": "RCD Espanyol de Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 5,
-      "assists": 0,
-      "penalties": 0,
       "playedMatches": 5
     },
     {
@@ -359,7 +359,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "mariano-d-az",
@@ -371,7 +371,7 @@
       "goals": 3,
       "assists": 3,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "lex-baena",
@@ -408,6 +408,18 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 4
+    },
+    {
+      "slug": "lvaro-garc-a",
+      "name": "Álvaro García",
+      "team": "Rayo Vallecano de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 6
     },
     {
       "slug": "nicolas-p-p",
@@ -466,18 +478,6 @@
       "nationality": "Germany",
       "goals": 2,
       "assists": 1,
-      "penalties": 0,
-      "playedMatches": 5
-    },
-    {
-      "slug": "pablo-garc-a",
-      "name": "Pablo García",
-      "team": "Real Racing Club de Santander",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 0,
       "penalties": 0,
       "playedMatches": 5
     },
