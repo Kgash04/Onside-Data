@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T18:21:30.341Z",
+  "lastUpdated": "2026-09-16T23:12:31.689Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -242,12 +242,36 @@
       "playedMatches": 4
     },
     {
+      "slug": "raphinha",
+      "name": "Raphinha",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Brazil",
+      "goals": 9,
+      "assists": 2,
+      "penalties": 3,
+      "playedMatches": 6
+    },
+    {
       "slug": "kylian-mbapp",
       "name": "Kylian Mbappé",
       "team": "Real Madrid CF",
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "France",
+      "goals": 7,
+      "assists": 2,
+      "penalties": 1,
+      "playedMatches": 6
+    },
+    {
+      "slug": "lamine-yamal",
+      "name": "Lamine Yamal",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
       "goals": 7,
       "assists": 2,
       "penalties": 1,
@@ -278,28 +302,16 @@
       "playedMatches": 6
     },
     {
-      "slug": "raphinha",
-      "name": "Raphinha",
-      "team": "FC Barcelona",
+      "slug": "yassir-zabiri",
+      "name": "Yassir Zabiri",
+      "team": "Real Racing Club de Santander",
       "league": "La Liga",
       "leagueCode": "PD",
-      "nationality": "Brazil",
-      "goals": 6,
-      "assists": 2,
-      "penalties": 1,
-      "playedMatches": 5
-    },
-    {
-      "slug": "lamine-yamal",
-      "name": "Lamine Yamal",
-      "team": "FC Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
+      "nationality": "Morocco",
       "goals": 6,
       "assists": 0,
-      "penalties": 1,
-      "playedMatches": 5
+      "penalties": 0,
+      "playedMatches": 6
     },
     {
       "slug": "pierre-emerick-aubameyang",
@@ -314,16 +326,16 @@
       "playedMatches": 6
     },
     {
-      "slug": "yassir-zabiri",
-      "name": "Yassir Zabiri",
-      "team": "Real Racing Club de Santander",
+      "slug": "lex-baena",
+      "name": "Álex Baena",
+      "team": "Club Atlético de Madrid",
       "league": "La Liga",
       "leagueCode": "PD",
-      "nationality": "Morocco",
-      "goals": 5,
-      "assists": 0,
+      "nationality": "Spain",
+      "goals": 4,
+      "assists": 1,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "ferm-n-l-pez",
@@ -335,7 +347,7 @@
       "goals": 4,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "ante-budimir",
@@ -374,18 +386,6 @@
       "playedMatches": 6
     },
     {
-      "slug": "lex-baena",
-      "name": "Álex Baena",
-      "team": "Club Atlético de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 6
-    },
-    {
       "slug": "jude-bellingham",
       "name": "Jude Bellingham",
       "team": "Real Madrid CF",
@@ -419,7 +419,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "lvaro-garc-a",
