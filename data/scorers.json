@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T11:57:44.100Z",
+  "lastUpdated": "2026-09-16T18:21:30.341Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -311,7 +311,7 @@
       "goals": 5,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "yassir-zabiri",
@@ -347,7 +347,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 3,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "lucas-boy",
@@ -383,7 +383,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "jude-bellingham",
@@ -446,6 +446,18 @@
       "playedMatches": 5
     },
     {
+      "slug": "kang-in-lee",
+      "name": "Kang-in Lee",
+      "team": "Club Atlético de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "South Korea",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 6
+    },
+    {
       "slug": "rodrigo-riquelme",
       "name": "Rodrigo Riquelme",
       "team": "Real Betis Balompié",
@@ -468,18 +480,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 6
-    },
-    {
-      "slug": "gerard-moreno",
-      "name": "Gerard Moreno",
-      "team": "Villarreal CF",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 5
     },
     {
       "slug": "younes-ebnoutalib",
