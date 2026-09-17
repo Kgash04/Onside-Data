@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T18:28:47.469Z",
+  "lastUpdated": "2026-09-17T23:00:46.233Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -386,6 +386,18 @@
       "playedMatches": 6
     },
     {
+      "slug": "pape-gueye",
+      "name": "Pape Gueye",
+      "team": "Villarreal CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Senegal",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 6
+    },
+    {
       "slug": "jude-bellingham",
       "name": "Jude Bellingham",
       "team": "Real Madrid CF",
@@ -443,7 +455,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "kang-in-lee",
@@ -461,18 +473,6 @@
       "slug": "rodrigo-riquelme",
       "name": "Rodrigo Riquelme",
       "team": "Real Betis Balompié",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 6
-    },
-    {
-      "slug": "carlos-esp",
-      "name": "Carlos Espí",
-      "team": "Real Madrid CF",
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Spain",
