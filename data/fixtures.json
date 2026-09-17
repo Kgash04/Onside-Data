@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T11:16:58.538Z",
+  "lastUpdated": "2026-09-17T18:01:27.872Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,13 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Real Betis Balompié",
-          "awayTeam": "Getafe CF",
-          "utcDate": "2026-09-17T17:00:00Z",
-          "matchday": 6,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Málaga CF",
           "awayTeam": "Villarreal CF",
           "utcDate": "2026-09-17T19:30:00Z",
@@ -472,6 +465,13 @@
           "utcDate": "2026-10-11T16:30:00Z",
           "matchday": 8,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Racing Club de Santander",
+          "awayTeam": "Valencia CF",
+          "utcDate": "2026-10-11T19:00:00Z",
+          "matchday": 8,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -495,6 +495,15 @@
         },
         {
           "position": 3,
+          "team": "Real Betis Balompié",
+          "played": 6,
+          "won": 5,
+          "draw": 0,
+          "lost": 1,
+          "points": 15
+        },
+        {
+          "position": 4,
           "team": "Club Atlético de Madrid",
           "played": 6,
           "won": 4,
@@ -503,22 +512,13 @@
           "points": 13
         },
         {
-          "position": 4,
+          "position": 5,
           "team": "Sevilla FC",
           "played": 6,
           "won": 4,
           "draw": 1,
           "lost": 1,
           "points": 13
-        },
-        {
-          "position": 5,
-          "team": "Real Betis Balompié",
-          "played": 5,
-          "won": 4,
-          "draw": 0,
-          "lost": 1,
-          "points": 12
         },
         {
           "position": 6,
@@ -604,10 +604,10 @@
         {
           "position": 15,
           "team": "Getafe CF",
-          "played": 5,
+          "played": 6,
           "won": 1,
           "draw": 2,
-          "lost": 2,
+          "lost": 3,
           "points": 5
         },
         {
