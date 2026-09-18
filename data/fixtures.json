@@ -1,17 +1,10 @@
 {
-  "lastUpdated": "2026-09-18T17:35:12.976Z",
+  "lastUpdated": "2026-09-18T22:24:44.285Z",
   "competitions": {
     "PL": {
       "code": "PL",
       "name": "Premier League",
       "fixtures": [
-        {
-          "homeTeam": "Brentford FC",
-          "awayTeam": "Chelsea FC",
-          "utcDate": "2026-09-18T19:00:00Z",
-          "matchday": 5,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Tottenham Hotspur FC",
           "awayTeam": "Aston Villa FC",
@@ -144,6 +137,13 @@
           "utcDate": "2026-10-12T19:00:00Z",
           "matchday": 6,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Everton FC",
+          "awayTeam": "Chelsea FC",
+          "utcDate": "2026-10-17T11:30:00Z",
+          "matchday": 7,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -167,6 +167,15 @@
         },
         {
           "position": 3,
+          "team": "Brentford FC",
+          "played": 5,
+          "won": 2,
+          "draw": 3,
+          "lost": 0,
+          "points": 9
+        },
+        {
+          "position": 4,
           "team": "Leeds United FC",
           "played": 4,
           "won": 2,
@@ -175,7 +184,7 @@
           "points": 8
         },
         {
-          "position": 4,
+          "position": 5,
           "team": "Hull City AFC",
           "played": 4,
           "won": 2,
@@ -184,7 +193,7 @@
           "points": 8
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "Brighton & Hove Albion FC",
           "played": 4,
           "won": 2,
@@ -193,22 +202,13 @@
           "points": 7
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Chelsea FC",
-          "played": 4,
+          "played": 5,
           "won": 2,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "points": 7
-        },
-        {
-          "position": 7,
-          "team": "Brentford FC",
-          "played": 4,
-          "won": 1,
-          "draw": 3,
-          "lost": 0,
-          "points": 6
         },
         {
           "position": 8,
@@ -333,13 +333,6 @@
       "code": "PD",
       "name": "La Liga",
       "fixtures": [
-        {
-          "homeTeam": "RCD Espanyol de Barcelona",
-          "awayTeam": "Elche CF",
-          "utcDate": "2026-09-18T19:00:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "CA Osasuna",
           "awayTeam": "Rayo Vallecano de Madrid",
@@ -472,6 +465,13 @@
           "utcDate": "2026-10-12T19:00:00Z",
           "matchday": 8,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Deportivo La Coruña",
+          "awayTeam": "Levante UD",
+          "utcDate": "2026-10-16T19:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -540,20 +540,20 @@
         },
         {
           "position": 8,
-          "team": "RCD Espanyol de Barcelona",
-          "played": 6,
-          "won": 2,
-          "draw": 1,
-          "lost": 3,
-          "points": 7
-        },
-        {
-          "position": 9,
           "team": "Athletic Club",
           "played": 5,
           "won": 2,
           "draw": 1,
           "lost": 2,
+          "points": 7
+        },
+        {
+          "position": 9,
+          "team": "RCD Espanyol de Barcelona",
+          "played": 7,
+          "won": 2,
+          "draw": 1,
+          "lost": 4,
           "points": 7
         },
         {
@@ -621,6 +621,15 @@
         },
         {
           "position": 17,
+          "team": "Elche CF",
+          "played": 7,
+          "won": 1,
+          "draw": 2,
+          "lost": 4,
+          "points": 5
+        },
+        {
+          "position": 18,
           "team": "RC Celta de Vigo",
           "played": 6,
           "won": 0,
@@ -629,7 +638,7 @@
           "points": 4
         },
         {
-          "position": 18,
+          "position": 19,
           "team": "Valencia CF",
           "played": 6,
           "won": 1,
@@ -638,22 +647,13 @@
           "points": 4
         },
         {
-          "position": 19,
+          "position": 20,
           "team": "Málaga CF",
           "played": 6,
           "won": 0,
           "draw": 3,
           "lost": 3,
           "points": 3
-        },
-        {
-          "position": 20,
-          "team": "Elche CF",
-          "played": 6,
-          "won": 0,
-          "draw": 2,
-          "lost": 4,
-          "points": 2
         }
       ]
     },
@@ -661,13 +661,6 @@
       "code": "BL1",
       "name": "Bundesliga",
       "fixtures": [
-        {
-          "homeTeam": "FC Bayern München",
-          "awayTeam": "1. FC Union Berlin",
-          "utcDate": "2026-09-18T18:30:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Hamburger SV",
           "awayTeam": "1. FC Köln",
@@ -800,11 +793,27 @@
           "utcDate": "2026-10-17T13:30:00Z",
           "matchday": 6,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "VfB Stuttgart",
+          "utcDate": "2026-10-17T13:30:00Z",
+          "matchday": 6,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
+          "team": "FC Bayern München",
+          "played": 4,
+          "won": 3,
+          "draw": 1,
+          "lost": 0,
+          "points": 10
+        },
+        {
+          "position": 2,
           "team": "SC Freiburg",
           "played": 3,
           "won": 3,
@@ -813,7 +822,7 @@
           "points": 9
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Borussia Dortmund",
           "played": 3,
           "won": 3,
@@ -822,17 +831,8 @@
           "points": 9
         },
         {
-          "position": 3,
-          "team": "FC Augsburg",
-          "played": 3,
-          "won": 2,
-          "draw": 1,
-          "lost": 0,
-          "points": 7
-        },
-        {
           "position": 4,
-          "team": "FC Bayern München",
+          "team": "FC Augsburg",
           "played": 3,
           "won": 2,
           "draw": 1,
@@ -941,10 +941,10 @@
         {
           "position": 16,
           "team": "1. FC Union Berlin",
-          "played": 3,
+          "played": 4,
           "won": 0,
           "draw": 1,
-          "lost": 2,
+          "lost": 3,
           "points": 1
         },
         {
@@ -971,13 +971,6 @@
       "code": "SA",
       "name": "Serie A",
       "fixtures": [
-        {
-          "homeTeam": "AC Monza",
-          "awayTeam": "US Sassuolo Calcio",
-          "utcDate": "2026-09-18T18:45:00Z",
-          "matchday": 5,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Bologna FC 1909",
           "awayTeam": "Torino FC",
@@ -1110,6 +1103,13 @@
           "utcDate": "2026-10-12T18:45:00Z",
           "matchday": 6,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Frosinone Calcio",
+          "awayTeam": "US Sassuolo Calcio",
+          "utcDate": "2026-10-16T18:45:00Z",
+          "matchday": 7,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1188,10 +1188,10 @@
         {
           "position": 9,
           "team": "US Sassuolo Calcio",
-          "played": 4,
+          "played": 5,
           "won": 2,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "points": 7
         },
         {
@@ -1232,6 +1232,15 @@
         },
         {
           "position": 14,
+          "team": "AC Monza",
+          "played": 5,
+          "won": 1,
+          "draw": 1,
+          "lost": 3,
+          "points": 4
+        },
+        {
+          "position": 15,
           "team": "Torino FC",
           "played": 4,
           "won": 1,
@@ -1240,7 +1249,7 @@
           "points": 3
         },
         {
-          "position": 15,
+          "position": 16,
           "team": "ACF Fiorentina",
           "played": 4,
           "won": 1,
@@ -1249,7 +1258,7 @@
           "points": 3
         },
         {
-          "position": 16,
+          "position": 17,
           "team": "Bologna FC 1909",
           "played": 4,
           "won": 0,
@@ -1258,17 +1267,8 @@
           "points": 1
         },
         {
-          "position": 17,
-          "team": "Parma Calcio 1913",
-          "played": 4,
-          "won": 0,
-          "draw": 1,
-          "lost": 3,
-          "points": 1
-        },
-        {
           "position": 18,
-          "team": "AC Monza",
+          "team": "Parma Calcio 1913",
           "played": 4,
           "won": 0,
           "draw": 1,
@@ -1299,13 +1299,6 @@
       "code": "FL1",
       "name": "Ligue 1",
       "fixtures": [
-        {
-          "homeTeam": "AS Monaco FC",
-          "awayTeam": "Racing Club de Lens",
-          "utcDate": "2026-09-18T18:45:00Z",
-          "matchday": 5,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Paris FC",
           "awayTeam": "RC Strasbourg Alsace",
@@ -1438,21 +1431,28 @@
           "utcDate": "2026-10-17T15:15:00Z",
           "matchday": 7,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "ES Troyes AC",
+          "awayTeam": "Racing Club de Lens",
+          "utcDate": "2026-10-17T18:45:00Z",
+          "matchday": 7,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
-          "team": "Lille OSC",
-          "played": 4,
-          "won": 3,
+          "team": "AS Monaco FC",
+          "played": 5,
+          "won": 4,
           "draw": 1,
           "lost": 0,
-          "points": 10
+          "points": 13
         },
         {
           "position": 2,
-          "team": "AS Monaco FC",
+          "team": "Lille OSC",
           "played": 4,
           "won": 3,
           "draw": 1,
@@ -1525,10 +1525,10 @@
         {
           "position": 10,
           "team": "Racing Club de Lens",
-          "played": 4,
+          "played": 5,
           "won": 1,
           "draw": 1,
-          "lost": 2,
+          "lost": 3,
           "points": 4
         },
         {
