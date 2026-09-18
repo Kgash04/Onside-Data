@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T17:48:44.931Z",
+  "lastUpdated": "2026-09-18T22:46:30.105Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -59,7 +59,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "alexander-isak",
@@ -83,7 +83,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "bruno-fernandes",
@@ -143,7 +143,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "jack-hinshelwood",
@@ -191,7 +191,7 @@
       "goals": 2,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "rayan-cherki",
@@ -287,7 +287,7 @@
       "goals": 6,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "sergio-camello",
@@ -324,6 +324,18 @@
       "assists": 2,
       "penalties": 0,
       "playedMatches": 6
+    },
+    {
+      "slug": "fer-ni-o",
+      "name": "Fer Niño",
+      "team": "Elche CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 5,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 7
     },
     {
       "slug": "lex-baena",
@@ -410,18 +422,6 @@
       "playedMatches": 6
     },
     {
-      "slug": "fer-ni-o",
-      "name": "Fer Niño",
-      "team": "Elche CF",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 6
-    },
-    {
       "slug": "brugui",
       "name": "Brugui",
       "team": "Levante UD",
@@ -480,6 +480,18 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 6
+    },
+    {
+      "slug": "michael-olise",
+      "name": "Michael Olise",
+      "team": "FC Bayern München",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "France",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
     },
     {
       "slug": "younes-ebnoutalib",
@@ -564,6 +576,18 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 3
+    },
+    {
+      "slug": "harry-kane",
+      "name": "Harry Kane",
+      "team": "FC Bayern München",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "England",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 4
     },
     {
       "slug": "josha-vagnoman",
@@ -698,30 +722,6 @@
       "playedMatches": 3
     },
     {
-      "slug": "maximilian-eggestein",
-      "name": "Maximilian Eggestein",
-      "team": "SC Freiburg",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "jonathan-burkardt",
-      "name": "Jonathan Burkardt",
-      "team": "Eintracht Frankfurt",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
       "slug": "donyell-malen",
       "name": "Donyell Malen",
       "team": "AS Roma",
@@ -731,6 +731,18 @@
       "goals": 6,
       "assists": 0,
       "penalties": 0,
+      "playedMatches": 4
+    },
+    {
+      "slug": "gustavo-varela",
+      "name": "Gustavo Varela",
+      "team": "AC Monza",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Portugal",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 1,
       "playedMatches": 4
     },
     {
@@ -756,6 +768,18 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 4
+    },
+    {
+      "slug": "vasilije-adzic",
+      "name": "Vasilije Adzic",
+      "team": "US Sassuolo Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Montenegro",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 5
     },
     {
       "slug": "franco-mastantuono",
@@ -800,18 +824,6 @@
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Turkey",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "gustavo-varela",
-      "name": "Gustavo Varela",
-      "team": "AC Monza",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Portugal",
       "goals": 2,
       "assists": 0,
       "penalties": 0,
@@ -950,18 +962,6 @@
       "playedMatches": 4
     },
     {
-      "slug": "lautaro-mart-nez",
-      "name": "Lautaro Martínez",
-      "team": "FC Internazionale Milano",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Argentina",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 4
-    },
-    {
       "slug": "amine-gouiri",
       "name": "Amine Gouiri",
       "team": "Olympique de Marseille",
@@ -998,6 +998,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "paris-brunner",
+      "name": "Paris Brunner",
+      "team": "AS Monaco FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Germany",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
       "slug": "florian-thauvin",
       "name": "Florian Thauvin",
       "team": "Racing Club de Lens",
@@ -1005,9 +1017,9 @@
       "leagueCode": "FL1",
       "nationality": "France",
       "goals": 3,
-      "assists": 2,
+      "assists": 3,
       "penalties": 3,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "louis-mafouta",
@@ -1046,18 +1058,6 @@
       "playedMatches": 4
     },
     {
-      "slug": "paris-brunner",
-      "name": "Paris Brunner",
-      "team": "AS Monaco FC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Germany",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 4
-    },
-    {
       "slug": "franjo-ivanovic",
       "name": "Franjo Ivanovic",
       "team": "Racing Club de Lens",
@@ -1067,7 +1067,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "tiago-santos",
