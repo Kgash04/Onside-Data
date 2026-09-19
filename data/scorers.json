@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T17:22:42.839Z",
+  "lastUpdated": "2026-09-19T22:26:34.326Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -248,10 +248,10 @@
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Brazil",
-      "goals": 9,
+      "goals": 12,
       "assists": 2,
       "penalties": 3,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "sergio-camello",
@@ -285,9 +285,9 @@
       "leagueCode": "PD",
       "nationality": "Spain",
       "goals": 7,
-      "assists": 2,
+      "assists": 4,
       "penalties": 1,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "roberto-fern-ndez",
@@ -371,7 +371,7 @@
       "goals": 4,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "lucas-boy",
@@ -758,24 +758,24 @@
       "playedMatches": 4
     },
     {
-      "slug": "davide-frattesi",
-      "name": "Davide Frattesi",
-      "team": "SS Lazio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Italy",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 4
-    },
-    {
       "slug": "lautaro-mart-nez",
       "name": "Lautaro Martínez",
       "team": "FC Internazionale Milano",
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Argentina",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
+      "slug": "davide-frattesi",
+      "name": "Davide Frattesi",
+      "team": "SS Lazio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
       "goals": 3,
       "assists": 0,
       "penalties": 0,
@@ -1031,7 +1031,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "esteban-lepaul",
@@ -1043,7 +1043,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "ferr-n-torres",
@@ -1056,6 +1056,42 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 4
+    },
+    {
+      "slug": "ernest-nuamah",
+      "name": "Ernest Nuamah",
+      "team": "Olympique Lyonnais",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Ghana",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
+      "slug": "adil-bourabaa",
+      "name": "Adil Bourabaa",
+      "team": "Le Mans FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Algeria",
+      "goals": 3,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
+      "slug": "casper-tengstedt",
+      "name": "Casper Tengstedt",
+      "team": "Toulouse FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Denmark",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 3
     },
     {
       "slug": "franjo-ivanovic",
@@ -1106,6 +1142,30 @@
       "playedMatches": 5
     },
     {
+      "slug": "mbwana-samatta",
+      "name": "Mbwana Samatta",
+      "team": "Le Havre AC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Tanzania",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
+      "slug": "zachary-athekame",
+      "name": "Zachary Athekame",
+      "team": "Olympique Lyonnais",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Switzerland",
+      "goals": 2,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
       "slug": "cameron-archer",
       "name": "Cameron Archer",
       "team": "AJ Auxerre",
@@ -1116,18 +1176,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 2
-    },
-    {
-      "slug": "adil-bourabaa",
-      "name": "Adil Bourabaa",
-      "team": "Le Mans FC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Algeria",
-      "goals": 2,
-      "assists": 2,
-      "penalties": 0,
-      "playedMatches": 4
     },
     {
       "slug": "samuel-amo-ameyaw",
@@ -1142,64 +1190,16 @@
       "playedMatches": 5
     },
     {
-      "slug": "keyliane-abdallah",
-      "name": "Keyliane Abdallah",
-      "team": "Olympique de Marseille",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "France",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "pierre-emile-h-jbjerg",
-      "name": "Pierre Emile Højbjerg",
-      "team": "Olympique de Marseille",
+      "slug": "thomas-j-rgensen",
+      "name": "Thomas Jørgensen",
+      "team": "Toulouse FC",
       "league": "Ligue 1",
       "leagueCode": "FL1",
       "nationality": "Denmark",
-      "goals": 1,
-      "assists": 0,
+      "goals": 2,
+      "assists": 1,
       "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "saud-abdulhamid",
-      "name": "Saud Abdulhamid",
-      "team": "Racing Club de Lens",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Saudi Arabia",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "daniel-namaso",
-      "name": "Daniel Namaso",
-      "team": "AJ Auxerre",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Cameroon",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 4
-    },
-    {
-      "slug": "pierre-ganiou",
-      "name": "Pierre Ganiou",
-      "team": "Racing Club de Lens",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "France",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 5
     },
     {
       "slug": "ermedin-demirovic",
