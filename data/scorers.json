@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T17:36:24.393Z",
+  "lastUpdated": "2026-09-20T22:39:11.398Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -422,6 +422,18 @@
       "playedMatches": 7
     },
     {
+      "slug": "luka-su-i",
+      "name": "Luka Sučić",
+      "team": "Real Sociedad de Fútbol",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Croatia",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 7
+    },
+    {
       "slug": "brugui",
       "name": "Brugui",
       "team": "Levante UD",
@@ -466,18 +478,6 @@
       "nationality": "Ivory Coast",
       "goals": 2,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 7
-    },
-    {
-      "slug": "kang-in-lee",
-      "name": "Kang-in Lee",
-      "team": "Club Atlético de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "South Korea",
-      "goals": 2,
-      "assists": 1,
       "penalties": 0,
       "playedMatches": 7
     },
@@ -686,6 +686,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "adam-daghim",
+      "name": "Adam Daghim",
+      "team": "TSG 1899 Hoffenheim",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Denmark",
+      "goals": 2,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "thijs-dallinga",
       "name": "Thijs Dallinga",
       "team": "1. FC Köln",
@@ -706,18 +718,6 @@
       "nationality": "Guinea",
       "goals": 2,
       "assists": 2,
-      "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "marco-gr-ll",
-      "name": "Marco Grüll",
-      "team": "SV Werder Bremen",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Austria",
-      "goals": 2,
-      "assists": 3,
       "penalties": 0,
       "playedMatches": 4
     },
@@ -830,6 +830,18 @@
       "playedMatches": 5
     },
     {
+      "slug": "diego-moreira",
+      "name": "Diego Moreira",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Belgium",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
       "slug": "hassane-kamara",
       "name": "Hassane Kamara",
       "team": "Udinese Calcio",
@@ -878,6 +890,18 @@
       "playedMatches": 5
     },
     {
+      "slug": "bremer",
+      "name": "Bremer",
+      "team": "Juventus FC",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Brazil",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
       "slug": "tiago-gabriel",
       "name": "Tiago Gabriel",
       "team": "US Lecce",
@@ -899,7 +923,19 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
+    },
+    {
+      "slug": "adrien-rabiot",
+      "name": "Adrien Rabiot",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "France",
+      "goals": 2,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 5
     },
     {
       "slug": "che-adams",
@@ -926,42 +962,6 @@
       "playedMatches": 5
     },
     {
-      "slug": "jurgen-ekkelenkamp",
-      "name": "Jurgen Ekkelenkamp",
-      "team": "Udinese Calcio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Netherlands",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 5
-    },
-    {
-      "slug": "martin-baturina",
-      "name": "Martin Baturina",
-      "team": "Como 1907",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Croatia",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 5
-    },
-    {
-      "slug": "rasmus-h-jlund",
-      "name": "Rasmus Højlund",
-      "team": "SSC Napoli",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Denmark",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 5
-    },
-    {
       "slug": "amine-gouiri",
       "name": "Amine Gouiri",
       "team": "Olympique de Marseille",
@@ -969,9 +969,9 @@
       "leagueCode": "FL1",
       "nationality": "Algeria",
       "goals": 4,
-      "assists": 0,
+      "assists": 1,
       "penalties": 1,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "kamory-doumbia",
@@ -983,6 +983,18 @@
       "goals": 4,
       "assists": 1,
       "penalties": 1,
+      "playedMatches": 5
+    },
+    {
+      "slug": "ferr-n-torres",
+      "name": "Ferrán Torres",
+      "team": "Paris Saint-Germain FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Spain",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
       "playedMatches": 5
     },
     {
@@ -1046,16 +1058,16 @@
       "playedMatches": 5
     },
     {
-      "slug": "ferr-n-torres",
-      "name": "Ferrán Torres",
+      "slug": "marquinhos",
+      "name": "Marquinhos",
       "team": "Paris Saint-Germain FC",
       "league": "Ligue 1",
       "leagueCode": "FL1",
-      "nationality": "Spain",
+      "nationality": "Brazil",
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "cameron-archer",
@@ -1128,18 +1140,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 5
-    },
-    {
-      "slug": "marquinhos",
-      "name": "Marquinhos",
-      "team": "Paris Saint-Germain FC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Brazil",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 4
     },
     {
       "slug": "gessime-yassine",
