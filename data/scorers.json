@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T11:44:39.054Z",
+  "lastUpdated": "2026-09-20T17:36:24.393Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -8,10 +8,22 @@
       "league": "Premier League",
       "leagueCode": "PL",
       "nationality": "Norway",
+      "goals": 5,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
+      "slug": "alexander-isak",
+      "name": "Alexander Isak",
+      "team": "Liverpool FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Sweden",
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "bukayo-saka",
@@ -35,7 +47,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "jo-o-pedro",
@@ -62,16 +74,16 @@
       "playedMatches": 5
     },
     {
-      "slug": "alexander-isak",
-      "name": "Alexander Isak",
-      "team": "Liverpool FC",
+      "slug": "rayan-cherki",
+      "name": "Rayan Cherki",
+      "team": "Manchester City FC",
       "league": "Premier League",
       "leagueCode": "PL",
-      "nationality": "Sweden",
+      "nationality": "France",
       "goals": 3,
-      "assists": 0,
+      "assists": 2,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "pascal-gro",
@@ -107,7 +119,19 @@
       "goals": 3,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 4
+      "playedMatches": 5
+    },
+    {
+      "slug": "brian-brobbey",
+      "name": "Brian Brobbey",
+      "team": "Sunderland AFC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Netherlands",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
     },
     {
       "slug": "kai-havertz",
@@ -215,31 +239,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "cole-palmer",
-      "name": "Cole Palmer",
-      "team": "Chelsea FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "England",
-      "goals": 2,
-      "assists": 2,
-      "penalties": 0,
       "playedMatches": 5
-    },
-    {
-      "slug": "rayan-cherki",
-      "name": "Rayan Cherki",
-      "team": "Manchester City FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "France",
-      "goals": 2,
-      "assists": 2,
-      "penalties": 0,
-      "playedMatches": 4
     },
     {
       "slug": "raphinha",
@@ -275,7 +275,7 @@
       "goals": 7,
       "assists": 2,
       "penalties": 1,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "lamine-yamal",
@@ -323,7 +323,7 @@
       "goals": 5,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "ante-budimir",
@@ -359,7 +359,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "ferm-n-l-pez",
@@ -407,7 +407,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "jude-bellingham",
@@ -419,7 +419,7 @@
       "goals": 3,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "brugui",
@@ -431,7 +431,19 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
+    },
+    {
+      "slug": "jonathan-david",
+      "name": "Jonathan David",
+      "team": "Club Atlético de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Canada",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
     },
     {
       "slug": "lvaro-garc-a",
@@ -455,7 +467,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "kang-in-lee",
@@ -467,19 +479,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
-    },
-    {
-      "slug": "rodrigo-riquelme",
-      "name": "Rodrigo Riquelme",
-      "team": "Real Betis Balompié",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "michael-olise",
@@ -500,6 +500,18 @@
       "league": "Bundesliga",
       "leagueCode": "BL1",
       "nationality": "Germany",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
+      "slug": "patrik-schick",
+      "name": "Patrik Schick",
+      "team": "Bayer 04 Leverkusen",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Czech Republic",
       "goals": 4,
       "assists": 1,
       "penalties": 0,
@@ -528,18 +540,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 4
-    },
-    {
-      "slug": "patrik-schick",
-      "name": "Patrik Schick",
-      "team": "Bayer 04 Leverkusen",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Czech Republic",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 3
     },
     {
       "slug": "igor-matanovic",
@@ -587,7 +587,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "jonathan-burkardt",
@@ -635,7 +635,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "antonio-nusa",
@@ -647,7 +647,7 @@
       "goals": 2,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "tim-skarke",
@@ -671,7 +671,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "christian-kofane",
@@ -683,7 +683,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "thijs-dallinga",
@@ -755,7 +755,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "lautaro-mart-nez",
@@ -778,6 +778,18 @@
       "nationality": "Italy",
       "goals": 3,
       "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
+      "slug": "giorgi-kvernadze",
+      "name": "Giorgi Kvernadze",
+      "team": "Frosinone Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Georgia",
+      "goals": 3,
+      "assists": 1,
       "penalties": 0,
       "playedMatches": 5
     },
@@ -839,7 +851,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "hakan-alhano-lu",
@@ -935,7 +947,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "rasmus-h-jlund",
@@ -946,18 +958,6 @@
       "nationality": "Denmark",
       "goals": 2,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 5
-    },
-    {
-      "slug": "matias-soule",
-      "name": "Matias Soule",
-      "team": "AS Roma",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Argentina",
-      "goals": 2,
-      "assists": 1,
       "penalties": 0,
       "playedMatches": 5
     },
@@ -983,7 +983,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "lassine-sinayoko",
@@ -1058,6 +1058,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "cameron-archer",
+      "name": "Cameron Archer",
+      "team": "AJ Auxerre",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "England",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "ernest-nuamah",
       "name": "Ernest Nuamah",
       "team": "Olympique Lyonnais",
@@ -1115,7 +1127,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "marquinhos",
@@ -1154,6 +1166,18 @@
       "playedMatches": 5
     },
     {
+      "slug": "ayase-ueda",
+      "name": "Ayase Ueda",
+      "team": "Lille OSC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Japan",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "zachary-athekame",
       "name": "Zachary Athekame",
       "team": "Olympique Lyonnais",
@@ -1166,18 +1190,6 @@
       "playedMatches": 5
     },
     {
-      "slug": "cameron-archer",
-      "name": "Cameron Archer",
-      "team": "AJ Auxerre",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "England",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
       "slug": "samuel-amo-ameyaw",
       "name": "Samuel Amo-Ameyaw",
       "team": "RC Strasbourg Alsace",
@@ -1186,18 +1198,6 @@
       "nationality": "England",
       "goals": 2,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 5
-    },
-    {
-      "slug": "thomas-j-rgensen",
-      "name": "Thomas Jørgensen",
-      "team": "Toulouse FC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Denmark",
-      "goals": 2,
-      "assists": 1,
       "penalties": 0,
       "playedMatches": 5
     },
