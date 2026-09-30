@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T12:10:50.278Z",
+  "lastUpdated": "2026-09-30T18:55:46.900Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -332,7 +332,148 @@
     "PD": {
       "code": "PD",
       "name": "La Liga",
-      "fixtures": [],
+      "fixtures": [
+        {
+          "homeTeam": "Málaga CF",
+          "awayTeam": "RCD Espanyol de Barcelona",
+          "utcDate": "2026-10-09T19:00:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Rayo Vallecano de Madrid",
+          "awayTeam": "Athletic Club",
+          "utcDate": "2026-10-10T12:00:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Deportivo Alavés",
+          "awayTeam": "Club Atlético de Madrid",
+          "utcDate": "2026-10-10T14:15:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Barcelona",
+          "awayTeam": "Getafe CF",
+          "utcDate": "2026-10-10T16:30:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Madrid CF",
+          "awayTeam": "Villarreal CF",
+          "utcDate": "2026-10-10T19:00:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Elche CF",
+          "awayTeam": "RC Celta de Vigo",
+          "utcDate": "2026-10-11T12:00:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Sociedad de Fútbol",
+          "awayTeam": "RC Deportivo La Coruña",
+          "utcDate": "2026-10-11T14:15:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Betis Balompié",
+          "awayTeam": "CA Osasuna",
+          "utcDate": "2026-10-11T16:30:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Racing Club de Santander",
+          "awayTeam": "Valencia CF",
+          "utcDate": "2026-10-11T19:00:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Levante UD",
+          "awayTeam": "Sevilla FC",
+          "utcDate": "2026-10-12T19:00:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Deportivo La Coruña",
+          "awayTeam": "Levante UD",
+          "utcDate": "2026-10-16T19:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RCD Espanyol de Barcelona",
+          "awayTeam": "Club Atlético de Madrid",
+          "utcDate": "2026-10-17T12:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Villarreal CF",
+          "awayTeam": "Elche CF",
+          "utcDate": "2026-10-17T14:15:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Betis Balompié",
+          "awayTeam": "FC Barcelona",
+          "utcDate": "2026-10-17T16:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Valencia CF",
+          "awayTeam": "Athletic Club",
+          "utcDate": "2026-10-17T19:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "CA Osasuna",
+          "awayTeam": "Real Racing Club de Santander",
+          "utcDate": "2026-10-18T12:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Celta de Vigo",
+          "awayTeam": "Deportivo Alavés",
+          "utcDate": "2026-10-18T14:15:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Málaga CF",
+          "awayTeam": "Real Sociedad de Fútbol",
+          "utcDate": "2026-10-18T16:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Madrid CF",
+          "awayTeam": "Sevilla FC",
+          "utcDate": "2026-10-18T19:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Getafe CF",
+          "awayTeam": "Rayo Vallecano de Madrid",
+          "utcDate": "2026-10-19T19:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        }
+      ],
       "standings": [
         {
           "position": 1,
@@ -1157,8 +1298,312 @@
     "FL1": {
       "code": "FL1",
       "name": "Ligue 1",
-      "fixtures": [],
-      "standings": []
+      "fixtures": [
+        {
+          "homeTeam": "Racing Club de Lens",
+          "awayTeam": "Olympique Lyonnais",
+          "utcDate": "2026-10-09T18:45:00Z",
+          "matchday": 6,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Lille OSC",
+          "awayTeam": "Le Havre AC",
+          "utcDate": "2026-10-10T15:15:00Z",
+          "matchday": 6,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Stade Brestois 29",
+          "awayTeam": "Angers SCO",
+          "utcDate": "2026-10-10T18:45:00Z",
+          "matchday": 6,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Lorient",
+          "awayTeam": "Paris FC",
+          "utcDate": "2026-10-10T18:45:00Z",
+          "matchday": 6,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Paris Saint-Germain FC",
+          "awayTeam": "Le Mans FC",
+          "utcDate": "2026-10-10T18:45:00Z",
+          "matchday": 6,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "AS Monaco FC",
+          "awayTeam": "Toulouse FC",
+          "utcDate": "2026-10-10T18:45:00Z",
+          "matchday": 6,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "OGC Nice",
+          "awayTeam": "RC Strasbourg Alsace",
+          "utcDate": "2026-10-11T13:00:00Z",
+          "matchday": 6,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Stade Rennais FC 1901",
+          "awayTeam": "AJ Auxerre",
+          "utcDate": "2026-10-11T15:15:00Z",
+          "matchday": 6,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "ES Troyes AC",
+          "awayTeam": "Olympique de Marseille",
+          "utcDate": "2026-10-11T18:45:00Z",
+          "matchday": 6,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Le Mans FC",
+          "awayTeam": "Toulouse FC",
+          "utcDate": "2026-10-16T18:45:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Strasbourg Alsace",
+          "awayTeam": "Paris Saint-Germain FC",
+          "utcDate": "2026-10-17T15:15:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "ES Troyes AC",
+          "awayTeam": "Racing Club de Lens",
+          "utcDate": "2026-10-17T18:45:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Lille OSC",
+          "awayTeam": "Stade Brestois 29",
+          "utcDate": "2026-10-17T18:45:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Angers SCO",
+          "awayTeam": "Olympique de Marseille",
+          "utcDate": "2026-10-18T13:00:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Lorient",
+          "awayTeam": "AS Monaco FC",
+          "utcDate": "2026-10-18T15:15:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Paris FC",
+          "awayTeam": "Stade Rennais FC 1901",
+          "utcDate": "2026-10-18T15:15:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Le Havre AC",
+          "awayTeam": "AJ Auxerre",
+          "utcDate": "2026-10-18T15:15:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Olympique Lyonnais",
+          "awayTeam": "OGC Nice",
+          "utcDate": "2026-10-18T18:45:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Stade Brestois 29",
+          "awayTeam": "OGC Nice",
+          "utcDate": "2026-10-23T18:45:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Toulouse FC",
+          "awayTeam": "ES Troyes AC",
+          "utcDate": "2026-10-24T15:15:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        }
+      ],
+      "standings": [
+        {
+          "position": 1,
+          "team": "AS Monaco FC",
+          "played": 5,
+          "won": 4,
+          "draw": 1,
+          "lost": 0,
+          "points": 13
+        },
+        {
+          "position": 2,
+          "team": "Olympique Lyonnais",
+          "played": 5,
+          "won": 3,
+          "draw": 2,
+          "lost": 0,
+          "points": 11
+        },
+        {
+          "position": 3,
+          "team": "Paris FC",
+          "played": 5,
+          "won": 3,
+          "draw": 2,
+          "lost": 0,
+          "points": 11
+        },
+        {
+          "position": 4,
+          "team": "Lille OSC",
+          "played": 5,
+          "won": 3,
+          "draw": 1,
+          "lost": 1,
+          "points": 10
+        },
+        {
+          "position": 5,
+          "team": "Stade Rennais FC 1901",
+          "played": 5,
+          "won": 3,
+          "draw": 1,
+          "lost": 1,
+          "points": 10
+        },
+        {
+          "position": 6,
+          "team": "Paris Saint-Germain FC",
+          "played": 5,
+          "won": 2,
+          "draw": 2,
+          "lost": 1,
+          "points": 8
+        },
+        {
+          "position": 7,
+          "team": "Angers SCO",
+          "played": 5,
+          "won": 2,
+          "draw": 1,
+          "lost": 2,
+          "points": 7
+        },
+        {
+          "position": 8,
+          "team": "RC Strasbourg Alsace",
+          "played": 5,
+          "won": 2,
+          "draw": 1,
+          "lost": 2,
+          "points": 7
+        },
+        {
+          "position": 9,
+          "team": "Le Mans FC",
+          "played": 5,
+          "won": 1,
+          "draw": 3,
+          "lost": 1,
+          "points": 6
+        },
+        {
+          "position": 10,
+          "team": "AJ Auxerre",
+          "played": 5,
+          "won": 2,
+          "draw": 0,
+          "lost": 3,
+          "points": 6
+        },
+        {
+          "position": 11,
+          "team": "Stade Brestois 29",
+          "played": 5,
+          "won": 1,
+          "draw": 2,
+          "lost": 2,
+          "points": 5
+        },
+        {
+          "position": 12,
+          "team": "FC Lorient",
+          "played": 5,
+          "won": 1,
+          "draw": 2,
+          "lost": 2,
+          "points": 5
+        },
+        {
+          "position": 13,
+          "team": "Toulouse FC",
+          "played": 5,
+          "won": 1,
+          "draw": 2,
+          "lost": 2,
+          "points": 5
+        },
+        {
+          "position": 14,
+          "team": "OGC Nice",
+          "played": 5,
+          "won": 1,
+          "draw": 2,
+          "lost": 2,
+          "points": 5
+        },
+        {
+          "position": 15,
+          "team": "Racing Club de Lens",
+          "played": 5,
+          "won": 1,
+          "draw": 1,
+          "lost": 3,
+          "points": 4
+        },
+        {
+          "position": 16,
+          "team": "ES Troyes AC",
+          "played": 5,
+          "won": 1,
+          "draw": 1,
+          "lost": 3,
+          "points": 4
+        },
+        {
+          "position": 17,
+          "team": "Olympique de Marseille",
+          "played": 5,
+          "won": 1,
+          "draw": 0,
+          "lost": 4,
+          "points": 3
+        },
+        {
+          "position": 18,
+          "team": "Le Havre AC",
+          "played": 5,
+          "won": 0,
+          "draw": 2,
+          "lost": 3,
+          "points": 2
+        }
+      ]
     },
     "CL": {
       "code": "CL",
