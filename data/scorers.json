@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T13:39:07.152Z",
+  "lastUpdated": "2026-10-09T19:39:53.493Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -299,7 +299,7 @@
       "goals": 6,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "yassir-zabiri",
@@ -575,7 +575,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "maurice-krattenmacher",
@@ -719,7 +719,7 @@
       "goals": 2,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "donyell-malen",
@@ -1029,9 +1029,9 @@
       "leagueCode": "FL1",
       "nationality": "France",
       "goals": 3,
-      "assists": 3,
+      "assists": 4,
       "penalties": 3,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "louis-mafouta",
@@ -1091,7 +1091,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "adil-bourabaa",
@@ -1127,7 +1127,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "tiago-santos",
@@ -1187,7 +1187,7 @@
       "goals": 2,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "samuel-amo-ameyaw",
