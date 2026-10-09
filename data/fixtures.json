@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T12:50:53.418Z",
+  "lastUpdated": "2026-10-09T19:20:32.599Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,13 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Málaga CF",
-          "awayTeam": "RCD Espanyol de Barcelona",
-          "utcDate": "2026-10-09T19:00:00Z",
-          "matchday": 8,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Rayo Vallecano de Madrid",
           "awayTeam": "Athletic Club",
           "utcDate": "2026-10-10T12:00:00Z",
@@ -472,6 +465,13 @@
           "utcDate": "2026-10-19T19:00:00Z",
           "matchday": 9,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Levante UD",
+          "awayTeam": "Athletic Club",
+          "utcDate": "2026-10-21T18:00:00Z",
+          "matchday": 6,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -567,6 +567,15 @@
         },
         {
           "position": 11,
+          "team": "RCD Espanyol de Barcelona",
+          "played": 8,
+          "won": 2,
+          "draw": 2,
+          "lost": 4,
+          "points": 8
+        },
+        {
+          "position": 12,
           "team": "Getafe CF",
           "played": 7,
           "won": 2,
@@ -575,7 +584,7 @@
           "points": 8
         },
         {
-          "position": 12,
+          "position": 13,
           "team": "Rayo Vallecano de Madrid",
           "played": 7,
           "won": 2,
@@ -584,7 +593,7 @@
           "points": 8
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "CA Osasuna",
           "played": 7,
           "won": 2,
@@ -593,21 +602,12 @@
           "points": 8
         },
         {
-          "position": 14,
+          "position": 15,
           "team": "RC Celta de Vigo",
           "played": 7,
           "won": 1,
           "draw": 4,
           "lost": 2,
-          "points": 7
-        },
-        {
-          "position": 15,
-          "team": "RCD Espanyol de Barcelona",
-          "played": 7,
-          "won": 2,
-          "draw": 1,
-          "lost": 4,
           "points": 7
         },
         {
@@ -649,11 +649,11 @@
         {
           "position": 20,
           "team": "Málaga CF",
-          "played": 7,
+          "played": 8,
           "won": 0,
-          "draw": 3,
+          "draw": 4,
           "lost": 4,
-          "points": 3
+          "points": 4
         }
       ]
     },
@@ -661,13 +661,6 @@
       "code": "BL1",
       "name": "Bundesliga",
       "fixtures": [
-        {
-          "homeTeam": "Borussia Dortmund",
-          "awayTeam": "SV Werder Bremen",
-          "utcDate": "2026-10-09T18:30:00Z",
-          "matchday": 5,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "1. FSV Mainz 05",
           "awayTeam": "Bayer 04 Leverkusen",
@@ -800,17 +793,24 @@
           "utcDate": "2026-10-24T13:30:00Z",
           "matchday": 7,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "1. FC Köln",
+          "awayTeam": "FC Schalke 04",
+          "utcDate": "2026-10-24T13:30:00Z",
+          "matchday": 7,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
           "team": "Borussia Dortmund",
-          "played": 4,
+          "played": 5,
           "won": 4,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
-          "points": 12
+          "points": 13
         },
         {
           "position": 2,
@@ -832,6 +832,15 @@
         },
         {
           "position": 4,
+          "team": "SV Werder Bremen",
+          "played": 5,
+          "won": 2,
+          "draw": 2,
+          "lost": 1,
+          "points": 8
+        },
+        {
+          "position": 5,
           "team": "FC Augsburg",
           "played": 4,
           "won": 2,
@@ -840,7 +849,7 @@
           "points": 7
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "Bayer 04 Leverkusen",
           "played": 4,
           "won": 2,
@@ -849,7 +858,7 @@
           "points": 7
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "1. FSV Mainz 05",
           "played": 4,
           "won": 2,
@@ -858,17 +867,8 @@
           "points": 7
         },
         {
-          "position": 7,
-          "team": "SV 07 Elversberg",
-          "played": 4,
-          "won": 2,
-          "draw": 1,
-          "lost": 1,
-          "points": 7
-        },
-        {
           "position": 8,
-          "team": "SV Werder Bremen",
+          "team": "SV 07 Elversberg",
           "played": 4,
           "won": 2,
           "draw": 1,
@@ -1300,13 +1300,6 @@
       "name": "Ligue 1",
       "fixtures": [
         {
-          "homeTeam": "Racing Club de Lens",
-          "awayTeam": "Olympique Lyonnais",
-          "utcDate": "2026-10-09T18:45:00Z",
-          "matchday": 6,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Lille OSC",
           "awayTeam": "Le Havre AC",
           "utcDate": "2026-10-10T15:15:00Z",
@@ -1438,6 +1431,13 @@
           "utcDate": "2026-10-24T15:15:00Z",
           "matchday": 8,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Racing Club de Lens",
+          "awayTeam": "Paris FC",
+          "utcDate": "2026-10-24T18:45:00Z",
+          "matchday": 8,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1453,11 +1453,11 @@
         {
           "position": 2,
           "team": "Olympique Lyonnais",
-          "played": 5,
+          "played": 6,
           "won": 3,
-          "draw": 2,
+          "draw": 3,
           "lost": 0,
-          "points": 11
+          "points": 12
         },
         {
           "position": 3,
@@ -1533,6 +1533,15 @@
         },
         {
           "position": 11,
+          "team": "Racing Club de Lens",
+          "played": 6,
+          "won": 1,
+          "draw": 2,
+          "lost": 3,
+          "points": 5
+        },
+        {
+          "position": 12,
           "team": "Stade Brestois 29",
           "played": 5,
           "won": 1,
@@ -1541,7 +1550,7 @@
           "points": 5
         },
         {
-          "position": 12,
+          "position": 13,
           "team": "FC Lorient",
           "played": 5,
           "won": 1,
@@ -1550,7 +1559,7 @@
           "points": 5
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "Toulouse FC",
           "played": 5,
           "won": 1,
@@ -1559,22 +1568,13 @@
           "points": 5
         },
         {
-          "position": 14,
+          "position": 15,
           "team": "OGC Nice",
           "played": 5,
           "won": 1,
           "draw": 2,
           "lost": 2,
           "points": 5
-        },
-        {
-          "position": 15,
-          "team": "Racing Club de Lens",
-          "played": 5,
-          "won": 1,
-          "draw": 1,
-          "lost": 3,
-          "points": 4
         },
         {
           "position": 16,
