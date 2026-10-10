@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T18:47:52.332Z",
+  "lastUpdated": "2026-10-10T23:45:36.197Z",
   "players": [
     {
       "slug": "jo-o-pedro",
@@ -782,6 +782,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "kevin-de-bruyne",
+      "name": "Kevin De Bruyne",
+      "team": "SSC Napoli",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Belgium",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 1,
+      "playedMatches": 6
+    },
+    {
       "slug": "davide-frattesi",
       "name": "Davide Frattesi",
       "team": "SS Lazio",
@@ -950,18 +962,6 @@
       "playedMatches": 5
     },
     {
-      "slug": "adrien-rabiot",
-      "name": "Adrien Rabiot",
-      "team": "AC Milan",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "France",
-      "goals": 2,
-      "assists": 2,
-      "penalties": 0,
-      "playedMatches": 5
-    },
-    {
       "slug": "amine-gouiri",
       "name": "Amine Gouiri",
       "team": "Olympique de Marseille",
@@ -972,6 +972,18 @@
       "assists": 1,
       "penalties": 1,
       "playedMatches": 5
+    },
+    {
+      "slug": "louis-mafouta",
+      "name": "Louis Mafouta",
+      "team": "Le Mans FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Central African Republic",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 6
     },
     {
       "slug": "kamory-doumbia",
@@ -1022,6 +1034,18 @@
       "playedMatches": 5
     },
     {
+      "slug": "casper-tengstedt",
+      "name": "Casper Tengstedt",
+      "team": "Toulouse FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Denmark",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 2,
+      "playedMatches": 4
+    },
+    {
       "slug": "florian-thauvin",
       "name": "Florian Thauvin",
       "team": "Racing Club de Lens",
@@ -1031,18 +1055,6 @@
       "goals": 3,
       "assists": 5,
       "penalties": 3,
-      "playedMatches": 6
-    },
-    {
-      "slug": "louis-mafouta",
-      "name": "Louis Mafouta",
-      "team": "Le Mans FC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Central African Republic",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 1,
       "playedMatches": 6
     },
     {
@@ -1106,18 +1118,6 @@
       "playedMatches": 5
     },
     {
-      "slug": "casper-tengstedt",
-      "name": "Casper Tengstedt",
-      "team": "Toulouse FC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Denmark",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 4
-    },
-    {
       "slug": "franjo-ivanovic",
       "name": "Franjo Ivanovic",
       "team": "Racing Club de Lens",
@@ -1178,6 +1178,18 @@
       "playedMatches": 6
     },
     {
+      "slug": "ludovic-ajorque",
+      "name": "Ludovic Ajorque",
+      "team": "Stade Brestois 29",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "France",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 6
+    },
+    {
       "slug": "ayase-ueda",
       "name": "Ayase Ueda",
       "team": "Lille OSC",
@@ -1188,18 +1200,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 4
-    },
-    {
-      "slug": "zachary-athekame",
-      "name": "Zachary Athekame",
-      "team": "Olympique Lyonnais",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Switzerland",
-      "goals": 2,
-      "assists": 2,
-      "penalties": 0,
-      "playedMatches": 6
     },
     {
       "slug": "ermedin-demirovic",
