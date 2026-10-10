@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T00:15:54.540Z",
+  "lastUpdated": "2026-10-10T12:57:12.182Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -35,7 +35,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "marcus-tavernier",
@@ -143,7 +143,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "martin-degaard",
@@ -155,7 +155,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "emersonn",
@@ -263,7 +263,7 @@
       "goals": 7,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "kylian-mbapp",
@@ -467,7 +467,7 @@
       "goals": 2,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "nicolas-p-p",
@@ -491,7 +491,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "younes-ebnoutalib",
@@ -515,7 +515,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "yuito-suzuki",
@@ -551,7 +551,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "igor-matanovic",
@@ -575,7 +575,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "maurice-krattenmacher",
@@ -587,7 +587,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "jonathan-burkardt",
@@ -611,7 +611,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "josha-vagnoman",
@@ -623,7 +623,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "ridle-baku",
@@ -659,7 +659,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "david-mokwa-ntusu",
@@ -671,7 +671,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "christian-kofane",
@@ -695,7 +695,7 @@
       "goals": 2,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "thijs-dallinga",
@@ -827,7 +827,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "diego-moreira",
