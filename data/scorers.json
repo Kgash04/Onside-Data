@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T19:39:53.493Z",
+  "lastUpdated": "2026-10-10T00:15:54.540Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -530,6 +530,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "niclas-f-llkrug",
+      "name": "Niclas Füllkrug",
+      "team": "SV Werder Bremen",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
       "slug": "phillip-tietz",
       "name": "Phillip Tietz",
       "team": "1. FSV Mainz 05",
@@ -564,18 +576,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 4
-    },
-    {
-      "slug": "niclas-f-llkrug",
-      "name": "Niclas Füllkrug",
-      "team": "SV Werder Bremen",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 5
     },
     {
       "slug": "maurice-krattenmacher",
@@ -1029,7 +1029,7 @@
       "leagueCode": "FL1",
       "nationality": "France",
       "goals": 3,
-      "assists": 4,
+      "assists": 5,
       "penalties": 3,
       "playedMatches": 6
     },
