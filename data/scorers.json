@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T19:07:58.471Z",
+  "lastUpdated": "2026-10-11T23:52:41.753Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -278,6 +278,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "yassir-zabiri",
+      "name": "Yassir Zabiri",
+      "team": "Real Racing Club de Santander",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Morocco",
+      "goals": 7,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 8
+    },
+    {
       "slug": "lamine-yamal",
       "name": "Lamine Yamal",
       "team": "FC Barcelona",
@@ -311,18 +323,6 @@
       "goals": 6,
       "assists": 0,
       "penalties": 3,
-      "playedMatches": 8
-    },
-    {
-      "slug": "yassir-zabiri",
-      "name": "Yassir Zabiri",
-      "team": "Real Racing Club de Santander",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Morocco",
-      "goals": 6,
-      "assists": 0,
-      "penalties": 0,
       "playedMatches": 8
     },
     {
