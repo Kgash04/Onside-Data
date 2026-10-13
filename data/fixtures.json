@@ -1,17 +1,10 @@
 {
-  "lastUpdated": "2026-10-12T14:51:29.774Z",
+  "lastUpdated": "2026-10-13T01:54:06.845Z",
   "competitions": {
     "PL": {
       "code": "PL",
       "name": "Premier League",
       "fixtures": [
-        {
-          "homeTeam": "Coventry City FC",
-          "awayTeam": "Newcastle United FC",
-          "utcDate": "2026-10-12T19:00:00Z",
-          "matchday": 6,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Everton FC",
           "awayTeam": "Chelsea FC",
@@ -144,6 +137,13 @@
           "utcDate": "2026-10-25T14:00:00Z",
           "matchday": 8,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Sunderland AFC",
+          "awayTeam": "Leeds United FC",
+          "utcDate": "2026-10-25T16:30:00Z",
+          "matchday": 8,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -240,10 +240,10 @@
         {
           "position": 11,
           "team": "Newcastle United FC",
-          "played": 5,
+          "played": 6,
           "won": 2,
           "draw": 2,
-          "lost": 1,
+          "lost": 2,
           "points": 8
         },
         {
@@ -266,6 +266,15 @@
         },
         {
           "position": 14,
+          "team": "Coventry City FC",
+          "played": 6,
+          "won": 2,
+          "draw": 0,
+          "lost": 4,
+          "points": 6
+        },
+        {
+          "position": 15,
           "team": "Nottingham Forest FC",
           "played": 6,
           "won": 1,
@@ -274,7 +283,7 @@
           "points": 5
         },
         {
-          "position": 15,
+          "position": 16,
           "team": "Aston Villa FC",
           "played": 6,
           "won": 1,
@@ -283,7 +292,7 @@
           "points": 5
         },
         {
-          "position": 16,
+          "position": 17,
           "team": "Sunderland AFC",
           "played": 6,
           "won": 1,
@@ -292,7 +301,7 @@
           "points": 4
         },
         {
-          "position": 17,
+          "position": 18,
           "team": "AFC Bournemouth",
           "played": 6,
           "won": 0,
@@ -301,21 +310,12 @@
           "points": 3
         },
         {
-          "position": 18,
+          "position": 19,
           "team": "Tottenham Hotspur FC",
           "played": 6,
           "won": 0,
           "draw": 3,
           "lost": 3,
-          "points": 3
-        },
-        {
-          "position": 19,
-          "team": "Coventry City FC",
-          "played": 5,
-          "won": 1,
-          "draw": 0,
-          "lost": 4,
           "points": 3
         },
         {
@@ -333,13 +333,6 @@
       "code": "PD",
       "name": "La Liga",
       "fixtures": [
-        {
-          "homeTeam": "Levante UD",
-          "awayTeam": "Sevilla FC",
-          "utcDate": "2026-10-12T19:00:00Z",
-          "matchday": 8,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "RC Deportivo La Coruña",
           "awayTeam": "Levante UD",
@@ -472,6 +465,13 @@
           "utcDate": "2026-10-25T17:30:00Z",
           "matchday": 10,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Barcelona",
+          "awayTeam": "Real Madrid CF",
+          "utcDate": "2026-10-25T20:00:00Z",
+          "matchday": 10,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -514,11 +514,11 @@
         {
           "position": 5,
           "team": "Sevilla FC",
-          "played": 7,
+          "played": 8,
           "won": 4,
-          "draw": 1,
+          "draw": 2,
           "lost": 2,
-          "points": 13
+          "points": 14
         },
         {
           "position": 6,
@@ -621,21 +621,21 @@
         },
         {
           "position": 17,
+          "team": "Levante UD",
+          "played": 7,
+          "won": 1,
+          "draw": 3,
+          "lost": 3,
+          "points": 6
+        },
+        {
+          "position": 18,
           "team": "Elche CF",
           "played": 8,
           "won": 1,
           "draw": 3,
           "lost": 4,
           "points": 6
-        },
-        {
-          "position": 18,
-          "team": "Levante UD",
-          "played": 6,
-          "won": 1,
-          "draw": 2,
-          "lost": 3,
-          "points": 5
         },
         {
           "position": 19,
@@ -972,20 +972,6 @@
       "name": "Serie A",
       "fixtures": [
         {
-          "homeTeam": "Atalanta BC",
-          "awayTeam": "Venezia FC",
-          "utcDate": "2026-10-12T16:30:00Z",
-          "matchday": 6,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Torino FC",
-          "awayTeam": "Udinese Calcio",
-          "utcDate": "2026-10-12T18:45:00Z",
-          "matchday": 6,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Frosinone Calcio",
           "awayTeam": "US Sassuolo Calcio",
           "utcDate": "2026-10-16T18:45:00Z",
@@ -1110,6 +1096,20 @@
           "utcDate": "2026-10-25T14:00:00Z",
           "matchday": 8,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "US Lecce",
+          "awayTeam": "Juventus FC",
+          "utcDate": "2026-10-25T17:00:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Udinese Calcio",
+          "awayTeam": "AC Milan",
+          "utcDate": "2026-10-25T19:45:00Z",
+          "matchday": 8,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1196,6 +1196,15 @@
         },
         {
           "position": 10,
+          "team": "Atalanta BC",
+          "played": 6,
+          "won": 3,
+          "draw": 0,
+          "lost": 3,
+          "points": 9
+        },
+        {
+          "position": 11,
           "team": "US Sassuolo Calcio",
           "played": 6,
           "won": 2,
@@ -1204,16 +1213,16 @@
           "points": 8
         },
         {
-          "position": 11,
-          "team": "Atalanta BC",
-          "played": 5,
+          "position": 12,
+          "team": "Torino FC",
+          "played": 6,
           "won": 2,
-          "draw": 0,
+          "draw": 1,
           "lost": 3,
-          "points": 6
+          "points": 7
         },
         {
-          "position": 12,
+          "position": 13,
           "team": "US Lecce",
           "played": 6,
           "won": 2,
@@ -1222,7 +1231,7 @@
           "points": 6
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "Bologna FC 1909",
           "played": 6,
           "won": 1,
@@ -1231,21 +1240,12 @@
           "points": 5
         },
         {
-          "position": 14,
-          "team": "Udinese Calcio",
-          "played": 5,
-          "won": 1,
-          "draw": 1,
-          "lost": 3,
-          "points": 4
-        },
-        {
           "position": 15,
-          "team": "Torino FC",
-          "played": 5,
+          "team": "Udinese Calcio",
+          "played": 6,
           "won": 1,
           "draw": 1,
-          "lost": 3,
+          "lost": 4,
           "points": 4
         },
         {
@@ -1287,10 +1287,10 @@
         {
           "position": 20,
           "team": "Venezia FC",
-          "played": 5,
+          "played": 6,
           "won": 0,
           "draw": 0,
-          "lost": 5,
+          "lost": 6,
           "points": 0
         }
       ]
