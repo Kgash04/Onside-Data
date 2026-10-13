@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T20:20:20.377Z",
+  "lastUpdated": "2026-10-13T23:49:42.691Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1202,6 +1202,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "nicolo-tresoldi",
+      "name": "Nicolo Tresoldi",
+      "team": "Club Brugge KV",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Italy",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 2,
+      "playedMatches": 2
+    },
+    {
       "slug": "ermedin-demirovic",
       "name": "Ermedin Demirovic",
       "team": "VfB Stuttgart",
@@ -1235,18 +1247,6 @@
       "goals": 3,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 2
-    },
-    {
-      "slug": "nicolo-tresoldi",
-      "name": "Nicolo Tresoldi",
-      "team": "Club Brugge KV",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Italy",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 2,
       "playedMatches": 2
     },
     {
@@ -1310,6 +1310,18 @@
       "playedMatches": 1
     },
     {
+      "slug": "karim-adeyemi",
+      "name": "Karim Adeyemi",
+      "team": "FC Barcelona",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Germany",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
       "slug": "ousmane-demb-l",
       "name": "Ousmane Dembélé",
       "team": "Paris Saint-Germain FC",
@@ -1354,6 +1366,18 @@
       "nationality": "Slovenia",
       "goals": 2,
       "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
+      "slug": "lautaro-mart-nez",
+      "name": "Lautaro Martínez",
+      "team": "FC Internazionale Milano",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Argentina",
+      "goals": 2,
+      "assists": 1,
       "penalties": 0,
       "playedMatches": 2
     },
@@ -1412,30 +1436,6 @@
       "league": "Champions League",
       "leagueCode": "CL",
       "nationality": "Romania",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "kylian-mbapp",
-      "name": "Kylian Mbappé",
-      "team": "Real Madrid CF",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "France",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "federico-valverde",
-      "name": "Federico Valverde",
-      "team": "Real Madrid CF",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Uruguay",
       "goals": 1,
       "assists": 0,
       "penalties": 0,
