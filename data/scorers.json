@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T15:57:20.153Z",
+  "lastUpdated": "2026-10-13T02:12:35.291Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -441,9 +441,21 @@
       "leagueCode": "PD",
       "nationality": "Spain",
       "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 7
+    },
+    {
+      "slug": "iv-n-romero",
+      "name": "Iván Romero",
+      "team": "Levante UD",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 8
     },
     {
       "slug": "alejandro-grimaldo",
@@ -468,18 +480,6 @@
       "assists": 2,
       "penalties": 0,
       "playedMatches": 5
-    },
-    {
-      "slug": "lvaro-garc-a",
-      "name": "Álvaro García",
-      "team": "Rayo Vallecano de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 2,
-      "penalties": 0,
-      "playedMatches": 8
     },
     {
       "slug": "patrik-schick",
@@ -806,6 +806,18 @@
       "playedMatches": 6
     },
     {
+      "slug": "nikola-krstovi",
+      "name": "Nikola Krstović",
+      "team": "Atalanta BC",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Montenegro",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 6
+    },
+    {
       "slug": "adrien-rabiot",
       "name": "Adrien Rabiot",
       "team": "AC Milan",
@@ -826,6 +838,18 @@
       "nationality": "Italy",
       "goals": 3,
       "assists": 0,
+      "penalties": 0,
+      "playedMatches": 6
+    },
+    {
+      "slug": "jurgen-ekkelenkamp",
+      "name": "Jurgen Ekkelenkamp",
+      "team": "Udinese Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Netherlands",
+      "goals": 3,
+      "assists": 1,
       "penalties": 0,
       "playedMatches": 6
     },
@@ -911,7 +935,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "anastasios-douvikas",
@@ -936,30 +960,6 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 6
-    },
-    {
-      "slug": "bremer",
-      "name": "Bremer",
-      "team": "Juventus FC",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Brazil",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 6
-    },
-    {
-      "slug": "tiago-gabriel",
-      "name": "Tiago Gabriel",
-      "team": "US Lecce",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Portugal",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 5
     },
     {
       "slug": "amine-gouiri",
