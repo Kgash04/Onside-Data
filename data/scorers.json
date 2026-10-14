@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T18:49:38.846Z",
+  "lastUpdated": "2026-10-14T23:23:17.359Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1214,14 +1214,50 @@
       "playedMatches": 2
     },
     {
+      "slug": "erling-haaland",
+      "name": "Erling Haaland",
+      "team": "Manchester City FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Norway",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
       "slug": "ermedin-demirovic",
       "name": "Ermedin Demirovic",
       "team": "VfB Stuttgart",
       "league": "Champions League",
       "leagueCode": "CL",
       "nationality": "Bosnia-Herzegovina",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
+      "slug": "nicolas-jackson",
+      "name": "Nicolas Jackson",
+      "team": "Aston Villa FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Senegal",
       "goals": 3,
       "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
+      "slug": "ousmane-demb-l",
+      "name": "Ousmane Dembélé",
+      "team": "Paris Saint-Germain FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "France",
+      "goals": 3,
+      "assists": 3,
       "penalties": 0,
       "playedMatches": 2
     },
@@ -1262,12 +1298,12 @@
       "playedMatches": 2
     },
     {
-      "slug": "erling-haaland",
-      "name": "Erling Haaland",
-      "team": "Manchester City FC",
+      "slug": "kylian-mbapp",
+      "name": "Kylian Mbappé",
+      "team": "Real Madrid CF",
       "league": "Champions League",
       "leagueCode": "CL",
-      "nationality": "Norway",
+      "nationality": "France",
       "goals": 2,
       "assists": 0,
       "penalties": 0,
@@ -1334,18 +1370,6 @@
       "playedMatches": 2
     },
     {
-      "slug": "ousmane-demb-l",
-      "name": "Ousmane Dembélé",
-      "team": "Paris Saint-Germain FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "France",
-      "goals": 2,
-      "assists": 2,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
       "slug": "luis-su-rez",
       "name": "Luis Suárez",
       "team": "Sporting Clube de Portugal",
@@ -1355,6 +1379,18 @@
       "goals": 2,
       "assists": 0,
       "penalties": 1,
+      "playedMatches": 2
+    },
+    {
+      "slug": "gleiker-mendoza",
+      "name": "Gleiker Mendoza",
+      "team": "FK Shakhtar Donetsk",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Venezuela",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
       "playedMatches": 2
     },
     {
@@ -1401,42 +1437,6 @@
       "leagueCode": "CL",
       "nationality": "Slovenia",
       "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "lautaro-mart-nez",
-      "name": "Lautaro Martínez",
-      "team": "FC Internazionale Milano",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Argentina",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "florian-flecker",
-      "name": "Florian Flecker",
-      "team": "LASK Linz",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Austria",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "john-mcginn",
-      "name": "John McGinn",
-      "team": "Aston Villa FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Scotland",
-      "goals": 1,
       "assists": 0,
       "penalties": 0,
       "playedMatches": 2
