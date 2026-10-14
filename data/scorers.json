@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T12:16:43.261Z",
+  "lastUpdated": "2026-10-14T18:49:38.846Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1223,7 +1223,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "ferr-n-torres",
@@ -1235,7 +1235,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "harry-kane",
@@ -1250,6 +1250,18 @@
       "playedMatches": 2
     },
     {
+      "slug": "bradley-barcola",
+      "name": "Bradley Barcola",
+      "team": "Liverpool FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "France",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
       "slug": "erling-haaland",
       "name": "Erling Haaland",
       "team": "Manchester City FC",
@@ -1259,7 +1271,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "santiago-mouri-o",
@@ -1283,7 +1295,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "bartra",
@@ -1295,7 +1307,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "raphinha",
@@ -1331,7 +1343,7 @@
       "goals": 2,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "luis-su-rez",
@@ -1354,6 +1366,30 @@
       "nationality": "France",
       "goals": 2,
       "assists": 1,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
+      "slug": "anastasios-douvikas",
+      "name": "Anastasios Douvikas",
+      "team": "Como 1907",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Greece",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
+      "slug": "assane-diao",
+      "name": "Assane Diao",
+      "team": "Como 1907",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Senegal",
+      "goals": 2,
+      "assists": 0,
       "penalties": 0,
       "playedMatches": 2
     },
@@ -1382,6 +1418,18 @@
       "playedMatches": 2
     },
     {
+      "slug": "florian-flecker",
+      "name": "Florian Flecker",
+      "team": "LASK Linz",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Austria",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 2
+    },
+    {
       "slug": "john-mcginn",
       "name": "John McGinn",
       "team": "Aston Villa FC",
@@ -1391,55 +1439,7 @@
       "goals": 1,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "hugo-vetlesen",
-      "name": "Hugo Vetlesen",
-      "team": "Club Brugge KV",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Belgium",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
       "playedMatches": 2
-    },
-    {
-      "slug": "emiliano-buend-a",
-      "name": "Emiliano Buendía",
-      "team": "Aston Villa FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Argentina",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "nicolas-jackson",
-      "name": "Nicolas Jackson",
-      "team": "Aston Villa FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Senegal",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
-    },
-    {
-      "slug": "r-zvan-marin",
-      "name": "Răzvan Marin",
-      "team": "PAE AEK",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Romania",
-      "goals": 1,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 1
     }
   ]
 }
