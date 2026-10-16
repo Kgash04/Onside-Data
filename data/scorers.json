@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T11:48:35.791Z",
+  "lastUpdated": "2026-10-16T18:17:49.284Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -443,7 +443,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "iv-n-romero",
@@ -455,7 +455,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "alejandro-grimaldo",
@@ -515,7 +515,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "yuito-suzuki",
@@ -635,7 +635,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "robin-fellhauer",
@@ -755,7 +755,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "lautaro-mart-nez",
@@ -887,7 +887,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "vasilije-adzic",
@@ -899,7 +899,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "franco-mastantuono",
@@ -983,7 +983,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "kamory-doumbia",
@@ -1067,7 +1067,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 2,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "florian-thauvin",
