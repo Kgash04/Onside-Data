@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T18:17:49.284Z",
+  "lastUpdated": "2026-10-16T22:58:34.907Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -482,6 +482,18 @@
       "playedMatches": 5
     },
     {
+      "slug": "younes-ebnoutalib",
+      "name": "Younes Ebnoutalib",
+      "team": "Eintracht Frankfurt",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 5,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 6
+    },
+    {
       "slug": "patrik-schick",
       "name": "Patrik Schick",
       "team": "Bayer 04 Leverkusen",
@@ -504,18 +516,6 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 5
-    },
-    {
-      "slug": "younes-ebnoutalib",
-      "name": "Younes Ebnoutalib",
-      "team": "Eintracht Frankfurt",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 4,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 6
     },
     {
       "slug": "yuito-suzuki",
@@ -722,6 +722,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "antonio-raimondo",
+      "name": "Antonio Raimondo",
+      "team": "Frosinone Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 7,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 7
+    },
+    {
       "slug": "donyell-malen",
       "name": "Donyell Malen",
       "team": "AS Roma",
@@ -744,18 +756,6 @@
       "assists": 0,
       "penalties": 1,
       "playedMatches": 5
-    },
-    {
-      "slug": "antonio-raimondo",
-      "name": "Antonio Raimondo",
-      "team": "Frosinone Calcio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Italy",
-      "goals": 4,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 7
     },
     {
       "slug": "lautaro-mart-nez",
@@ -962,6 +962,18 @@
       "playedMatches": 6
     },
     {
+      "slug": "casper-tengstedt",
+      "name": "Casper Tengstedt",
+      "team": "Toulouse FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Denmark",
+      "goals": 5,
+      "assists": 1,
+      "penalties": 2,
+      "playedMatches": 5
+    },
+    {
       "slug": "amine-gouiri",
       "name": "Amine Gouiri",
       "team": "Olympique de Marseille",
@@ -1056,18 +1068,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 4
-    },
-    {
-      "slug": "casper-tengstedt",
-      "name": "Casper Tengstedt",
-      "team": "Toulouse FC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Denmark",
-      "goals": 4,
-      "assists": 1,
-      "penalties": 2,
-      "playedMatches": 5
     },
     {
       "slug": "florian-thauvin",
@@ -1178,6 +1178,18 @@
       "playedMatches": 6
     },
     {
+      "slug": "jacen-russell-rowe",
+      "name": "Jacen Russell-Rowe",
+      "team": "Toulouse FC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Canada",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 7
+    },
+    {
       "slug": "ludovic-ajorque",
       "name": "Ludovic Ajorque",
       "team": "Stade Brestois 29",
@@ -1188,18 +1200,6 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 6
-    },
-    {
-      "slug": "ayase-ueda",
-      "name": "Ayase Ueda",
-      "team": "Lille OSC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Japan",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 4
     },
     {
       "slug": "nicolo-tresoldi",
