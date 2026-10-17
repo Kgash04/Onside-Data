@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T17:28:44.881Z",
+  "lastUpdated": "2026-10-17T22:34:19.702Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -261,7 +261,7 @@
       "leagueCode": "PD",
       "nationality": "Spain",
       "goals": 8,
-      "assists": 5,
+      "assists": 6,
       "penalties": 1,
       "playedMatches": 9
     },
@@ -501,7 +501,7 @@
       "leagueCode": "BL1",
       "nationality": "France",
       "goals": 5,
-      "assists": 1,
+      "assists": 2,
       "penalties": 0,
       "playedMatches": 6
     },
@@ -542,6 +542,18 @@
       "playedMatches": 6
     },
     {
+      "slug": "luis-d-az",
+      "name": "Luis Díaz",
+      "team": "FC Bayern München",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Colombia",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 6
+    },
+    {
       "slug": "yuito-suzuki",
       "name": "Yuito Suzuki",
       "team": "SC Freiburg",
@@ -575,6 +587,18 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
+      "playedMatches": 6
+    },
+    {
+      "slug": "harry-kane",
+      "name": "Harry Kane",
+      "team": "FC Bayern München",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "England",
+      "goals": 4,
+      "assists": 4,
+      "penalties": 1,
       "playedMatches": 6
     },
     {
@@ -650,18 +674,6 @@
       "playedMatches": 6
     },
     {
-      "slug": "harry-kane",
-      "name": "Harry Kane",
-      "team": "FC Bayern München",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "England",
-      "goals": 3,
-      "assists": 3,
-      "penalties": 1,
-      "playedMatches": 6
-    },
-    {
       "slug": "josha-vagnoman",
       "name": "Josha Vagnoman",
       "team": "VfB Stuttgart",
@@ -680,18 +692,6 @@
       "league": "Bundesliga",
       "leagueCode": "BL1",
       "nationality": "Germany",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 6
-    },
-    {
-      "slug": "luis-d-az",
-      "name": "Luis Díaz",
-      "team": "FC Bayern München",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Colombia",
       "goals": 2,
       "assists": 1,
       "penalties": 0,
@@ -875,7 +875,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "giorgi-kvernadze",
@@ -1007,7 +1007,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "esteban-lepaul",
@@ -1077,9 +1077,9 @@
       "leagueCode": "FL1",
       "nationality": "France",
       "goals": 3,
-      "assists": 5,
+      "assists": 7,
       "penalties": 3,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "marquinhos",
@@ -1127,7 +1127,19 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
+    },
+    {
+      "slug": "olivier-giroud",
+      "name": "Olivier Giroud",
+      "team": "Lille OSC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "France",
+      "goals": 2,
+      "assists": 2,
+      "penalties": 1,
+      "playedMatches": 7
     },
     {
       "slug": "tiago-santos",
@@ -1151,7 +1163,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "gessime-yassine",
@@ -1188,18 +1200,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 7
-    },
-    {
-      "slug": "ludovic-ajorque",
-      "name": "Ludovic Ajorque",
-      "team": "Stade Brestois 29",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "France",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 6
     },
     {
       "slug": "nicolo-tresoldi",
