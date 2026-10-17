@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T22:58:34.907Z",
+  "lastUpdated": "2026-10-17T11:05:03.479Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -23,7 +23,7 @@
       "goals": 5,
       "assists": 3,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "morgan-rogers",
@@ -35,7 +35,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "rayan-cherki",
@@ -83,7 +83,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "marcus-tavernier",
@@ -215,7 +215,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "vitaly-janelt",
@@ -371,7 +371,7 @@
       "goals": 4,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "ferm-n-l-pez",
@@ -467,7 +467,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 2,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "jonathan-david",
@@ -479,7 +479,7 @@
       "goals": 3,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "younes-ebnoutalib",
