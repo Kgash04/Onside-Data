@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T22:02:39.878Z",
+  "lastUpdated": "2026-10-18T10:38:32.346Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -972,13 +972,6 @@
       "name": "Serie A",
       "fixtures": [
         {
-          "homeTeam": "Udinese Calcio",
-          "awayTeam": "US Lecce",
-          "utcDate": "2026-10-18T10:30:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "ACF Fiorentina",
           "awayTeam": "Como 1907",
           "utcDate": "2026-10-18T13:00:00Z",
@@ -1110,6 +1103,13 @@
           "utcDate": "2026-10-28T17:30:00Z",
           "matchday": 9,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Venezia FC",
+          "awayTeam": "FC Internazionale Milano",
+          "utcDate": "2026-10-28T17:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1224,15 +1224,15 @@
         {
           "position": 13,
           "team": "US Lecce",
-          "played": 6,
+          "played": 7,
           "won": 2,
-          "draw": 0,
+          "draw": 1,
           "lost": 4,
-          "points": 6
+          "points": 7
         },
         {
           "position": 14,
-          "team": "Bologna FC 1909",
+          "team": "Udinese Calcio",
           "played": 7,
           "won": 1,
           "draw": 2,
@@ -1241,12 +1241,12 @@
         },
         {
           "position": 15,
-          "team": "Udinese Calcio",
-          "played": 6,
+          "team": "Bologna FC 1909",
+          "played": 7,
           "won": 1,
-          "draw": 1,
+          "draw": 2,
           "lost": 4,
-          "points": 4
+          "points": 5
         },
         {
           "position": 16,
