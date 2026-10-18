@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T17:29:35.215Z",
+  "lastUpdated": "2026-10-18T22:33:01.243Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -254,6 +254,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "kylian-mbapp",
+      "name": "Kylian Mbappé",
+      "team": "Real Madrid CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "France",
+      "goals": 9,
+      "assists": 2,
+      "penalties": 2,
+      "playedMatches": 9
+    },
+    {
       "slug": "lamine-yamal",
       "name": "Lamine Yamal",
       "team": "FC Barcelona",
@@ -275,18 +287,6 @@
       "goals": 7,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 8
-    },
-    {
-      "slug": "kylian-mbapp",
-      "name": "Kylian Mbappé",
-      "team": "Real Madrid CF",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "France",
-      "goals": 7,
-      "assists": 2,
-      "penalties": 1,
       "playedMatches": 8
     },
     {
@@ -417,9 +417,9 @@
       "leagueCode": "PD",
       "nationality": "England",
       "goals": 3,
-      "assists": 2,
+      "assists": 3,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "luka-su-i",
@@ -446,6 +446,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "adri-n",
+      "name": "Adrián",
+      "team": "Málaga CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
       "slug": "iv-n-romero",
       "name": "Iván Romero",
       "team": "Levante UD",
@@ -468,18 +480,6 @@
       "assists": 1,
       "penalties": 2,
       "playedMatches": 9
-    },
-    {
-      "slug": "jonathan-david",
-      "name": "Jonathan David",
-      "team": "Club Atlético de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Canada",
-      "goals": 3,
-      "assists": 2,
-      "penalties": 0,
-      "playedMatches": 6
     },
     {
       "slug": "patrik-schick",
@@ -758,6 +758,18 @@
       "playedMatches": 5
     },
     {
+      "slug": "nikola-krstovi",
+      "name": "Nikola Krstović",
+      "team": "Atalanta BC",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Montenegro",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 7
+    },
+    {
       "slug": "adrien-rabiot",
       "name": "Adrien Rabiot",
       "team": "AC Milan",
@@ -842,18 +854,6 @@
       "playedMatches": 7
     },
     {
-      "slug": "nikola-krstovi",
-      "name": "Nikola Krstović",
-      "team": "Atalanta BC",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Montenegro",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 7
-    },
-    {
       "slug": "davide-frattesi",
       "name": "Davide Frattesi",
       "team": "SS Lazio",
@@ -863,7 +863,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "jurgen-ekkelenkamp",
@@ -1115,7 +1115,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "adil-bourabaa",
