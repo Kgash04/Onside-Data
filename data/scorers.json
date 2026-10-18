@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T22:34:19.702Z",
+  "lastUpdated": "2026-10-18T11:36:20.726Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -299,7 +299,7 @@
       "goals": 7,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "roberto-fern-ndez",
@@ -323,7 +323,7 @@
       "goals": 6,
       "assists": 0,
       "penalties": 3,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "pierre-emerick-aubameyang",
@@ -863,7 +863,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "milutin-osmaji",
@@ -935,7 +935,7 @@
       "goals": 2,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "anastasios-douvikas",
