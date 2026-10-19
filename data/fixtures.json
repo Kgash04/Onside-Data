@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T22:17:40.298Z",
+  "lastUpdated": "2026-10-19T12:36:22.346Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -1610,6 +1610,132 @@
       "name": "Champions League",
       "fixtures": [
         {
+          "homeTeam": "Sabah FK",
+          "awayTeam": "Borussia Dortmund",
+          "utcDate": "2026-10-20T16:45:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Fenerbahçe SK",
+          "awayTeam": "SK Slavia Praha",
+          "utcDate": "2026-10-20T16:45:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Manchester City FC",
+          "awayTeam": "PAE AEK",
+          "utcDate": "2026-10-20T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Club Atlético de Madrid",
+          "utcDate": "2026-10-20T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Liverpool FC",
+          "awayTeam": "Villarreal CF",
+          "utcDate": "2026-10-20T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "AS Roma",
+          "awayTeam": "ŠK Slovan Bratislava",
+          "utcDate": "2026-10-20T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Porto",
+          "awayTeam": "PSV",
+          "utcDate": "2026-10-20T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "SSC Napoli",
+          "awayTeam": "FK Bodø/Glimt",
+          "utcDate": "2026-10-20T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Paris Saint-Germain FC",
+          "awayTeam": "FC Barcelona",
+          "utcDate": "2026-10-20T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Como 1907",
+          "awayTeam": "Manchester United FC",
+          "utcDate": "2026-10-21T16:45:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Lille OSC",
+          "awayTeam": "Galatasaray SK",
+          "utcDate": "2026-10-21T16:45:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Madrid CF",
+          "awayTeam": "RB Leipzig",
+          "utcDate": "2026-10-21T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Internazionale Milano",
+          "awayTeam": "FK Shakhtar Donetsk",
+          "utcDate": "2026-10-21T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Bayern München",
+          "awayTeam": "Arsenal FC",
+          "utcDate": "2026-10-21T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Club Brugge KV",
+          "awayTeam": "Racing Club de Lens",
+          "utcDate": "2026-10-21T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Aston Villa FC",
+          "awayTeam": "Viking FK",
+          "utcDate": "2026-10-21T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Sporting Clube de Portugal",
+          "awayTeam": "LASK Linz",
+          "utcDate": "2026-10-21T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Betis Balompié",
+          "awayTeam": "Feyenoord Rotterdam",
+          "utcDate": "2026-10-21T19:00:00Z",
+          "matchday": 3,
+          "status": "TIMED"
+        },
+        {
           "homeTeam": "FK Shakhtar Donetsk",
           "awayTeam": "Sporting Clube de Portugal",
           "utcDate": "2026-11-03T17:45:00Z",
@@ -1621,132 +1747,6 @@
           "awayTeam": "VfB Stuttgart",
           "utcDate": "2026-11-03T17:45:00Z",
           "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Feyenoord Rotterdam",
-          "awayTeam": "FC Internazionale Milano",
-          "utcDate": "2026-11-03T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "FC Barcelona",
-          "awayTeam": "Aston Villa FC",
-          "utcDate": "2026-11-03T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Club Atlético de Madrid",
-          "awayTeam": "FC Bayern München",
-          "utcDate": "2026-11-03T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Villarreal CF",
-          "awayTeam": "Paris Saint-Germain FC",
-          "utcDate": "2026-11-03T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Manchester United FC",
-          "awayTeam": "AS Roma",
-          "utcDate": "2026-11-03T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "FK Bodø/Glimt",
-          "awayTeam": "Lille OSC",
-          "utcDate": "2026-11-03T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "LASK Linz",
-          "awayTeam": "ŠK Slovan Bratislava",
-          "utcDate": "2026-11-03T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "PAE AEK",
-          "awayTeam": "Real Madrid CF",
-          "utcDate": "2026-11-04T17:45:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Fenerbahçe SK",
-          "awayTeam": "Liverpool FC",
-          "utcDate": "2026-11-04T17:45:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "RB Leipzig",
-          "awayTeam": "Manchester City FC",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "SK Slavia Praha",
-          "awayTeam": "Arsenal FC",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "PSV",
-          "awayTeam": "Club Brugge KV",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Borussia Dortmund",
-          "awayTeam": "Real Betis Balompié",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "FC Porto",
-          "awayTeam": "SSC Napoli",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Racing Club de Lens",
-          "awayTeam": "Como 1907",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Viking FK",
-          "awayTeam": "Sabah FK",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Galatasaray SK",
-          "awayTeam": "Aston Villa FC",
-          "utcDate": "2026-11-24T17:45:00Z",
-          "matchday": 5,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "FK Bodø/Glimt",
-          "awayTeam": "LASK Linz",
-          "utcDate": "2026-11-24T17:45:00Z",
-          "matchday": 5,
           "status": "TIMED"
         }
       ],
