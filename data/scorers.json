@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T13:50:16.413Z",
+  "lastUpdated": "2026-10-19T20:07:08.345Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -287,7 +287,7 @@
       "goals": 7,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "ante-budimir",
@@ -398,6 +398,18 @@
       "playedMatches": 9
     },
     {
+      "slug": "lvaro-garc-a",
+      "name": "Álvaro García",
+      "team": "Rayo Vallecano de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 3,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 9
+    },
+    {
       "slug": "pape-gueye",
       "name": "Pape Gueye",
       "team": "Villarreal CF",
@@ -467,18 +479,6 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 9
-    },
-    {
-      "slug": "alejandro-grimaldo",
-      "name": "Alejandro Grimaldo",
-      "team": "Club Atlético de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 2,
       "playedMatches": 9
     },
     {
@@ -734,6 +734,18 @@
       "playedMatches": 7
     },
     {
+      "slug": "gustavo-varela",
+      "name": "Gustavo Varela",
+      "team": "AC Monza",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Portugal",
+      "goals": 6,
+      "assists": 1,
+      "penalties": 1,
+      "playedMatches": 6
+    },
+    {
       "slug": "donyell-malen",
       "name": "Donyell Malen",
       "team": "AS Roma",
@@ -744,18 +756,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 6
-    },
-    {
-      "slug": "gustavo-varela",
-      "name": "Gustavo Varela",
-      "team": "AC Monza",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Portugal",
-      "goals": 4,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 5
     },
     {
       "slug": "nikola-krstovi",
@@ -815,7 +815,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "anastasios-douvikas",
@@ -852,6 +852,18 @@
       "assists": 1,
       "penalties": 1,
       "playedMatches": 7
+    },
+    {
+      "slug": "che-adams",
+      "name": "Che Adams",
+      "team": "Torino FC",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Scotland",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
     },
     {
       "slug": "davide-frattesi",
@@ -944,18 +956,6 @@
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Ivory Coast",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 7
-    },
-    {
-      "slug": "francesco-esposito",
-      "name": "Francesco Esposito",
-      "team": "FC Internazionale Milano",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Italy",
       "goals": 2,
       "assists": 1,
       "penalties": 0,
