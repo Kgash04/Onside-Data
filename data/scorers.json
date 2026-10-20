@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T11:59:06.081Z",
+  "lastUpdated": "2026-10-20T18:38:51.696Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1223,7 +1223,19 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
+    },
+    {
+      "slug": "sehrou-guirassy",
+      "name": "Sehrou Guirassy",
+      "team": "Borussia Dortmund",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Guinea",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 3
     },
     {
       "slug": "ermedin-demirovic",
@@ -1235,7 +1247,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "nicolas-jackson",
@@ -1259,7 +1271,7 @@
       "goals": 3,
       "assists": 3,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "ferr-n-torres",
@@ -1271,7 +1283,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "harry-kane",
@@ -1295,7 +1307,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "kylian-mbapp",
@@ -1319,19 +1331,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "sehrou-guirassy",
-      "name": "Sehrou Guirassy",
-      "team": "Borussia Dortmund",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Guinea",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "bartra",
@@ -1355,7 +1355,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 1
+      "playedMatches": 2
     },
     {
       "slug": "karim-adeyemi",
@@ -1367,7 +1367,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "luis-su-rez",
@@ -1439,7 +1439,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     }
   ]
 }
