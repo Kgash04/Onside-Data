@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T18:38:51.696Z",
+  "lastUpdated": "2026-10-20T23:19:39.796Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1262,6 +1262,18 @@
       "playedMatches": 2
     },
     {
+      "slug": "alexis-mac-allister",
+      "name": "Alexis Mac Allister",
+      "team": "Liverpool FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Argentina",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "ousmane-demb-l",
       "name": "Ousmane Dembélé",
       "team": "Paris Saint-Germain FC",
@@ -1306,6 +1318,30 @@
       "nationality": "France",
       "goals": 3,
       "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
+      "slug": "donyell-malen",
+      "name": "Donyell Malen",
+      "team": "AS Roma",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Netherlands",
+      "goals": 3,
+      "assists": 2,
+      "penalties": 1,
+      "playedMatches": 3
+    },
+    {
+      "slug": "phil-foden",
+      "name": "Phil Foden",
+      "team": "Manchester City FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "England",
+      "goals": 3,
+      "assists": 1,
       "penalties": 0,
       "playedMatches": 3
     },
@@ -1370,6 +1406,30 @@
       "playedMatches": 3
     },
     {
+      "slug": "lamine-yamal",
+      "name": "Lamine Yamal",
+      "team": "FC Barcelona",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 4,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
+      "slug": "fabi-n-ruiz",
+      "name": "Fabián Ruiz",
+      "team": "Paris Saint-Germain FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Spain",
+      "goals": 2,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "luis-su-rez",
       "name": "Luis Suárez",
       "team": "Sporting Clube de Portugal",
@@ -1380,66 +1440,6 @@
       "assists": 0,
       "penalties": 1,
       "playedMatches": 2
-    },
-    {
-      "slug": "gleiker-mendoza",
-      "name": "Gleiker Mendoza",
-      "team": "FK Shakhtar Donetsk",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Venezuela",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "michael-olise",
-      "name": "Michael Olise",
-      "team": "FC Bayern München",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "France",
-      "goals": 2,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "anastasios-douvikas",
-      "name": "Anastasios Douvikas",
-      "team": "Como 1907",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Greece",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "assane-diao",
-      "name": "Assane Diao",
-      "team": "Como 1907",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Senegal",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "danijel-sturm",
-      "name": "Danijel Sturm",
-      "team": "SK Slavia Praha",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Slovenia",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
     }
   ]
 }
