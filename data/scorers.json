@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T18:50:25.579Z",
+  "lastUpdated": "2026-10-21T23:33:19.585Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1250,6 +1250,30 @@
       "playedMatches": 3
     },
     {
+      "slug": "luis-su-rez",
+      "name": "Luis Suárez",
+      "team": "Sporting Clube de Portugal",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Colombia",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 2,
+      "playedMatches": 3
+    },
+    {
+      "slug": "harry-kane",
+      "name": "Harry Kane",
+      "team": "FC Bayern München",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "England",
+      "goals": 4,
+      "assists": 2,
+      "penalties": 2,
+      "playedMatches": 3
+    },
+    {
       "slug": "nicolas-jackson",
       "name": "Nicolas Jackson",
       "team": "Aston Villa FC",
@@ -1258,6 +1282,18 @@
       "nationality": "Senegal",
       "goals": 3,
       "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
+      "slug": "kylian-mbapp",
+      "name": "Kylian Mbappé",
+      "team": "Real Madrid CF",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "France",
+      "goals": 3,
+      "assists": 1,
       "penalties": 0,
       "playedMatches": 3
     },
@@ -1298,18 +1334,6 @@
       "playedMatches": 3
     },
     {
-      "slug": "harry-kane",
-      "name": "Harry Kane",
-      "team": "FC Bayern München",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "England",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 1,
-      "playedMatches": 3
-    },
-    {
       "slug": "anastasios-douvikas",
       "name": "Anastasios Douvikas",
       "team": "Como 1907",
@@ -1346,6 +1370,18 @@
       "playedMatches": 3
     },
     {
+      "slug": "ross-barkley",
+      "name": "Ross Barkley",
+      "team": "Aston Villa FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "England",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 1,
+      "playedMatches": 3
+    },
+    {
       "slug": "phil-foden",
       "name": "Phil Foden",
       "team": "Manchester City FC",
@@ -1358,12 +1394,24 @@
       "playedMatches": 3
     },
     {
-      "slug": "kylian-mbapp",
-      "name": "Kylian Mbappé",
-      "team": "Real Madrid CF",
+      "slug": "emiliano-buend-a",
+      "name": "Emiliano Buendía",
+      "team": "Aston Villa FC",
       "league": "Champions League",
       "leagueCode": "CL",
-      "nationality": "France",
+      "nationality": "Argentina",
+      "goals": 2,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 3
+    },
+    {
+      "slug": "carlos-augusto-lobaton",
+      "name": "Carlos Augusto Lobaton",
+      "team": "FC Internazionale Milano",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Brazil",
       "goals": 2,
       "assists": 0,
       "penalties": 0,
@@ -1390,54 +1438,6 @@
       "nationality": "Spain",
       "goals": 2,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "raphinha",
-      "name": "Raphinha",
-      "team": "FC Barcelona",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Brazil",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 2
-    },
-    {
-      "slug": "karim-adeyemi",
-      "name": "Karim Adeyemi",
-      "team": "FC Barcelona",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Germany",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "lamine-yamal",
-      "name": "Lamine Yamal",
-      "team": "FC Barcelona",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 4,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "fabi-n-ruiz",
-      "name": "Fabián Ruiz",
-      "team": "Paris Saint-Germain FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 1,
       "penalties": 0,
       "playedMatches": 3
     }
