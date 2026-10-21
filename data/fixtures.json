@@ -1,94 +1,10 @@
 {
-  "lastUpdated": "2026-10-20T23:02:04.840Z",
+  "lastUpdated": "2026-10-21T11:25:36.791Z",
   "competitions": {
     "PL": {
       "code": "PL",
       "name": "Premier League",
       "fixtures": [
-        {
-          "homeTeam": "Hull City AFC",
-          "awayTeam": "Everton FC",
-          "utcDate": "2026-10-11T13:00:00Z",
-          "matchday": 6,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Crystal Palace FC",
-          "awayTeam": "Nottingham Forest FC",
-          "utcDate": "2026-10-11T13:00:00Z",
-          "matchday": 6,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Liverpool FC",
-          "awayTeam": "Manchester City FC",
-          "utcDate": "2026-10-11T15:30:00Z",
-          "matchday": 6,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Coventry City FC",
-          "awayTeam": "Newcastle United FC",
-          "utcDate": "2026-10-12T19:00:00Z",
-          "matchday": 6,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Everton FC",
-          "awayTeam": "Chelsea FC",
-          "utcDate": "2026-10-17T11:30:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Fulham FC",
-          "awayTeam": "Hull City AFC",
-          "utcDate": "2026-10-17T14:00:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Manchester City FC",
-          "awayTeam": "Ipswich Town FC",
-          "utcDate": "2026-10-17T14:00:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Brentford FC",
-          "awayTeam": "Liverpool FC",
-          "utcDate": "2026-10-17T14:00:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Newcastle United FC",
-          "awayTeam": "Aston Villa FC",
-          "utcDate": "2026-10-17T16:30:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "AFC Bournemouth",
-          "awayTeam": "Sunderland AFC",
-          "utcDate": "2026-10-18T13:00:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Leeds United FC",
-          "awayTeam": "Manchester United FC",
-          "utcDate": "2026-10-18T13:00:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Brighton & Hove Albion FC",
-          "awayTeam": "Crystal Palace FC",
-          "utcDate": "2026-10-18T13:00:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Ipswich Town FC",
           "awayTeam": "Nottingham Forest FC",
@@ -143,6 +59,90 @@
           "awayTeam": "AFC Bournemouth",
           "utcDate": "2026-10-25T14:00:00Z",
           "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Hull City AFC",
+          "awayTeam": "Brentford FC",
+          "utcDate": "2026-10-25T14:00:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Sunderland AFC",
+          "awayTeam": "Leeds United FC",
+          "utcDate": "2026-10-25T16:30:00Z",
+          "matchday": 8,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Chelsea FC",
+          "awayTeam": "Manchester United FC",
+          "utcDate": "2026-10-31T12:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Manchester City FC",
+          "awayTeam": "Brighton & Hove Albion FC",
+          "utcDate": "2026-10-31T15:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "AFC Bournemouth",
+          "awayTeam": "Leeds United FC",
+          "utcDate": "2026-10-31T15:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Coventry City FC",
+          "awayTeam": "Sunderland AFC",
+          "utcDate": "2026-10-31T15:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Hull City AFC",
+          "awayTeam": "Ipswich Town FC",
+          "utcDate": "2026-10-31T15:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Brentford FC",
+          "awayTeam": "Nottingham Forest FC",
+          "utcDate": "2026-10-31T15:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Tottenham Hotspur FC",
+          "awayTeam": "Crystal Palace FC",
+          "utcDate": "2026-10-31T17:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Aston Villa FC",
+          "awayTeam": "Fulham FC",
+          "utcDate": "2026-10-31T20:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Liverpool FC",
+          "awayTeam": "Arsenal FC",
+          "utcDate": "2026-11-01T16:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Newcastle United FC",
+          "awayTeam": "Everton FC",
+          "utcDate": "2026-11-02T20:00:00Z",
+          "matchday": 9,
           "status": "TIMED"
         }
       ],
