@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T12:14:34.236Z",
+  "lastUpdated": "2026-10-21T18:50:25.579Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -374,6 +374,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "brugui",
+      "name": "Brugui",
+      "team": "Levante UD",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 5,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 8
+    },
+    {
       "slug": "ferm-n-l-pez",
       "name": "Fermín López",
       "team": "FC Barcelona",
@@ -444,18 +456,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 9
-    },
-    {
-      "slug": "brugui",
-      "name": "Brugui",
-      "team": "Levante UD",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 8
     },
     {
       "slug": "adri-n",
@@ -1211,7 +1211,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 2,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "erling-haaland",
@@ -1259,7 +1259,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "alexis-mac-allister",
@@ -1307,7 +1307,19 @@
       "goals": 3,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 2
+      "playedMatches": 3
+    },
+    {
+      "slug": "anastasios-douvikas",
+      "name": "Anastasios Douvikas",
+      "team": "Como 1907",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Greece",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
     },
     {
       "slug": "bradley-barcola",
@@ -1355,7 +1367,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "santiago-mouri-o",
@@ -1379,7 +1391,7 @@
       "goals": 2,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 2
+      "playedMatches": 3
     },
     {
       "slug": "raphinha",
@@ -1428,18 +1440,6 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 3
-    },
-    {
-      "slug": "luis-su-rez",
-      "name": "Luis Suárez",
-      "team": "Sporting Clube de Portugal",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Colombia",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 2
     }
   ]
 }
