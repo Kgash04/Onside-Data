@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T18:38:42.524Z",
+  "lastUpdated": "2026-10-23T23:23:01.319Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -398,6 +398,18 @@
       "playedMatches": 9
     },
     {
+      "slug": "adri-n",
+      "name": "Adrián",
+      "team": "Málaga CF",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 6
+    },
+    {
       "slug": "mariano-d-az",
       "name": "Mariano Díaz",
       "team": "Deportivo Alavés",
@@ -456,18 +468,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 9
-    },
-    {
-      "slug": "adri-n",
-      "name": "Adrián",
-      "team": "Málaga CF",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 6
     },
     {
       "slug": "iv-n-romero",
@@ -626,6 +626,30 @@
       "playedMatches": 6
     },
     {
+      "slug": "ermedin-demirovic",
+      "name": "Ermedin Demirovic",
+      "team": "VfB Stuttgart",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Bosnia-Herzegovina",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 7
+    },
+    {
+      "slug": "joseph-scally",
+      "name": "Joseph Scally",
+      "team": "Borussia Mönchengladbach",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "USA",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 7
+    },
+    {
       "slug": "maurice-krattenmacher",
       "name": "Maurice Krattenmacher",
       "team": "SV 07 Elversberg",
@@ -698,28 +722,16 @@
       "playedMatches": 6
     },
     {
-      "slug": "ridle-baku",
-      "name": "Ridle Baku",
-      "team": "RB Leipzig",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 6
-    },
-    {
-      "slug": "tim-skarke",
-      "name": "Tim Skarke",
-      "team": "1. FC Union Berlin",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 6
+      "slug": "gustavo-varela",
+      "name": "Gustavo Varela",
+      "team": "AC Monza",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Portugal",
+      "goals": 7,
+      "assists": 1,
+      "penalties": 1,
+      "playedMatches": 7
     },
     {
       "slug": "antonio-raimondo",
@@ -731,18 +743,6 @@
       "goals": 7,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 7
-    },
-    {
-      "slug": "gustavo-varela",
-      "name": "Gustavo Varela",
-      "team": "AC Monza",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Portugal",
-      "goals": 6,
-      "assists": 1,
-      "penalties": 1,
       "playedMatches": 7
     },
     {
@@ -1106,6 +1106,18 @@
       "playedMatches": 6
     },
     {
+      "slug": "ludovic-ajorque",
+      "name": "Ludovic Ajorque",
+      "team": "Stade Brestois 29",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "France",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 8
+    },
+    {
       "slug": "ernest-nuamah",
       "name": "Ernest Nuamah",
       "team": "Olympique Lyonnais",
@@ -1128,6 +1140,18 @@
       "assists": 2,
       "penalties": 0,
       "playedMatches": 5
+    },
+    {
+      "slug": "sepe-elye-wahi",
+      "name": "Sepe Elye Wahi",
+      "team": "OGC Nice",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Ivory Coast",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 7
     },
     {
       "slug": "franjo-ivanovic",
@@ -1176,30 +1200,6 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 6
-    },
-    {
-      "slug": "gessime-yassine",
-      "name": "Gessime Yassine",
-      "team": "RC Strasbourg Alsace",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "France",
-      "goals": 2,
-      "assists": 2,
-      "penalties": 0,
-      "playedMatches": 7
-    },
-    {
-      "slug": "mbwana-samatta",
-      "name": "Mbwana Samatta",
-      "team": "Le Havre AC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Tanzania",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 7
     },
     {
       "slug": "nicolo-tresoldi",
