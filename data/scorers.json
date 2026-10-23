@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T11:58:27.918Z",
+  "lastUpdated": "2026-10-23T18:38:42.524Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -371,7 +371,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "brugui",
@@ -407,7 +407,7 @@
       "goals": 3,
       "assists": 4,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "lvaro-garc-a",
@@ -467,7 +467,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "iv-n-romero",
@@ -743,7 +743,7 @@
       "goals": 6,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "donyell-malen",
@@ -863,7 +863,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "davide-frattesi",
@@ -1031,7 +1031,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "ferr-n-torres",
