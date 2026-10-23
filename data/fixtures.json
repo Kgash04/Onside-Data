@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T11:15:18.988Z",
+  "lastUpdated": "2026-10-23T18:10:53.973Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -1358,7 +1358,7 @@
         {
           "homeTeam": "Paris Saint-Germain FC",
           "awayTeam": "Olympique Lyonnais",
-          "utcDate": "2026-10-25T19:45:00Z",
+          "utcDate": "2026-10-26T19:30:00Z",
           "matchday": 8,
           "status": "TIMED"
         },
