@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T17:15:46.553Z",
+  "lastUpdated": "2026-10-24T22:18:12.050Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -179,9 +179,9 @@
           "team": "Chelsea FC",
           "played": 8,
           "won": 4,
-          "draw": 2,
-          "lost": 2,
-          "points": 14
+          "draw": 1,
+          "lost": 3,
+          "points": 13
         },
         {
           "position": 5,
@@ -248,6 +248,15 @@
         },
         {
           "position": 12,
+          "team": "Tottenham Hotspur FC",
+          "played": 8,
+          "won": 2,
+          "draw": 3,
+          "lost": 3,
+          "points": 9
+        },
+        {
+          "position": 13,
           "team": "Fulham FC",
           "played": 8,
           "won": 2,
@@ -256,7 +265,7 @@
           "points": 8
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "Newcastle United FC",
           "played": 7,
           "won": 2,
@@ -265,21 +274,12 @@
           "points": 8
         },
         {
-          "position": 14,
+          "position": 15,
           "team": "Manchester United FC",
           "played": 7,
           "won": 1,
           "draw": 4,
           "lost": 2,
-          "points": 7
-        },
-        {
-          "position": 15,
-          "team": "Tottenham Hotspur FC",
-          "played": 8,
-          "won": 1,
-          "draw": 4,
-          "lost": 3,
           "points": 7
         },
         {
@@ -333,34 +333,6 @@
       "code": "PD",
       "name": "La Liga",
       "fixtures": [
-        {
-          "homeTeam": "Rayo Vallecano de Madrid",
-          "awayTeam": "Elche CF",
-          "utcDate": "2026-10-24T12:00:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Real Racing Club de Santander",
-          "awayTeam": "RCD Espanyol de Barcelona",
-          "utcDate": "2026-10-24T14:15:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Valencia CF",
-          "awayTeam": "Villarreal CF",
-          "utcDate": "2026-10-24T16:30:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Club Atlético de Madrid",
-          "awayTeam": "RC Deportivo La Coruña",
-          "utcDate": "2026-10-24T19:00:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Athletic Club",
           "awayTeam": "Getafe CF",
@@ -472,6 +444,34 @@
           "utcDate": "2026-11-06T20:00:00Z",
           "matchday": 12,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Málaga CF",
+          "awayTeam": "Real Racing Club de Santander",
+          "utcDate": "2026-11-07T13:00:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RCD Espanyol de Barcelona",
+          "awayTeam": "RC Deportivo La Coruña",
+          "utcDate": "2026-11-07T15:15:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "CA Osasuna",
+          "awayTeam": "Athletic Club",
+          "utcDate": "2026-11-07T17:30:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Valencia CF",
+          "awayTeam": "Real Madrid CF",
+          "utcDate": "2026-11-07T20:00:00Z",
+          "matchday": 12,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -487,11 +487,11 @@
         {
           "position": 2,
           "team": "Club Atlético de Madrid",
-          "played": 9,
-          "won": 7,
+          "played": 10,
+          "won": 8,
           "draw": 1,
           "lost": 1,
-          "points": 22
+          "points": 25
         },
         {
           "position": 3,
@@ -540,6 +540,15 @@
         },
         {
           "position": 8,
+          "team": "Villarreal CF",
+          "played": 10,
+          "won": 3,
+          "draw": 3,
+          "lost": 4,
+          "points": 12
+        },
+        {
+          "position": 9,
           "team": "RC Celta de Vigo",
           "played": 9,
           "won": 2,
@@ -548,16 +557,16 @@
           "points": 11
         },
         {
-          "position": 9,
+          "position": 10,
           "team": "RC Deportivo La Coruña",
-          "played": 9,
+          "played": 10,
           "won": 2,
           "draw": 5,
-          "lost": 2,
+          "lost": 3,
           "points": 11
         },
         {
-          "position": 10,
+          "position": 11,
           "team": "CA Osasuna",
           "played": 9,
           "won": 3,
@@ -566,22 +575,13 @@
           "points": 11
         },
         {
-          "position": 11,
+          "position": 12,
           "team": "Real Racing Club de Santander",
           "played": 10,
           "won": 3,
           "draw": 2,
           "lost": 5,
           "points": 11
-        },
-        {
-          "position": 12,
-          "team": "Villarreal CF",
-          "played": 10,
-          "won": 2,
-          "draw": 4,
-          "lost": 4,
-          "points": 10
         },
         {
           "position": 13,
@@ -642,9 +642,9 @@
           "team": "Valencia CF",
           "played": 10,
           "won": 1,
-          "draw": 4,
-          "lost": 5,
-          "points": 7
+          "draw": 3,
+          "lost": 6,
+          "points": 6
         },
         {
           "position": 20,
@@ -661,6 +661,48 @@
       "code": "BL1",
       "name": "Bundesliga",
       "fixtures": [
+        {
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "SV Werder Bremen",
+          "utcDate": "2026-10-24T13:30:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "1. FC Köln",
+          "awayTeam": "FC Schalke 04",
+          "utcDate": "2026-10-24T13:30:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RB Leipzig",
+          "awayTeam": "SV 07 Elversberg",
+          "utcDate": "2026-10-24T13:30:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "SC Paderborn 07",
+          "awayTeam": "Hamburger SV",
+          "utcDate": "2026-10-24T13:30:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "1. FC Union Berlin",
+          "utcDate": "2026-10-24T13:30:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Eintracht Frankfurt",
+          "utcDate": "2026-10-24T16:30:00Z",
+          "matchday": 7,
+          "status": "TIMED"
+        },
         {
           "homeTeam": "TSG 1899 Hoffenheim",
           "awayTeam": "Bayer 04 Leverkusen",
@@ -758,48 +800,6 @@
           "utcDate": "2026-11-07T14:30:00Z",
           "matchday": 9,
           "status": "TIMED"
-        },
-        {
-          "homeTeam": "1. FSV Mainz 05",
-          "awayTeam": "FC Bayern München",
-          "utcDate": "2026-11-07T14:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "SC Paderborn 07",
-          "awayTeam": "Eintracht Frankfurt",
-          "utcDate": "2026-11-07T14:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "VfB Stuttgart",
-          "awayTeam": "SV Werder Bremen",
-          "utcDate": "2026-11-07T17:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "1. FC Köln",
-          "awayTeam": "Bayer 04 Leverkusen",
-          "utcDate": "2026-11-08T14:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "SC Freiburg",
-          "awayTeam": "1. FC Union Berlin",
-          "utcDate": "2026-11-08T16:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "TSG 1899 Hoffenheim",
-          "awayTeam": "FC Schalke 04",
-          "utcDate": "2026-11-08T18:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
         }
       ],
       "standings": [
@@ -807,10 +807,10 @@
           "position": 1,
           "team": "Borussia Dortmund",
           "played": 7,
-          "won": 4,
-          "draw": 3,
+          "won": 5,
+          "draw": 2,
           "lost": 0,
-          "points": 15
+          "points": 17
         },
         {
           "position": 2,
@@ -886,15 +886,6 @@
         },
         {
           "position": 10,
-          "team": "Eintracht Frankfurt",
-          "played": 7,
-          "won": 2,
-          "draw": 3,
-          "lost": 2,
-          "points": 9
-        },
-        {
-          "position": 11,
           "team": "Hamburger SV",
           "played": 7,
           "won": 3,
@@ -903,7 +894,7 @@
           "points": 9
         },
         {
-          "position": 12,
+          "position": 11,
           "team": "1. FC Köln",
           "played": 7,
           "won": 2,
@@ -912,8 +903,17 @@
           "points": 8
         },
         {
-          "position": 13,
+          "position": 12,
           "team": "SC Paderborn 07",
+          "played": 7,
+          "won": 2,
+          "draw": 2,
+          "lost": 3,
+          "points": 8
+        },
+        {
+          "position": 13,
+          "team": "Eintracht Frankfurt",
           "played": 7,
           "won": 2,
           "draw": 2,
@@ -971,13 +971,6 @@
       "code": "SA",
       "name": "Serie A",
       "fixtures": [
-        {
-          "homeTeam": "SS Lazio",
-          "awayTeam": "Parma Calcio 1913",
-          "utcDate": "2026-10-24T18:45:00Z",
-          "matchday": 8,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "FC Internazionale Milano",
           "awayTeam": "ACF Fiorentina",
@@ -1110,21 +1103,28 @@
           "utcDate": "2026-11-01T11:30:00Z",
           "matchday": 10,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Frosinone Calcio",
+          "awayTeam": "Torino FC",
+          "utcDate": "2026-11-01T14:00:00Z",
+          "matchday": 10,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
-          "team": "FC Internazionale Milano",
-          "played": 7,
-          "won": 6,
+          "team": "SS Lazio",
+          "played": 8,
+          "won": 7,
           "draw": 1,
           "lost": 0,
-          "points": 19
+          "points": 22
         },
         {
           "position": 2,
-          "team": "SS Lazio",
+          "team": "FC Internazionale Milano",
           "played": 7,
           "won": 6,
           "draw": 1,
@@ -1136,9 +1136,9 @@
           "team": "AS Roma",
           "played": 8,
           "won": 5,
-          "draw": 2,
-          "lost": 1,
-          "points": 17
+          "draw": 3,
+          "lost": 0,
+          "points": 18
         },
         {
           "position": 4,
@@ -1160,15 +1160,6 @@
         },
         {
           "position": 6,
-          "team": "SSC Napoli",
-          "played": 8,
-          "won": 4,
-          "draw": 1,
-          "lost": 3,
-          "points": 13
-        },
-        {
-          "position": 7,
           "team": "Frosinone Calcio",
           "played": 7,
           "won": 4,
@@ -1177,7 +1168,7 @@
           "points": 13
         },
         {
-          "position": 8,
+          "position": 7,
           "team": "Torino FC",
           "played": 8,
           "won": 4,
@@ -1186,13 +1177,22 @@
           "points": 13
         },
         {
-          "position": 9,
+          "position": 8,
           "team": "Cagliari Calcio",
           "played": 8,
           "won": 4,
           "draw": 1,
           "lost": 3,
           "points": 13
+        },
+        {
+          "position": 9,
+          "team": "SSC Napoli",
+          "played": 8,
+          "won": 3,
+          "draw": 2,
+          "lost": 3,
+          "points": 11
         },
         {
           "position": 10,
@@ -1278,10 +1278,10 @@
         {
           "position": 19,
           "team": "Parma Calcio 1913",
-          "played": 7,
+          "played": 8,
           "won": 1,
           "draw": 1,
-          "lost": 5,
+          "lost": 6,
           "points": 4
         },
         {
@@ -1461,7 +1461,7 @@
         },
         {
           "position": 3,
-          "team": "Paris FC",
+          "team": "Lille OSC",
           "played": 7,
           "won": 4,
           "draw": 2,
@@ -1470,11 +1470,11 @@
         },
         {
           "position": 4,
-          "team": "Lille OSC",
-          "played": 7,
+          "team": "Paris FC",
+          "played": 8,
           "won": 4,
           "draw": 2,
-          "lost": 1,
+          "lost": 2,
           "points": 14
         },
         {
@@ -1488,6 +1488,15 @@
         },
         {
           "position": 6,
+          "team": "Racing Club de Lens",
+          "played": 8,
+          "won": 4,
+          "draw": 1,
+          "lost": 3,
+          "points": 13
+        },
+        {
+          "position": 7,
           "team": "Stade Rennais FC 1901",
           "played": 7,
           "won": 4,
@@ -1496,7 +1505,7 @@
           "points": 13
         },
         {
-          "position": 7,
+          "position": 8,
           "team": "FC Lorient",
           "played": 7,
           "won": 3,
@@ -1505,22 +1514,13 @@
           "points": 11
         },
         {
-          "position": 8,
+          "position": 9,
           "team": "OGC Nice",
           "played": 8,
           "won": 3,
           "draw": 2,
           "lost": 3,
           "points": 11
-        },
-        {
-          "position": 9,
-          "team": "Racing Club de Lens",
-          "played": 7,
-          "won": 3,
-          "draw": 1,
-          "lost": 3,
-          "points": 10
         },
         {
           "position": 10,
