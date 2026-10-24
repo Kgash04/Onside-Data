@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T17:32:50.373Z",
+  "lastUpdated": "2026-10-24T22:41:15.452Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -482,6 +482,18 @@
       "playedMatches": 9
     },
     {
+      "slug": "niclas-f-llkrug",
+      "name": "Niclas Füllkrug",
+      "team": "SV Werder Bremen",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 8,
+      "assists": 0,
+      "penalties": 3,
+      "playedMatches": 7
+    },
+    {
       "slug": "patrik-schick",
       "name": "Patrik Schick",
       "team": "Bayer 04 Leverkusen",
@@ -491,18 +503,6 @@
       "goals": 6,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 6
-    },
-    {
-      "slug": "niclas-f-llkrug",
-      "name": "Niclas Füllkrug",
-      "team": "SV Werder Bremen",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 6,
-      "assists": 0,
-      "penalties": 1,
       "playedMatches": 6
     },
     {
@@ -527,7 +527,7 @@
       "goals": 5,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "phillip-tietz",
@@ -539,7 +539,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "luis-d-az",
@@ -575,7 +575,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "christopher-nkunku",
@@ -609,9 +609,9 @@
       "leagueCode": "BL1",
       "nationality": "Norway",
       "goals": 3,
-      "assists": 3,
+      "assists": 5,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "igor-matanovic",
@@ -659,7 +659,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "maximilian-eggestein",
@@ -683,7 +683,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "robin-fellhauer",
@@ -695,31 +695,31 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
-      "slug": "josha-vagnoman",
-      "name": "Josha Vagnoman",
-      "team": "VfB Stuttgart",
+      "slug": "tidiam-gomis",
+      "name": "Tidiam Gomis",
+      "team": "RB Leipzig",
       "league": "Bundesliga",
       "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 2,
-      "assists": 1,
+      "nationality": "France",
+      "goals": 3,
+      "assists": 2,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
-      "slug": "aleksandar-pavlovi",
-      "name": "Aleksandar Pavlović",
-      "team": "FC Bayern München",
+      "slug": "romulo-cruz",
+      "name": "Romulo Cruz",
+      "team": "RB Leipzig",
       "league": "Bundesliga",
       "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 2,
-      "assists": 1,
+      "nationality": "Brazil",
+      "goals": 3,
+      "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 5
     },
     {
       "slug": "gustavo-varela",
@@ -753,9 +753,21 @@
       "leagueCode": "SA",
       "nationality": "Netherlands",
       "goals": 6,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 7
+    },
+    {
+      "slug": "anastasios-douvikas",
+      "name": "Anastasios Douvikas",
+      "team": "Como 1907",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Greece",
+      "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 8
     },
     {
       "slug": "nikola-krstovi",
@@ -815,19 +827,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 7
-    },
-    {
-      "slug": "anastasios-douvikas",
-      "name": "Anastasios Douvikas",
-      "team": "Como 1907",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Greece",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "hakan-alhano-lu",
@@ -851,7 +851,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "che-adams",
@@ -875,7 +875,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "jurgen-ekkelenkamp",
@@ -888,6 +888,18 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 7
+    },
+    {
+      "slug": "matias-soule",
+      "name": "Matias Soule",
+      "team": "AS Roma",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Argentina",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 8
     },
     {
       "slug": "milutin-osmaji",
@@ -923,7 +935,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "franco-mastantuono",
@@ -945,18 +957,6 @@
       "leagueCode": "SA",
       "nationality": "Belgium",
       "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 7
-    },
-    {
-      "slug": "hassane-kamara",
-      "name": "Hassane Kamara",
-      "team": "Udinese Calcio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Ivory Coast",
-      "goals": 2,
       "assists": 1,
       "penalties": 0,
       "playedMatches": 7
