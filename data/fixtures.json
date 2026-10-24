@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T10:34:26.357Z",
+  "lastUpdated": "2026-10-24T17:15:46.553Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -150,20 +150,20 @@
         {
           "position": 1,
           "team": "Manchester City FC",
-          "played": 7,
+          "played": 8,
           "won": 7,
           "draw": 0,
-          "lost": 0,
+          "lost": 1,
           "points": 21
         },
         {
           "position": 2,
           "team": "Arsenal FC",
-          "played": 7,
-          "won": 6,
+          "played": 8,
+          "won": 7,
           "draw": 0,
           "lost": 1,
-          "points": 18
+          "points": 21
         },
         {
           "position": 3,
@@ -177,11 +177,11 @@
         {
           "position": 4,
           "team": "Chelsea FC",
-          "played": 7,
+          "played": 8,
           "won": 4,
-          "draw": 1,
+          "draw": 2,
           "lost": 2,
-          "points": 13
+          "points": 14
         },
         {
           "position": 5,
@@ -194,6 +194,15 @@
         },
         {
           "position": 6,
+          "team": "Aston Villa FC",
+          "played": 8,
+          "won": 3,
+          "draw": 2,
+          "lost": 3,
+          "points": 11
+        },
+        {
+          "position": 7,
           "team": "Brentford FC",
           "played": 7,
           "won": 2,
@@ -202,7 +211,7 @@
           "points": 10
         },
         {
-          "position": 7,
+          "position": 8,
           "team": "Leeds United FC",
           "played": 7,
           "won": 2,
@@ -211,16 +220,16 @@
           "points": 10
         },
         {
-          "position": 8,
+          "position": 9,
           "team": "Everton FC",
-          "played": 7,
+          "played": 8,
           "won": 2,
           "draw": 4,
-          "lost": 1,
+          "lost": 2,
           "points": 10
         },
         {
-          "position": 9,
+          "position": 10,
           "team": "Ipswich Town FC",
           "played": 8,
           "won": 3,
@@ -229,7 +238,7 @@
           "points": 10
         },
         {
-          "position": 10,
+          "position": 11,
           "team": "Hull City AFC",
           "played": 7,
           "won": 2,
@@ -238,7 +247,16 @@
           "points": 9
         },
         {
-          "position": 11,
+          "position": 12,
+          "team": "Fulham FC",
+          "played": 8,
+          "won": 2,
+          "draw": 2,
+          "lost": 4,
+          "points": 8
+        },
+        {
+          "position": 13,
           "team": "Newcastle United FC",
           "played": 7,
           "won": 2,
@@ -247,16 +265,7 @@
           "points": 8
         },
         {
-          "position": 12,
-          "team": "Aston Villa FC",
-          "played": 7,
-          "won": 2,
-          "draw": 2,
-          "lost": 3,
-          "points": 8
-        },
-        {
-          "position": 13,
+          "position": 14,
           "team": "Manchester United FC",
           "played": 7,
           "won": 1,
@@ -265,7 +274,16 @@
           "points": 7
         },
         {
-          "position": 14,
+          "position": 15,
+          "team": "Tottenham Hotspur FC",
+          "played": 8,
+          "won": 1,
+          "draw": 4,
+          "lost": 3,
+          "points": 7
+        },
+        {
+          "position": 16,
           "team": "Crystal Palace FC",
           "played": 7,
           "won": 2,
@@ -274,7 +292,7 @@
           "points": 7
         },
         {
-          "position": 15,
+          "position": 17,
           "team": "AFC Bournemouth",
           "played": 7,
           "won": 1,
@@ -283,7 +301,7 @@
           "points": 6
         },
         {
-          "position": 16,
+          "position": 18,
           "team": "Nottingham Forest FC",
           "played": 8,
           "won": 1,
@@ -292,31 +310,13 @@
           "points": 6
         },
         {
-          "position": 16,
-          "team": "Tottenham Hotspur FC",
-          "played": 7,
-          "won": 1,
-          "draw": 3,
-          "lost": 3,
-          "points": 6
-        },
-        {
-          "position": 18,
+          "position": 19,
           "team": "Coventry City FC",
-          "played": 7,
+          "played": 8,
           "won": 2,
           "draw": 0,
-          "lost": 5,
+          "lost": 6,
           "points": 6
-        },
-        {
-          "position": 19,
-          "team": "Fulham FC",
-          "played": 7,
-          "won": 1,
-          "draw": 2,
-          "lost": 4,
-          "points": 5
         },
         {
           "position": 20,
@@ -567,6 +567,24 @@
         },
         {
           "position": 11,
+          "team": "Real Racing Club de Santander",
+          "played": 10,
+          "won": 3,
+          "draw": 2,
+          "lost": 5,
+          "points": 11
+        },
+        {
+          "position": 12,
+          "team": "Villarreal CF",
+          "played": 10,
+          "won": 2,
+          "draw": 4,
+          "lost": 4,
+          "points": 10
+        },
+        {
+          "position": 13,
           "team": "Levante UD",
           "played": 9,
           "won": 2,
@@ -575,16 +593,16 @@
           "points": 10
         },
         {
-          "position": 12,
-          "team": "Villarreal CF",
-          "played": 9,
+          "position": 14,
+          "team": "Elche CF",
+          "played": 10,
           "won": 2,
-          "draw": 3,
+          "draw": 4,
           "lost": 4,
-          "points": 9
+          "points": 10
         },
         {
-          "position": 13,
+          "position": 15,
           "team": "Athletic Club",
           "played": 8,
           "won": 2,
@@ -593,16 +611,7 @@
           "points": 9
         },
         {
-          "position": 14,
-          "team": "Rayo Vallecano de Madrid",
-          "played": 8,
-          "won": 2,
-          "draw": 3,
-          "lost": 3,
-          "points": 9
-        },
-        {
-          "position": 15,
+          "position": 16,
           "team": "Getafe CF",
           "played": 9,
           "won": 2,
@@ -611,40 +620,31 @@
           "points": 9
         },
         {
-          "position": 16,
-          "team": "RCD Espanyol de Barcelona",
-          "played": 9,
-          "won": 2,
-          "draw": 2,
-          "lost": 5,
-          "points": 8
-        },
-        {
           "position": 17,
-          "team": "Real Racing Club de Santander",
+          "team": "Rayo Vallecano de Madrid",
           "played": 9,
           "won": 2,
-          "draw": 2,
-          "lost": 5,
-          "points": 8
+          "draw": 3,
+          "lost": 4,
+          "points": 9
         },
         {
           "position": 18,
-          "team": "Elche CF",
-          "played": 9,
-          "won": 1,
-          "draw": 4,
-          "lost": 4,
-          "points": 7
+          "team": "RCD Espanyol de Barcelona",
+          "played": 10,
+          "won": 2,
+          "draw": 2,
+          "lost": 6,
+          "points": 8
         },
         {
           "position": 19,
           "team": "Valencia CF",
-          "played": 9,
+          "played": 10,
           "won": 1,
-          "draw": 3,
+          "draw": 4,
           "lost": 5,
-          "points": 6
+          "points": 7
         },
         {
           "position": 20,
@@ -661,48 +661,6 @@
       "code": "BL1",
       "name": "Bundesliga",
       "fixtures": [
-        {
-          "homeTeam": "1. FSV Mainz 05",
-          "awayTeam": "SV Werder Bremen",
-          "utcDate": "2026-10-24T13:30:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "1. FC Köln",
-          "awayTeam": "FC Schalke 04",
-          "utcDate": "2026-10-24T13:30:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "RB Leipzig",
-          "awayTeam": "SV 07 Elversberg",
-          "utcDate": "2026-10-24T13:30:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "SC Paderborn 07",
-          "awayTeam": "Hamburger SV",
-          "utcDate": "2026-10-24T13:30:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "FC Augsburg",
-          "awayTeam": "1. FC Union Berlin",
-          "utcDate": "2026-10-24T13:30:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Borussia Dortmund",
-          "awayTeam": "Eintracht Frankfurt",
-          "utcDate": "2026-10-24T16:30:00Z",
-          "matchday": 7,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "TSG 1899 Hoffenheim",
           "awayTeam": "Bayer 04 Leverkusen",
@@ -800,21 +758,63 @@
           "utcDate": "2026-11-07T14:30:00Z",
           "matchday": 9,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "FC Bayern München",
+          "utcDate": "2026-11-07T14:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "SC Paderborn 07",
+          "awayTeam": "Eintracht Frankfurt",
+          "utcDate": "2026-11-07T14:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "SV Werder Bremen",
+          "utcDate": "2026-11-07T17:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "1. FC Köln",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "utcDate": "2026-11-08T14:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "1. FC Union Berlin",
+          "utcDate": "2026-11-08T16:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "FC Schalke 04",
+          "utcDate": "2026-11-08T18:30:00Z",
+          "matchday": 9,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
-          "team": "FC Bayern München",
-          "played": 6,
+          "team": "Borussia Dortmund",
+          "played": 7,
           "won": 4,
-          "draw": 2,
+          "draw": 3,
           "lost": 0,
-          "points": 14
+          "points": 15
         },
         {
           "position": 2,
-          "team": "Borussia Dortmund",
+          "team": "FC Bayern München",
           "played": 6,
           "won": 4,
           "draw": 2,
@@ -841,78 +841,87 @@
         },
         {
           "position": 5,
-          "team": "1. FSV Mainz 05",
-          "played": 6,
-          "won": 3,
-          "draw": 1,
-          "lost": 2,
-          "points": 10
+          "team": "RB Leipzig",
+          "played": 7,
+          "won": 4,
+          "draw": 0,
+          "lost": 3,
+          "points": 12
         },
         {
           "position": 6,
-          "team": "SV 07 Elversberg",
-          "played": 6,
+          "team": "SV Werder Bremen",
+          "played": 7,
           "won": 3,
-          "draw": 1,
-          "lost": 2,
-          "points": 10
+          "draw": 3,
+          "lost": 1,
+          "points": 12
         },
         {
           "position": 7,
-          "team": "RB Leipzig",
-          "played": 6,
+          "team": "1. FSV Mainz 05",
+          "played": 7,
           "won": 3,
-          "draw": 0,
+          "draw": 1,
           "lost": 3,
-          "points": 9
+          "points": 10
         },
         {
           "position": 8,
-          "team": "SV Werder Bremen",
-          "played": 6,
-          "won": 2,
-          "draw": 3,
-          "lost": 1,
-          "points": 9
+          "team": "SV 07 Elversberg",
+          "played": 7,
+          "won": 3,
+          "draw": 1,
+          "lost": 3,
+          "points": 10
         },
         {
           "position": 9,
-          "team": "Hamburger SV",
-          "played": 6,
-          "won": 3,
-          "draw": 0,
-          "lost": 3,
+          "team": "FC Augsburg",
+          "played": 7,
+          "won": 2,
+          "draw": 3,
+          "lost": 2,
           "points": 9
         },
         {
           "position": 10,
-          "team": "FC Augsburg",
-          "played": 6,
+          "team": "Eintracht Frankfurt",
+          "played": 7,
           "won": 2,
-          "draw": 2,
+          "draw": 3,
           "lost": 2,
-          "points": 8
+          "points": 9
         },
         {
           "position": 11,
-          "team": "Eintracht Frankfurt",
-          "played": 6,
-          "won": 2,
-          "draw": 2,
-          "lost": 2,
-          "points": 8
+          "team": "Hamburger SV",
+          "played": 7,
+          "won": 3,
+          "draw": 0,
+          "lost": 4,
+          "points": 9
         },
         {
           "position": 12,
           "team": "1. FC Köln",
-          "played": 6,
+          "played": 7,
           "won": 2,
-          "draw": 1,
+          "draw": 2,
           "lost": 3,
-          "points": 7
+          "points": 8
         },
         {
           "position": 13,
+          "team": "SC Paderborn 07",
+          "played": 7,
+          "won": 2,
+          "draw": 2,
+          "lost": 3,
+          "points": 8
+        },
+        {
+          "position": 14,
           "team": "TSG 1899 Hoffenheim",
           "played": 6,
           "won": 2,
@@ -921,7 +930,7 @@
           "points": 6
         },
         {
-          "position": 14,
+          "position": 15,
           "team": "VfB Stuttgart",
           "played": 7,
           "won": 2,
@@ -930,31 +939,22 @@
           "points": 6
         },
         {
-          "position": 15,
-          "team": "FC Schalke 04",
-          "played": 6,
-          "won": 1,
-          "draw": 2,
-          "lost": 3,
-          "points": 5
-        },
-        {
           "position": 16,
-          "team": "SC Paderborn 07",
-          "played": 6,
+          "team": "FC Schalke 04",
+          "played": 7,
           "won": 1,
-          "draw": 2,
+          "draw": 3,
           "lost": 3,
-          "points": 5
+          "points": 6
         },
         {
           "position": 17,
           "team": "1. FC Union Berlin",
-          "played": 6,
+          "played": 7,
           "won": 1,
-          "draw": 2,
+          "draw": 3,
           "lost": 3,
-          "points": 5
+          "points": 6
         },
         {
           "position": 18,
@@ -971,27 +971,6 @@
       "code": "SA",
       "name": "Serie A",
       "fixtures": [
-        {
-          "homeTeam": "Cagliari Calcio",
-          "awayTeam": "Bologna FC 1909",
-          "utcDate": "2026-10-24T13:00:00Z",
-          "matchday": 8,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Como 1907",
-          "awayTeam": "US Sassuolo Calcio",
-          "utcDate": "2026-10-24T13:00:00Z",
-          "matchday": 8,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "SSC Napoli",
-          "awayTeam": "AS Roma",
-          "utcDate": "2026-10-24T16:00:00Z",
-          "matchday": 8,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "SS Lazio",
           "awayTeam": "Parma Calcio 1913",
@@ -1110,6 +1089,27 @@
           "utcDate": "2026-10-31T14:00:00Z",
           "matchday": 10,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Udinese Calcio",
+          "awayTeam": "AS Roma",
+          "utcDate": "2026-10-31T17:00:00Z",
+          "matchday": 10,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "AC Milan",
+          "awayTeam": "FC Internazionale Milano",
+          "utcDate": "2026-10-31T19:45:00Z",
+          "matchday": 10,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Como 1907",
+          "awayTeam": "Venezia FC",
+          "utcDate": "2026-11-01T11:30:00Z",
+          "matchday": 10,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1134,14 +1134,23 @@
         {
           "position": 3,
           "team": "AS Roma",
-          "played": 7,
+          "played": 8,
           "won": 5,
           "draw": 2,
-          "lost": 0,
+          "lost": 1,
           "points": 17
         },
         {
           "position": 4,
+          "team": "Como 1907",
+          "played": 8,
+          "won": 5,
+          "draw": 2,
+          "lost": 1,
+          "points": 17
+        },
+        {
+          "position": 5,
           "team": "AC Milan",
           "played": 7,
           "won": 4,
@@ -1150,16 +1159,16 @@
           "points": 15
         },
         {
-          "position": 5,
-          "team": "Como 1907",
-          "played": 7,
+          "position": 6,
+          "team": "SSC Napoli",
+          "played": 8,
           "won": 4,
-          "draw": 2,
-          "lost": 1,
-          "points": 14
+          "draw": 1,
+          "lost": 3,
+          "points": 13
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Frosinone Calcio",
           "played": 7,
           "won": 4,
@@ -1168,7 +1177,7 @@
           "points": 13
         },
         {
-          "position": 7,
+          "position": 8,
           "team": "Torino FC",
           "played": 8,
           "won": 4,
@@ -1177,31 +1186,22 @@
           "points": 13
         },
         {
-          "position": 8,
+          "position": 9,
           "team": "Cagliari Calcio",
-          "played": 7,
+          "played": 8,
           "won": 4,
           "draw": 1,
-          "lost": 2,
+          "lost": 3,
           "points": 13
         },
         {
-          "position": 9,
+          "position": 10,
           "team": "Juventus FC",
           "played": 7,
           "won": 3,
           "draw": 2,
           "lost": 2,
           "points": 11
-        },
-        {
-          "position": 10,
-          "team": "SSC Napoli",
-          "played": 7,
-          "won": 3,
-          "draw": 1,
-          "lost": 3,
-          "points": 10
         },
         {
           "position": 11,
@@ -1223,30 +1223,30 @@
         },
         {
           "position": 13,
-          "team": "US Sassuolo Calcio",
-          "played": 7,
+          "team": "Bologna FC 1909",
+          "played": 8,
           "won": 2,
           "draw": 2,
-          "lost": 3,
+          "lost": 4,
           "points": 8
         },
         {
           "position": 14,
+          "team": "US Sassuolo Calcio",
+          "played": 8,
+          "won": 2,
+          "draw": 2,
+          "lost": 4,
+          "points": 8
+        },
+        {
+          "position": 15,
           "team": "AC Monza",
           "played": 8,
           "won": 2,
           "draw": 1,
           "lost": 5,
           "points": 7
-        },
-        {
-          "position": 15,
-          "team": "Bologna FC 1909",
-          "played": 7,
-          "won": 1,
-          "draw": 2,
-          "lost": 4,
-          "points": 5
         },
         {
           "position": 16,
