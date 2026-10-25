@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T17:47:17.230Z",
+  "lastUpdated": "2026-10-25T22:45:28.719Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -248,10 +248,10 @@
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Brazil",
-      "goals": 12,
+      "goals": 13,
       "assists": 2,
       "penalties": 3,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "kylian-mbapp",
@@ -260,10 +260,10 @@
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "France",
-      "goals": 9,
+      "goals": 11,
       "assists": 2,
       "penalties": 2,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "yassir-zabiri",
@@ -287,7 +287,7 @@
       "goals": 8,
       "assists": 6,
       "penalties": 1,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "sergio-camello",
@@ -395,7 +395,7 @@
       "goals": 4,
       "assists": 3,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "adri-n",
@@ -455,7 +455,7 @@
       "goals": 3,
       "assists": 3,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "georges-mikautadze",
@@ -494,6 +494,18 @@
       "playedMatches": 7
     },
     {
+      "slug": "michael-olise",
+      "name": "Michael Olise",
+      "team": "FC Bayern München",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "France",
+      "goals": 6,
+      "assists": 3,
+      "penalties": 0,
+      "playedMatches": 7
+    },
+    {
       "slug": "patrik-schick",
       "name": "Patrik Schick",
       "team": "Bayer 04 Leverkusen",
@@ -502,18 +514,6 @@
       "nationality": "Czech Republic",
       "goals": 6,
       "assists": 2,
-      "penalties": 0,
-      "playedMatches": 7
-    },
-    {
-      "slug": "michael-olise",
-      "name": "Michael Olise",
-      "team": "FC Bayern München",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "France",
-      "goals": 5,
-      "assists": 3,
       "penalties": 0,
       "playedMatches": 7
     },
@@ -887,7 +887,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "matias-soule",
@@ -1166,6 +1166,18 @@
       "playedMatches": 7
     },
     {
+      "slug": "josh-maja",
+      "name": "Josh Maja",
+      "team": "Le Havre AC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Nigeria",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 8
+    },
+    {
       "slug": "boulaye-dia",
       "name": "Boulaye Dia",
       "team": "Stade Rennais FC 1901",
@@ -1187,18 +1199,6 @@
       "goals": 3,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 8
-    },
-    {
-      "slug": "franjo-ivanovic",
-      "name": "Franjo Ivanovic",
-      "team": "Racing Club de Lens",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Austria",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
       "playedMatches": 8
     },
     {
