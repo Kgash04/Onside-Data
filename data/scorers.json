@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T13:28:22.267Z",
+  "lastUpdated": "2026-10-26T20:04:52.530Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -311,7 +311,7 @@
       "goals": 7,
       "assists": 0,
       "penalties": 4,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "roberto-fern-ndez",
@@ -1067,7 +1067,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "paris-brunner",
@@ -1139,7 +1139,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "adil-bourabaa",
