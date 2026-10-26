@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T19:47:22.170Z",
+  "lastUpdated": "2026-10-26T23:38:33.366Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,9 +334,30 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Sevilla FC",
-          "awayTeam": "CA Osasuna",
-          "utcDate": "2026-10-26T20:00:00Z",
+          "homeTeam": "Athletic Club",
+          "awayTeam": "Getafe CF",
+          "utcDate": "2026-10-25T13:00:00Z",
+          "matchday": 10,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Celta de Vigo",
+          "awayTeam": "Real Betis Balompié",
+          "utcDate": "2026-10-25T15:15:00Z",
+          "matchday": 10,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Sociedad de Fútbol",
+          "awayTeam": "Levante UD",
+          "utcDate": "2026-10-25T17:30:00Z",
+          "matchday": 10,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Barcelona",
+          "awayTeam": "Real Madrid CF",
+          "utcDate": "2026-10-25T20:00:00Z",
           "matchday": 10,
           "status": "TIMED"
         },
@@ -451,27 +472,6 @@
           "utcDate": "2026-11-08T13:00:00Z",
           "matchday": 12,
           "status": "TIMED"
-        },
-        {
-          "homeTeam": "Real Sociedad de Fútbol",
-          "awayTeam": "Rayo Vallecano de Madrid",
-          "utcDate": "2026-11-08T15:15:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "RC Celta de Vigo",
-          "awayTeam": "Levante UD",
-          "utcDate": "2026-11-08T17:30:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Villarreal CF",
-          "awayTeam": "Getafe CF",
-          "utcDate": "2026-11-08T17:30:00Z",
-          "matchday": 12,
-          "status": "TIMED"
         }
       ],
       "standings": [
@@ -523,11 +523,11 @@
         {
           "position": 6,
           "team": "Sevilla FC",
-          "played": 9,
-          "won": 4,
+          "played": 10,
+          "won": 5,
           "draw": 2,
           "lost": 3,
-          "points": 14
+          "points": 17
         },
         {
           "position": 7,
@@ -577,10 +577,10 @@
         {
           "position": 12,
           "team": "CA Osasuna",
-          "played": 9,
+          "played": 10,
           "won": 3,
           "draw": 2,
-          "lost": 4,
+          "lost": 5,
           "points": 11
         },
         {
@@ -1443,6 +1443,15 @@
       "standings": [
         {
           "position": 1,
+          "team": "Paris Saint-Germain FC",
+          "played": 8,
+          "won": 5,
+          "draw": 2,
+          "lost": 1,
+          "points": 17
+        },
+        {
+          "position": 2,
           "team": "Stade Rennais FC 1901",
           "played": 8,
           "won": 5,
@@ -1451,25 +1460,7 @@
           "points": 16
         },
         {
-          "position": 2,
-          "team": "Olympique Lyonnais",
-          "played": 8,
-          "won": 4,
-          "draw": 3,
-          "lost": 1,
-          "points": 15
-        },
-        {
           "position": 3,
-          "team": "Paris Saint-Germain FC",
-          "played": 8,
-          "won": 4,
-          "draw": 3,
-          "lost": 1,
-          "points": 15
-        },
-        {
-          "position": 4,
           "team": "Lille OSC",
           "played": 8,
           "won": 4,
@@ -1478,13 +1469,22 @@
           "points": 15
         },
         {
-          "position": 5,
+          "position": 4,
           "team": "AS Monaco FC",
           "played": 8,
           "won": 4,
           "draw": 3,
           "lost": 1,
           "points": 15
+        },
+        {
+          "position": 5,
+          "team": "Olympique Lyonnais",
+          "played": 8,
+          "won": 4,
+          "draw": 2,
+          "lost": 2,
+          "points": 14
         },
         {
           "position": 6,
