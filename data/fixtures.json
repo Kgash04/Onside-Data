@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T12:31:32.757Z",
+  "lastUpdated": "2026-10-26T19:47:22.170Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -1300,13 +1300,6 @@
       "name": "Ligue 1",
       "fixtures": [
         {
-          "homeTeam": "Paris Saint-Germain FC",
-          "awayTeam": "Olympique Lyonnais",
-          "utcDate": "2026-10-26T19:30:00Z",
-          "matchday": 8,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Le Havre AC",
           "awayTeam": "Paris Saint-Germain FC",
           "utcDate": "2026-10-30T18:00:00Z",
@@ -1438,6 +1431,13 @@
           "utcDate": "2026-11-20T19:45:00Z",
           "matchday": 11,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "OGC Nice",
+          "awayTeam": "Paris Saint-Germain FC",
+          "utcDate": "2026-11-21T16:15:00Z",
+          "matchday": 11,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1452,7 +1452,7 @@
         },
         {
           "position": 2,
-          "team": "Lille OSC",
+          "team": "Olympique Lyonnais",
           "played": 8,
           "won": 4,
           "draw": 3,
@@ -1461,7 +1461,7 @@
         },
         {
           "position": 3,
-          "team": "AS Monaco FC",
+          "team": "Paris Saint-Germain FC",
           "played": 8,
           "won": 4,
           "draw": 3,
@@ -1470,21 +1470,21 @@
         },
         {
           "position": 4,
-          "team": "Olympique Lyonnais",
-          "played": 7,
+          "team": "Lille OSC",
+          "played": 8,
           "won": 4,
-          "draw": 2,
+          "draw": 3,
           "lost": 1,
-          "points": 14
+          "points": 15
         },
         {
           "position": 5,
-          "team": "Paris Saint-Germain FC",
-          "played": 7,
+          "team": "AS Monaco FC",
+          "played": 8,
           "won": 4,
-          "draw": 2,
+          "draw": 3,
           "lost": 1,
-          "points": 14
+          "points": 15
         },
         {
           "position": 6,
