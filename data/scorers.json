@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T20:04:52.530Z",
+  "lastUpdated": "2026-10-27T00:01:56.616Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -446,6 +446,18 @@
       "playedMatches": 10
     },
     {
+      "slug": "isaac",
+      "name": "Isaac",
+      "team": "Sevilla FC",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 9
+    },
+    {
       "slug": "jude-bellingham",
       "name": "Jude Bellingham",
       "team": "Real Madrid CF",
@@ -467,18 +479,6 @@
       "goals": 3,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 10
-    },
-    {
-      "slug": "luka-su-i",
-      "name": "Luka Sučić",
-      "team": "Real Sociedad de Fútbol",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Croatia",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
       "playedMatches": 10
     },
     {
