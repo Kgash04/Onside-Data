@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T23:38:33.366Z",
+  "lastUpdated": "2026-10-27T11:49:31.050Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,34 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Athletic Club",
-          "awayTeam": "Getafe CF",
-          "utcDate": "2026-10-25T13:00:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "RC Celta de Vigo",
-          "awayTeam": "Real Betis Balompié",
-          "utcDate": "2026-10-25T15:15:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Real Sociedad de Fútbol",
-          "awayTeam": "Levante UD",
-          "utcDate": "2026-10-25T17:30:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "FC Barcelona",
-          "awayTeam": "Real Madrid CF",
-          "utcDate": "2026-10-25T20:00:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Villarreal CF",
           "awayTeam": "RCD Espanyol de Barcelona",
           "utcDate": "2026-10-30T20:00:00Z",
@@ -470,6 +442,34 @@
           "homeTeam": "Elche CF",
           "awayTeam": "Real Betis Balompié",
           "utcDate": "2026-11-08T13:00:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Sociedad de Fútbol",
+          "awayTeam": "Rayo Vallecano de Madrid",
+          "utcDate": "2026-11-08T15:15:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Celta de Vigo",
+          "awayTeam": "Levante UD",
+          "utcDate": "2026-11-08T17:30:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Villarreal CF",
+          "awayTeam": "Getafe CF",
+          "utcDate": "2026-11-08T17:30:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Club Atlético de Madrid",
+          "awayTeam": "FC Barcelona",
+          "utcDate": "2026-11-08T20:00:00Z",
           "matchday": 12,
           "status": "TIMED"
         }
