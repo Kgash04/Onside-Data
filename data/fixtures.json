@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T11:49:31.050Z",
+  "lastUpdated": "2026-10-27T19:17:05.756Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -972,13 +972,6 @@
       "name": "Serie A",
       "fixtures": [
         {
-          "homeTeam": "US Sassuolo Calcio",
-          "awayTeam": "SS Lazio",
-          "utcDate": "2026-10-27T17:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "AS Roma",
           "awayTeam": "Cagliari Calcio",
           "utcDate": "2026-10-27T19:45:00Z",
@@ -1110,21 +1103,28 @@
           "utcDate": "2026-11-02T19:45:00Z",
           "matchday": 10,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Venezia FC",
+          "awayTeam": "Udinese Calcio",
+          "utcDate": "2026-11-06T19:45:00Z",
+          "matchday": 11,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
-          "team": "FC Internazionale Milano",
-          "played": 8,
-          "won": 7,
+          "team": "SS Lazio",
+          "played": 9,
+          "won": 8,
           "draw": 1,
           "lost": 0,
-          "points": 22
+          "points": 25
         },
         {
           "position": 2,
-          "team": "SS Lazio",
+          "team": "FC Internazionale Milano",
           "played": 8,
           "won": 7,
           "draw": 1,
@@ -1233,10 +1233,10 @@
         {
           "position": 14,
           "team": "US Sassuolo Calcio",
-          "played": 8,
+          "played": 9,
           "won": 2,
           "draw": 2,
-          "lost": 4,
+          "lost": 5,
           "points": 8
         },
         {
@@ -1307,30 +1307,16 @@
           "status": "TIMED"
         },
         {
+          "homeTeam": "OGC Nice",
+          "awayTeam": "Stade Rennais FC 1901",
+          "utcDate": "2026-10-30T18:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
           "homeTeam": "Lille OSC",
           "awayTeam": "Racing Club de Lens",
           "utcDate": "2026-10-30T20:05:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "OGC Nice",
-          "awayTeam": "Stade Rennais FC 1901",
-          "utcDate": "2026-10-31T16:15:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Olympique Lyonnais",
-          "awayTeam": "Angers SCO",
-          "utcDate": "2026-10-31T19:45:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "FC Lorient",
-          "awayTeam": "Stade Brestois 29",
-          "utcDate": "2026-10-31T19:45:00Z",
           "matchday": 9,
           "status": "TIMED"
         },
@@ -1349,6 +1335,13 @@
           "status": "TIMED"
         },
         {
+          "homeTeam": "Olympique Lyonnais",
+          "awayTeam": "Angers SCO",
+          "utcDate": "2026-11-01T16:15:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
           "homeTeam": "Paris FC",
           "awayTeam": "AS Monaco FC",
           "utcDate": "2026-11-01T16:15:00Z",
@@ -1359,6 +1352,13 @@
           "homeTeam": "Olympique de Marseille",
           "awayTeam": "Toulouse FC",
           "utcDate": "2026-11-01T19:45:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Lorient",
+          "awayTeam": "Stade Brestois 29",
+          "utcDate": "2026-11-02T19:45:00Z",
           "matchday": 9,
           "status": "TIMED"
         },
