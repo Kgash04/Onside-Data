@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T19:17:05.756Z",
+  "lastUpdated": "2026-10-27T23:38:04.071Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -972,20 +972,6 @@
       "name": "Serie A",
       "fixtures": [
         {
-          "homeTeam": "AS Roma",
-          "awayTeam": "Cagliari Calcio",
-          "utcDate": "2026-10-27T19:45:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Torino FC",
-          "awayTeam": "Como 1907",
-          "utcDate": "2026-10-27T19:45:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "AC Milan",
           "awayTeam": "Bologna FC 1909",
           "utcDate": "2026-10-28T17:30:00Z",
@@ -1110,6 +1096,20 @@
           "utcDate": "2026-11-06T19:45:00Z",
           "matchday": 11,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Torino FC",
+          "awayTeam": "US Lecce",
+          "utcDate": "2026-11-07T14:00:00Z",
+          "matchday": 11,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Cagliari Calcio",
+          "awayTeam": "Frosinone Calcio",
+          "utcDate": "2026-11-07T14:00:00Z",
+          "matchday": 11,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1134,29 +1134,29 @@
         {
           "position": 3,
           "team": "AS Roma",
-          "played": 8,
-          "won": 5,
+          "played": 9,
+          "won": 6,
           "draw": 3,
           "lost": 0,
-          "points": 18
+          "points": 21
         },
         {
           "position": 4,
+          "team": "Como 1907",
+          "played": 9,
+          "won": 6,
+          "draw": 2,
+          "lost": 1,
+          "points": 20
+        },
+        {
+          "position": 5,
           "team": "AC Milan",
           "played": 8,
           "won": 5,
           "draw": 3,
           "lost": 0,
           "points": 18
-        },
-        {
-          "position": 5,
-          "team": "Como 1907",
-          "played": 8,
-          "won": 5,
-          "draw": 2,
-          "lost": 1,
-          "points": 17
         },
         {
           "position": 6,
@@ -1179,19 +1179,19 @@
         {
           "position": 8,
           "team": "Torino FC",
-          "played": 8,
+          "played": 9,
           "won": 4,
           "draw": 1,
-          "lost": 3,
+          "lost": 4,
           "points": 13
         },
         {
           "position": 9,
           "team": "Cagliari Calcio",
-          "played": 8,
+          "played": 9,
           "won": 4,
           "draw": 1,
-          "lost": 3,
+          "lost": 4,
           "points": 13
         },
         {
