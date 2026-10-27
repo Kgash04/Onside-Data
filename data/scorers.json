@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T19:34:48.268Z",
+  "lastUpdated": "2026-10-27T23:56:11.850Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -734,6 +734,18 @@
       "playedMatches": 7
     },
     {
+      "slug": "donyell-malen",
+      "name": "Donyell Malen",
+      "team": "AS Roma",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Netherlands",
+      "goals": 7,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 8
+    },
+    {
       "slug": "antonio-raimondo",
       "name": "Antonio Raimondo",
       "team": "Frosinone Calcio",
@@ -754,18 +766,6 @@
       "nationality": "Montenegro",
       "goals": 6,
       "assists": 2,
-      "penalties": 0,
-      "playedMatches": 8
-    },
-    {
-      "slug": "donyell-malen",
-      "name": "Donyell Malen",
-      "team": "AS Roma",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Netherlands",
-      "goals": 6,
-      "assists": 1,
       "penalties": 0,
       "playedMatches": 8
     },
@@ -794,6 +794,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "daniel-maldini",
+      "name": "Daniel Maldini",
+      "team": "Cagliari Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 5,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 9
+    },
+    {
       "slug": "adrien-rabiot",
       "name": "Adrien Rabiot",
       "team": "AC Milan",
@@ -802,6 +814,18 @@
       "nationality": "France",
       "goals": 4,
       "assists": 3,
+      "penalties": 0,
+      "playedMatches": 7
+    },
+    {
+      "slug": "che-adams",
+      "name": "Che Adams",
+      "team": "Torino FC",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Scotland",
+      "goals": 4,
+      "assists": 0,
       "penalties": 0,
       "playedMatches": 7
     },
@@ -816,18 +840,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 6
-    },
-    {
-      "slug": "daniel-maldini",
-      "name": "Daniel Maldini",
-      "team": "Cagliari Calcio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Italy",
-      "goals": 4,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 9
     },
     {
       "slug": "tijjani-noslin",
@@ -866,21 +878,21 @@
       "playedMatches": 8
     },
     {
-      "slug": "che-adams",
-      "name": "Che Adams",
-      "team": "Torino FC",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Scotland",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 7
-    },
-    {
       "slug": "davide-frattesi",
       "name": "Davide Frattesi",
       "team": "SS Lazio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 9
+    },
+    {
+      "slug": "niccolo-pisilli",
+      "name": "Niccolo Pisilli",
+      "team": "AS Roma",
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Italy",
@@ -900,6 +912,18 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 8
+    },
+    {
+      "slug": "martin-baturina",
+      "name": "Martin Baturina",
+      "team": "Como 1907",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Croatia",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 9
     },
     {
       "slug": "matias-soule",
@@ -926,40 +950,16 @@
       "playedMatches": 7
     },
     {
-      "slug": "giorgi-kvernadze",
-      "name": "Giorgi Kvernadze",
-      "team": "Frosinone Calcio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Georgia",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 8
-    },
-    {
-      "slug": "vasilije-adzic",
-      "name": "Vasilije Adzic",
-      "team": "US Sassuolo Calcio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Montenegro",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 9
-    },
-    {
-      "slug": "franco-mastantuono",
-      "name": "Franco Mastantuono",
-      "team": "ACF Fiorentina",
+      "slug": "nico-paz",
+      "name": "Nico Paz",
+      "team": "Como 1907",
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Argentina",
       "goals": 3,
-      "assists": 0,
+      "assists": 3,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "esteban-lepaul",
