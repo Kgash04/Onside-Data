@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T12:35:48.343Z",
+  "lastUpdated": "2026-10-27T19:34:48.268Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -767,7 +767,7 @@
       "goals": 6,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "anastasios-douvikas",
@@ -779,7 +779,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "marcus-thuram-ulien",
@@ -827,7 +827,19 @@
       "goals": 4,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 8
+      "playedMatches": 9
+    },
+    {
+      "slug": "tijjani-noslin",
+      "name": "Tijjani Noslin",
+      "team": "SS Lazio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Netherlands",
+      "goals": 4,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 9
     },
     {
       "slug": "hakan-alhano-lu",
@@ -863,7 +875,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "davide-frattesi",
@@ -875,7 +887,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "jurgen-ekkelenkamp",
@@ -899,7 +911,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "milutin-osmaji",
@@ -935,7 +947,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "franco-mastantuono",
@@ -948,18 +960,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 8
-    },
-    {
-      "slug": "diego-moreira",
-      "name": "Diego Moreira",
-      "team": "AC Milan",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Belgium",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 7
     },
     {
       "slug": "esteban-lepaul",
