@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T23:38:04.071Z",
+  "lastUpdated": "2026-10-28T12:23:40.927Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -1307,13 +1307,6 @@
           "status": "TIMED"
         },
         {
-          "homeTeam": "OGC Nice",
-          "awayTeam": "Stade Rennais FC 1901",
-          "utcDate": "2026-10-30T18:00:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Lille OSC",
           "awayTeam": "Racing Club de Lens",
           "utcDate": "2026-10-30T20:05:00Z",
@@ -1335,13 +1328,6 @@
           "status": "TIMED"
         },
         {
-          "homeTeam": "Olympique Lyonnais",
-          "awayTeam": "Angers SCO",
-          "utcDate": "2026-11-01T16:15:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Paris FC",
           "awayTeam": "AS Monaco FC",
           "utcDate": "2026-11-01T16:15:00Z",
@@ -1352,13 +1338,6 @@
           "homeTeam": "Olympique de Marseille",
           "awayTeam": "Toulouse FC",
           "utcDate": "2026-11-01T19:45:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "FC Lorient",
-          "awayTeam": "Stade Brestois 29",
-          "utcDate": "2026-11-02T19:45:00Z",
           "matchday": 9,
           "status": "TIMED"
         },
@@ -1436,6 +1415,27 @@
           "homeTeam": "OGC Nice",
           "awayTeam": "Paris Saint-Germain FC",
           "utcDate": "2026-11-21T16:15:00Z",
+          "matchday": 11,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "AS Monaco FC",
+          "awayTeam": "AJ Auxerre",
+          "utcDate": "2026-11-21T19:45:00Z",
+          "matchday": 11,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Racing Club de Lens",
+          "awayTeam": "Toulouse FC",
+          "utcDate": "2026-11-21T19:45:00Z",
+          "matchday": 11,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Lille OSC",
+          "awayTeam": "Olympique Lyonnais",
+          "utcDate": "2026-11-21T19:45:00Z",
           "matchday": 11,
           "status": "TIMED"
         }
