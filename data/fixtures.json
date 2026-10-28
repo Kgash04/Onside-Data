@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T12:23:40.927Z",
+  "lastUpdated": "2026-10-28T19:23:38.682Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -972,27 +972,6 @@
       "name": "Serie A",
       "fixtures": [
         {
-          "homeTeam": "AC Milan",
-          "awayTeam": "Bologna FC 1909",
-          "utcDate": "2026-10-28T17:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Venezia FC",
-          "awayTeam": "FC Internazionale Milano",
-          "utcDate": "2026-10-28T17:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Parma Calcio 1913",
-          "awayTeam": "Udinese Calcio",
-          "utcDate": "2026-10-28T17:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Genoa CFC",
           "awayTeam": "Juventus FC",
           "utcDate": "2026-10-28T19:45:00Z",
@@ -1110,12 +1089,33 @@
           "utcDate": "2026-11-07T14:00:00Z",
           "matchday": 11,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Parma Calcio 1913",
+          "awayTeam": "Bologna FC 1909",
+          "utcDate": "2026-11-07T17:00:00Z",
+          "matchday": 11,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "AS Roma",
+          "awayTeam": "US Sassuolo Calcio",
+          "utcDate": "2026-11-07T19:45:00Z",
+          "matchday": 11,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "SSC Napoli",
+          "awayTeam": "SS Lazio",
+          "utcDate": "2026-11-08T11:30:00Z",
+          "matchday": 11,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
-          "team": "SS Lazio",
+          "team": "FC Internazionale Milano",
           "played": 9,
           "won": 8,
           "draw": 1,
@@ -1124,12 +1124,12 @@
         },
         {
           "position": 2,
-          "team": "FC Internazionale Milano",
-          "played": 8,
-          "won": 7,
+          "team": "SS Lazio",
+          "played": 9,
+          "won": 8,
           "draw": 1,
           "lost": 0,
-          "points": 22
+          "points": 25
         },
         {
           "position": 3,
@@ -1152,10 +1152,10 @@
         {
           "position": 5,
           "team": "AC Milan",
-          "played": 8,
+          "played": 9,
           "won": 5,
           "draw": 3,
-          "lost": 0,
+          "lost": 1,
           "points": 18
         },
         {
@@ -1205,6 +1205,15 @@
         },
         {
           "position": 11,
+          "team": "Bologna FC 1909",
+          "played": 9,
+          "won": 3,
+          "draw": 2,
+          "lost": 4,
+          "points": 11
+        },
+        {
+          "position": 12,
           "team": "Atalanta BC",
           "played": 8,
           "won": 3,
@@ -1213,22 +1222,13 @@
           "points": 10
         },
         {
-          "position": 12,
+          "position": 13,
           "team": "US Lecce",
           "played": 8,
           "won": 3,
           "draw": 0,
           "lost": 5,
           "points": 9
-        },
-        {
-          "position": 13,
-          "team": "Bologna FC 1909",
-          "played": 8,
-          "won": 2,
-          "draw": 2,
-          "lost": 4,
-          "points": 8
         },
         {
           "position": 14,
@@ -1260,24 +1260,24 @@
         {
           "position": 17,
           "team": "Udinese Calcio",
-          "played": 8,
+          "played": 9,
           "won": 1,
-          "draw": 1,
+          "draw": 2,
           "lost": 6,
-          "points": 4
+          "points": 5
         },
         {
           "position": 18,
-          "team": "ACF Fiorentina",
-          "played": 8,
+          "team": "Parma Calcio 1913",
+          "played": 9,
           "won": 1,
-          "draw": 1,
+          "draw": 2,
           "lost": 6,
-          "points": 4
+          "points": 5
         },
         {
           "position": 19,
-          "team": "Parma Calcio 1913",
+          "team": "ACF Fiorentina",
           "played": 8,
           "won": 1,
           "draw": 1,
@@ -1287,10 +1287,10 @@
         {
           "position": 20,
           "team": "Venezia FC",
-          "played": 8,
+          "played": 9,
           "won": 1,
           "draw": 0,
-          "lost": 7,
+          "lost": 8,
           "points": 3
         }
       ]
@@ -1302,6 +1302,13 @@
         {
           "homeTeam": "Le Havre AC",
           "awayTeam": "Paris Saint-Germain FC",
+          "utcDate": "2026-10-30T18:00:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "OGC Nice",
+          "awayTeam": "Stade Rennais FC 1901",
           "utcDate": "2026-10-30T18:00:00Z",
           "matchday": 9,
           "status": "TIMED"
@@ -1328,6 +1335,13 @@
           "status": "TIMED"
         },
         {
+          "homeTeam": "Olympique Lyonnais",
+          "awayTeam": "Angers SCO",
+          "utcDate": "2026-11-01T16:15:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
           "homeTeam": "Paris FC",
           "awayTeam": "AS Monaco FC",
           "utcDate": "2026-11-01T16:15:00Z",
@@ -1338,6 +1352,13 @@
           "homeTeam": "Olympique de Marseille",
           "awayTeam": "Toulouse FC",
           "utcDate": "2026-11-01T19:45:00Z",
+          "matchday": 9,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Lorient",
+          "awayTeam": "Stade Brestois 29",
+          "utcDate": "2026-11-02T19:45:00Z",
           "matchday": 9,
           "status": "TIMED"
         },
@@ -1415,27 +1436,6 @@
           "homeTeam": "OGC Nice",
           "awayTeam": "Paris Saint-Germain FC",
           "utcDate": "2026-11-21T16:15:00Z",
-          "matchday": 11,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "AS Monaco FC",
-          "awayTeam": "AJ Auxerre",
-          "utcDate": "2026-11-21T19:45:00Z",
-          "matchday": 11,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Racing Club de Lens",
-          "awayTeam": "Toulouse FC",
-          "utcDate": "2026-11-21T19:45:00Z",
-          "matchday": 11,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Lille OSC",
-          "awayTeam": "Olympique Lyonnais",
-          "utcDate": "2026-11-21T19:45:00Z",
           "matchday": 11,
           "status": "TIMED"
         }
