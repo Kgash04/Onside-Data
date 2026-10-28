@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T13:25:36.939Z",
+  "lastUpdated": "2026-10-28T19:47:43.381Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -731,7 +731,7 @@
       "goals": 7,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "donyell-malen",
@@ -791,7 +791,7 @@
       "goals": 5,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "daniel-maldini",
@@ -803,6 +803,18 @@
       "goals": 5,
       "assists": 0,
       "penalties": 1,
+      "playedMatches": 9
+    },
+    {
+      "slug": "alphadjo-cisse",
+      "name": "Alphadjo Cisse",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
       "playedMatches": 9
     },
     {
@@ -863,7 +875,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "kevin-de-bruyne",
@@ -875,7 +887,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "davide-frattesi",
@@ -911,7 +923,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "martin-baturina",
@@ -947,19 +959,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 7
-    },
-    {
-      "slug": "nico-paz",
-      "name": "Nico Paz",
-      "team": "Como 1907",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Argentina",
-      "goals": 3,
-      "assists": 3,
-      "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 8
     },
     {
       "slug": "esteban-lepaul",
