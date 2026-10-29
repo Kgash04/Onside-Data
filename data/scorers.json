@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T19:47:43.381Z",
+  "lastUpdated": "2026-10-29T00:15:29.228Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -728,7 +728,7 @@
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Portugal",
-      "goals": 7,
+      "goals": 8,
       "assists": 1,
       "penalties": 1,
       "playedMatches": 8
@@ -806,6 +806,18 @@
       "playedMatches": 9
     },
     {
+      "slug": "kevin-de-bruyne",
+      "name": "Kevin De Bruyne",
+      "team": "SSC Napoli",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Belgium",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 1,
+      "playedMatches": 9
+    },
+    {
       "slug": "alphadjo-cisse",
       "name": "Alphadjo Cisse",
       "team": "AC Milan",
@@ -878,18 +890,6 @@
       "playedMatches": 7
     },
     {
-      "slug": "kevin-de-bruyne",
-      "name": "Kevin De Bruyne",
-      "team": "SSC Napoli",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Belgium",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 1,
-      "playedMatches": 9
-    },
-    {
       "slug": "davide-frattesi",
       "name": "Davide Frattesi",
       "team": "SS Lazio",
@@ -938,6 +938,18 @@
       "playedMatches": 9
     },
     {
+      "slug": "rasmus-h-jlund",
+      "name": "Rasmus Højlund",
+      "team": "SSC Napoli",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Denmark",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 9
+    },
+    {
       "slug": "matias-soule",
       "name": "Matias Soule",
       "team": "AS Roma",
@@ -948,18 +960,6 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 9
-    },
-    {
-      "slug": "milutin-osmaji",
-      "name": "Milutin Osmajić",
-      "team": "Genoa CFC",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Montenegro",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 8
     },
     {
       "slug": "esteban-lepaul",
