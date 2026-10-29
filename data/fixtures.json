@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T19:27:13.232Z",
+  "lastUpdated": "2026-10-29T23:50:40.933Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -972,13 +972,6 @@
       "name": "Serie A",
       "fixtures": [
         {
-          "homeTeam": "ACF Fiorentina",
-          "awayTeam": "Atalanta BC",
-          "utcDate": "2026-10-29T19:45:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Bologna FC 1909",
           "awayTeam": "AC Monza",
           "utcDate": "2026-10-31T14:00:00Z",
@@ -1110,6 +1103,13 @@
           "utcDate": "2026-11-08T17:00:00Z",
           "matchday": 11,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "ACF Fiorentina",
+          "awayTeam": "Juventus FC",
+          "utcDate": "2026-11-08T19:45:00Z",
+          "matchday": 11,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1215,11 +1215,11 @@
         {
           "position": 12,
           "team": "Atalanta BC",
-          "played": 8,
+          "played": 9,
           "won": 3,
-          "draw": 1,
+          "draw": 2,
           "lost": 4,
-          "points": 10
+          "points": 11
         },
         {
           "position": 13,
@@ -1268,7 +1268,7 @@
         },
         {
           "position": 18,
-          "team": "Parma Calcio 1913",
+          "team": "ACF Fiorentina",
           "played": 9,
           "won": 1,
           "draw": 2,
@@ -1277,12 +1277,12 @@
         },
         {
           "position": 19,
-          "team": "ACF Fiorentina",
-          "played": 8,
+          "team": "Parma Calcio 1913",
+          "played": 9,
           "won": 1,
-          "draw": 1,
+          "draw": 2,
           "lost": 6,
-          "points": 4
+          "points": 5
         },
         {
           "position": 20,
