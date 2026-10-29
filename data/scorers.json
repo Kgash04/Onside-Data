@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T13:33:56.282Z",
+  "lastUpdated": "2026-10-29T19:47:08.944Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -734,6 +734,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "antonio-raimondo",
+      "name": "Antonio Raimondo",
+      "team": "Frosinone Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 8,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 9
+    },
+    {
       "slug": "donyell-malen",
       "name": "Donyell Malen",
       "team": "AS Roma",
@@ -742,18 +754,6 @@
       "nationality": "Netherlands",
       "goals": 7,
       "assists": 1,
-      "penalties": 0,
-      "playedMatches": 8
-    },
-    {
-      "slug": "antonio-raimondo",
-      "name": "Antonio Raimondo",
-      "team": "Frosinone Calcio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Italy",
-      "goals": 7,
-      "assists": 0,
       "penalties": 0,
       "playedMatches": 8
     },
@@ -767,7 +767,7 @@
       "goals": 6,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "anastasios-douvikas",
@@ -878,6 +878,18 @@
       "playedMatches": 9
     },
     {
+      "slug": "giacomo-cal",
+      "name": "Giacomo Calò",
+      "team": "Frosinone Calcio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 1,
+      "playedMatches": 9
+    },
+    {
       "slug": "hakan-alhano-lu",
       "name": "Hakan Çalhanoğlu",
       "team": "FC Internazionale Milano",
@@ -946,18 +958,6 @@
       "nationality": "Denmark",
       "goals": 3,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 9
-    },
-    {
-      "slug": "matias-soule",
-      "name": "Matias Soule",
-      "team": "AS Roma",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Argentina",
-      "goals": 3,
-      "assists": 1,
       "penalties": 0,
       "playedMatches": 9
     },
