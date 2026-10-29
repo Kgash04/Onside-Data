@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T12:33:22.309Z",
+  "lastUpdated": "2026-10-29T19:27:13.232Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -972,13 +972,6 @@
       "name": "Serie A",
       "fixtures": [
         {
-          "homeTeam": "Frosinone Calcio",
-          "awayTeam": "US Lecce",
-          "utcDate": "2026-10-29T17:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "ACF Fiorentina",
           "awayTeam": "Atalanta BC",
           "utcDate": "2026-10-29T19:45:00Z",
@@ -1110,6 +1103,13 @@
           "utcDate": "2026-11-08T14:00:00Z",
           "matchday": 11,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Internazionale Milano",
+          "awayTeam": "Como 1907",
+          "utcDate": "2026-11-08T17:00:00Z",
+          "matchday": 11,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1160,20 +1160,20 @@
         },
         {
           "position": 6,
+          "team": "Frosinone Calcio",
+          "played": 9,
+          "won": 5,
+          "draw": 2,
+          "lost": 2,
+          "points": 17
+        },
+        {
+          "position": 7,
           "team": "SSC Napoli",
           "played": 9,
           "won": 4,
           "draw": 2,
           "lost": 3,
-          "points": 14
-        },
-        {
-          "position": 7,
-          "team": "Frosinone Calcio",
-          "played": 8,
-          "won": 4,
-          "draw": 2,
-          "lost": 2,
           "points": 14
         },
         {
@@ -1233,10 +1233,10 @@
         {
           "position": 14,
           "team": "US Lecce",
-          "played": 8,
+          "played": 9,
           "won": 3,
           "draw": 0,
-          "lost": 5,
+          "lost": 6,
           "points": 9
         },
         {
