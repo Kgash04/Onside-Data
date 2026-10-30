@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T13:24:16.901Z",
+  "lastUpdated": "2026-10-30T19:37:31.237Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -323,7 +323,7 @@
       "goals": 6,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "fer-ni-o",
@@ -479,7 +479,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "niclas-f-llkrug",
@@ -539,7 +539,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "luis-d-az",
@@ -659,7 +659,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "maximilian-eggestein",
@@ -986,6 +986,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "sepe-elye-wahi",
+      "name": "Sepe Elye Wahi",
+      "team": "OGC Nice",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Ivory Coast",
+      "goals": 6,
+      "assists": 2,
+      "penalties": 2,
+      "playedMatches": 8
+    },
+    {
       "slug": "amine-gouiri",
       "name": "Amine Gouiri",
       "team": "Olympique de Marseille",
@@ -1031,7 +1043,7 @@
       "goals": 4,
       "assists": 8,
       "penalties": 3,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "louis-mafouta",
@@ -1058,6 +1070,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "sebastian-szyma-ski",
+      "name": "Sebastian Szymański",
+      "team": "Stade Rennais FC 1901",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Poland",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 9
+    },
+    {
       "slug": "ferr-n-torres",
       "name": "Ferrán Torres",
       "team": "Paris Saint-Germain FC",
@@ -1067,7 +1091,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "paris-brunner",
@@ -1082,6 +1106,30 @@
       "playedMatches": 6
     },
     {
+      "slug": "josh-maja",
+      "name": "Josh Maja",
+      "team": "Le Havre AC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Nigeria",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 9
+    },
+    {
+      "slug": "boulaye-dia",
+      "name": "Boulaye Dia",
+      "team": "Stade Rennais FC 1901",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Senegal",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 7
+    },
+    {
       "slug": "daniel-namaso",
       "name": "Daniel Namaso",
       "team": "AJ Auxerre",
@@ -1091,18 +1139,6 @@
       "goals": 3,
       "assists": 2,
       "penalties": 1,
-      "playedMatches": 8
-    },
-    {
-      "slug": "sebastian-szyma-ski",
-      "name": "Sebastian Szymański",
-      "team": "Stade Rennais FC 1901",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Poland",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
       "playedMatches": 8
     },
     {
@@ -1152,42 +1188,6 @@
       "assists": 2,
       "penalties": 0,
       "playedMatches": 5
-    },
-    {
-      "slug": "sepe-elye-wahi",
-      "name": "Sepe Elye Wahi",
-      "team": "OGC Nice",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Ivory Coast",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 7
-    },
-    {
-      "slug": "josh-maja",
-      "name": "Josh Maja",
-      "team": "Le Havre AC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Nigeria",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 8
-    },
-    {
-      "slug": "boulaye-dia",
-      "name": "Boulaye Dia",
-      "team": "Stade Rennais FC 1901",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Senegal",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 6
     },
     {
       "slug": "himad-abdelli",
