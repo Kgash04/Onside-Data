@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T19:37:31.237Z",
+  "lastUpdated": "2026-10-30T23:59:10.715Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -578,6 +578,18 @@
       "playedMatches": 7
     },
     {
+      "slug": "maurice-krattenmacher",
+      "name": "Maurice Krattenmacher",
+      "team": "SV 07 Elversberg",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Germany",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 8
+    },
+    {
       "slug": "christopher-nkunku",
       "name": "Christopher Nkunku",
       "team": "RB Leipzig",
@@ -648,18 +660,6 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 7
-    },
-    {
-      "slug": "maurice-krattenmacher",
-      "name": "Maurice Krattenmacher",
-      "team": "SV 07 Elversberg",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 8
     },
     {
       "slug": "maximilian-eggestein",
@@ -1142,6 +1142,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "olivier-giroud",
+      "name": "Olivier Giroud",
+      "team": "Lille OSC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "France",
+      "goals": 3,
+      "assists": 2,
+      "penalties": 1,
+      "playedMatches": 9
+    },
+    {
       "slug": "marquinhos",
       "name": "Marquinhos",
       "team": "Paris Saint-Germain FC",
@@ -1188,18 +1200,6 @@
       "assists": 2,
       "penalties": 0,
       "playedMatches": 5
-    },
-    {
-      "slug": "himad-abdelli",
-      "name": "Himad Abdelli",
-      "team": "Olympique de Marseille",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Algeria",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 8
     },
     {
       "slug": "nicolo-tresoldi",
