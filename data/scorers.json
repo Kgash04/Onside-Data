@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T18:41:59.547Z",
+  "lastUpdated": "2026-10-31T23:36:03.412Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -62,6 +62,18 @@
       "playedMatches": 9
     },
     {
+      "slug": "nicolas-jackson",
+      "name": "Nicolas Jackson",
+      "team": "Aston Villa FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "Senegal",
+      "goals": 5,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 8
+    },
+    {
       "slug": "rayan-cherki",
       "name": "Rayan Cherki",
       "team": "Manchester City FC",
@@ -84,18 +96,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 9
-    },
-    {
-      "slug": "nicolas-jackson",
-      "name": "Nicolas Jackson",
-      "team": "Aston Villa FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "Senegal",
-      "goals": 4,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 7
     },
     {
       "slug": "evanilson",
@@ -248,10 +248,10 @@
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Brazil",
-      "goals": 13,
+      "goals": 15,
       "assists": 2,
       "penalties": 3,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "kylian-mbapp",
@@ -266,6 +266,18 @@
       "playedMatches": 10
     },
     {
+      "slug": "lamine-yamal",
+      "name": "Lamine Yamal",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 10,
+      "assists": 7,
+      "penalties": 1,
+      "playedMatches": 11
+    },
+    {
       "slug": "yassir-zabiri",
       "name": "Yassir Zabiri",
       "team": "Real Racing Club de Santander",
@@ -275,18 +287,6 @@
       "goals": 8,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 10
-    },
-    {
-      "slug": "lamine-yamal",
-      "name": "Lamine Yamal",
-      "team": "FC Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 8,
-      "assists": 6,
-      "penalties": 1,
       "playedMatches": 10
     },
     {
@@ -362,6 +362,18 @@
       "playedMatches": 11
     },
     {
+      "slug": "ferm-n-l-pez",
+      "name": "Fermín López",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 5,
+      "assists": 5,
+      "penalties": 0,
+      "playedMatches": 11
+    },
+    {
       "slug": "lucas-boy",
       "name": "Lucas Boyé",
       "team": "Deportivo Alavés",
@@ -371,7 +383,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "brugui",
@@ -386,28 +398,28 @@
       "playedMatches": 10
     },
     {
-      "slug": "ferm-n-l-pez",
-      "name": "Fermín López",
-      "team": "FC Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 4,
-      "assists": 3,
-      "penalties": 0,
-      "playedMatches": 10
-    },
-    {
       "slug": "adri-n",
       "name": "Adrián",
       "team": "Málaga CF",
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Spain",
-      "goals": 4,
+      "goals": 5,
       "assists": 0,
       "penalties": 0,
       "playedMatches": 7
+    },
+    {
+      "slug": "mariano-d-az",
+      "name": "Mariano Díaz",
+      "team": "Deportivo Alavés",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Dominican Republic",
+      "goals": 4,
+      "assists": 4,
+      "penalties": 0,
+      "playedMatches": 11
     },
     {
       "slug": "alejandro-grimaldo",
@@ -420,18 +432,6 @@
       "assists": 2,
       "penalties": 2,
       "playedMatches": 11
-    },
-    {
-      "slug": "mariano-d-az",
-      "name": "Mariano Díaz",
-      "team": "Deportivo Alavés",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Dominican Republic",
-      "goals": 3,
-      "assists": 4,
-      "penalties": 0,
-      "playedMatches": 10
     },
     {
       "slug": "lvaro-garc-a",
@@ -657,8 +657,44 @@
       "leagueCode": "BL1",
       "nationality": "England",
       "goals": 4,
-      "assists": 4,
+      "assists": 5,
       "penalties": 1,
+      "playedMatches": 8
+    },
+    {
+      "slug": "dayot-upamecano",
+      "name": "Dayot Upamecano",
+      "team": "FC Bayern München",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "France",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 8
+    },
+    {
+      "slug": "sehrou-guirassy",
+      "name": "Sehrou Guirassy",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Guinea",
+      "goals": 3,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 8
+    },
+    {
+      "slug": "f-bio-silva",
+      "name": "Fábio Silva",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Portugal",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
       "playedMatches": 8
     },
     {
@@ -682,42 +718,6 @@
       "nationality": "USA",
       "goals": 3,
       "assists": 1,
-      "penalties": 0,
-      "playedMatches": 8
-    },
-    {
-      "slug": "maximilian-eggestein",
-      "name": "Maximilian Eggestein",
-      "team": "SC Freiburg",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 8
-    },
-    {
-      "slug": "jonathan-burkardt",
-      "name": "Jonathan Burkardt",
-      "team": "Eintracht Frankfurt",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 7
-    },
-    {
-      "slug": "robin-fellhauer",
-      "name": "Robin Fellhauer",
-      "team": "FC Augsburg",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
-      "goals": 3,
-      "assists": 0,
       "penalties": 0,
       "playedMatches": 8
     },
@@ -782,6 +782,18 @@
       "playedMatches": 9
     },
     {
+      "slug": "adrien-rabiot",
+      "name": "Adrien Rabiot",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "France",
+      "goals": 5,
+      "assists": 3,
+      "penalties": 0,
+      "playedMatches": 8
+    },
+    {
       "slug": "marcus-thuram-ulien",
       "name": "Marcus Thuram-Ulien",
       "team": "FC Internazionale Milano",
@@ -791,7 +803,7 @@
       "goals": 5,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "daniel-maldini",
@@ -827,19 +839,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 9
-    },
-    {
-      "slug": "adrien-rabiot",
-      "name": "Adrien Rabiot",
-      "team": "AC Milan",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "France",
-      "goals": 4,
-      "assists": 3,
-      "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 10
     },
     {
       "slug": "che-adams",
@@ -878,6 +878,18 @@
       "playedMatches": 9
     },
     {
+      "slug": "diego-moreira",
+      "name": "Diego Moreira",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Belgium",
+      "goals": 4,
+      "assists": 3,
+      "penalties": 0,
+      "playedMatches": 8
+    },
+    {
       "slug": "giacomo-cal",
       "name": "Giacomo Calò",
       "team": "Frosinone Calcio",
@@ -899,7 +911,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "davide-frattesi",
@@ -946,18 +958,6 @@
       "nationality": "Croatia",
       "goals": 3,
       "assists": 1,
-      "penalties": 0,
-      "playedMatches": 9
-    },
-    {
-      "slug": "rasmus-h-jlund",
-      "name": "Rasmus Højlund",
-      "team": "SSC Napoli",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Denmark",
-      "goals": 3,
-      "assists": 0,
       "penalties": 0,
       "playedMatches": 9
     },
