@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T23:11:10.825Z",
+  "lastUpdated": "2026-11-01T12:53:58.634Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -972,13 +972,6 @@
       "name": "Serie A",
       "fixtures": [
         {
-          "homeTeam": "Como 1907",
-          "awayTeam": "Venezia FC",
-          "utcDate": "2026-11-01T11:30:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Frosinone Calcio",
           "awayTeam": "Torino FC",
           "utcDate": "2026-11-01T14:00:00Z",
@@ -1110,6 +1103,13 @@
           "utcDate": "2026-11-21T17:00:00Z",
           "matchday": 12,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "SSC Napoli",
+          "awayTeam": "Torino FC",
+          "utcDate": "2026-11-21T19:45:00Z",
+          "matchday": 12,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1142,21 +1142,21 @@
         },
         {
           "position": 4,
+          "team": "Como 1907",
+          "played": 10,
+          "won": 7,
+          "draw": 2,
+          "lost": 1,
+          "points": 23
+        },
+        {
+          "position": 5,
           "team": "AC Milan",
           "played": 10,
           "won": 6,
           "draw": 3,
           "lost": 1,
           "points": 21
-        },
-        {
-          "position": 5,
-          "team": "Como 1907",
-          "played": 9,
-          "won": 6,
-          "draw": 2,
-          "lost": 1,
-          "points": 20
         },
         {
           "position": 6,
@@ -1287,10 +1287,10 @@
         {
           "position": 20,
           "team": "Venezia FC",
-          "played": 9,
+          "played": 10,
           "won": 1,
           "draw": 0,
-          "lost": 8,
+          "lost": 9,
           "points": 3
         }
       ]
