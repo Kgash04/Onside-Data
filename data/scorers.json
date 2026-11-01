@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T19:05:14.224Z",
+  "lastUpdated": "2026-11-01T23:49:20.890Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -434,6 +434,30 @@
       "playedMatches": 11
     },
     {
+      "slug": "luka-su-i",
+      "name": "Luka Sučić",
+      "team": "Real Sociedad de Fútbol",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Croatia",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 11
+    },
+    {
+      "slug": "lex-berenguer",
+      "name": "Álex Berenguer",
+      "team": "Athletic Club",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 4,
+      "assists": 4,
+      "penalties": 2,
+      "playedMatches": 11
+    },
+    {
       "slug": "alejandro-grimaldo",
       "name": "Alejandro Grimaldo",
       "team": "Club Atlético de Madrid",
@@ -456,30 +480,6 @@
       "assists": 2,
       "penalties": 0,
       "playedMatches": 11
-    },
-    {
-      "slug": "pape-gueye",
-      "name": "Pape Gueye",
-      "team": "Villarreal CF",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Senegal",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 10
-    },
-    {
-      "slug": "isaac",
-      "name": "Isaac",
-      "team": "Sevilla FC",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 10
     },
     {
       "slug": "niclas-f-llkrug",
@@ -839,7 +839,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "alphadjo-cisse",
@@ -986,6 +986,18 @@
       "playedMatches": 7
     },
     {
+      "slug": "amine-gouiri",
+      "name": "Amine Gouiri",
+      "team": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Algeria",
+      "goals": 6,
+      "assists": 3,
+      "penalties": 1,
+      "playedMatches": 9
+    },
+    {
       "slug": "cameron-archer",
       "name": "Cameron Archer",
       "team": "AJ Auxerre",
@@ -1008,18 +1020,6 @@
       "assists": 2,
       "penalties": 2,
       "playedMatches": 8
-    },
-    {
-      "slug": "amine-gouiri",
-      "name": "Amine Gouiri",
-      "team": "Olympique de Marseille",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Algeria",
-      "goals": 5,
-      "assists": 2,
-      "penalties": 1,
-      "playedMatches": 9
     },
     {
       "slug": "casper-tengstedt",
