@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T23:36:03.412Z",
+  "lastUpdated": "2026-11-01T13:43:02.483Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -467,7 +467,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "jude-bellingham",
@@ -755,7 +755,7 @@
       "goals": 8,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "nikola-krstovi",
@@ -779,7 +779,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "adrien-rabiot",
@@ -815,7 +815,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "kevin-de-bruyne",
@@ -851,7 +851,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "lautaro-mart-nez",
@@ -875,7 +875,7 @@
       "goals": 4,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "diego-moreira",
@@ -899,7 +899,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "hakan-alhano-lu",
@@ -923,7 +923,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "niccolo-pisilli",
@@ -959,7 +959,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "esteban-lepaul",
@@ -1019,7 +1019,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "casper-tengstedt",
@@ -1139,7 +1139,7 @@
       "goals": 3,
       "assists": 2,
       "penalties": 1,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "olivier-giroud",
