@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T16:28:48.096Z",
+  "lastUpdated": "2026-11-03T02:34:04.681Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -74,6 +74,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "thierno-barry",
+      "name": "Thierno Barry",
+      "team": "Everton FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "France",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 9
+    },
+    {
       "slug": "rayan-cherki",
       "name": "Rayan Cherki",
       "team": "Manchester City FC",
@@ -132,18 +144,6 @@
       "assists": 0,
       "penalties": 1,
       "playedMatches": 7
-    },
-    {
-      "slug": "thierno-barry",
-      "name": "Thierno Barry",
-      "team": "Everton FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "France",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 8
     },
     {
       "slug": "jack-hinshelwood",
@@ -278,6 +278,18 @@
       "playedMatches": 11
     },
     {
+      "slug": "ante-budimir",
+      "name": "Ante Budimir",
+      "team": "CA Osasuna",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Croatia",
+      "goals": 8,
+      "assists": 0,
+      "penalties": 4,
+      "playedMatches": 11
+    },
+    {
       "slug": "yassir-zabiri",
       "name": "Yassir Zabiri",
       "team": "Real Racing Club de Santander",
@@ -300,18 +312,6 @@
       "assists": 2,
       "penalties": 0,
       "playedMatches": 11
-    },
-    {
-      "slug": "ante-budimir",
-      "name": "Ante Budimir",
-      "team": "CA Osasuna",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Croatia",
-      "goals": 7,
-      "assists": 0,
-      "penalties": 4,
-      "playedMatches": 10
     },
     {
       "slug": "roberto-fern-ndez",
@@ -347,7 +347,7 @@
       "goals": 5,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "lex-baena",
@@ -767,7 +767,7 @@
       "goals": 6,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "anastasios-douvikas",
@@ -890,6 +890,18 @@
       "playedMatches": 6
     },
     {
+      "slug": "franco-mastantuono",
+      "name": "Franco Mastantuono",
+      "team": "ACF Fiorentina",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Argentina",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 10
+    },
+    {
       "slug": "tijjani-noslin",
       "name": "Tijjani Noslin",
       "team": "SS Lazio",
@@ -941,18 +953,6 @@
       "slug": "davide-frattesi",
       "name": "Davide Frattesi",
       "team": "SS Lazio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Italy",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 10
-    },
-    {
-      "slug": "niccolo-pisilli",
-      "name": "Niccolo Pisilli",
-      "team": "AS Roma",
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Italy",
@@ -1067,7 +1067,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "sebastian-szyma-ski",
@@ -1102,6 +1102,18 @@
       "nationality": "France",
       "goals": 4,
       "assists": 3,
+      "penalties": 0,
+      "playedMatches": 9
+    },
+    {
+      "slug": "ludovic-ajorque",
+      "name": "Ludovic Ajorque",
+      "team": "Stade Brestois 29",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "France",
+      "goals": 4,
+      "assists": 1,
       "penalties": 0,
       "playedMatches": 9
     },
@@ -1188,18 +1200,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 6
-    },
-    {
-      "slug": "ludovic-ajorque",
-      "name": "Ludovic Ajorque",
-      "team": "Stade Brestois 29",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "France",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 8
     },
     {
       "slug": "nicolo-tresoldi",
