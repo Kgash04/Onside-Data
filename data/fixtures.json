@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T20:26:38.275Z",
+  "lastUpdated": "2026-11-04T13:59:15.093Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -1762,7 +1762,7 @@
         },
         {
           "position": 2,
-          "team": "Aston Villa FC",
+          "team": "FC Barcelona",
           "played": 4,
           "won": 3,
           "draw": 0,
@@ -1771,7 +1771,7 @@
         },
         {
           "position": 3,
-          "team": "FC Barcelona",
+          "team": "Aston Villa FC",
           "played": 4,
           "won": 3,
           "draw": 0,
@@ -1816,12 +1816,12 @@
         },
         {
           "position": 8,
-          "team": "AS Roma",
+          "team": "FC Bayern München",
           "played": 4,
           "won": 2,
-          "draw": 1,
-          "lost": 1,
-          "points": 7
+          "draw": 2,
+          "lost": 0,
+          "points": 8
         },
         {
           "position": 9,
@@ -1843,15 +1843,6 @@
         },
         {
           "position": 11,
-          "team": "FC Bayern München",
-          "played": 4,
-          "won": 1,
-          "draw": 3,
-          "lost": 0,
-          "points": 6
-        },
-        {
-          "position": 12,
           "team": "Como 1907",
           "played": 3,
           "won": 2,
@@ -1860,7 +1851,7 @@
           "points": 6
         },
         {
-          "position": 13,
+          "position": 12,
           "team": "Manchester City FC",
           "played": 3,
           "won": 2,
@@ -1869,7 +1860,7 @@
           "points": 6
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "Club Brugge KV",
           "played": 3,
           "won": 2,
@@ -1878,16 +1869,7 @@
           "points": 6
         },
         {
-          "position": 15,
-          "team": "Borussia Dortmund",
-          "played": 3,
-          "won": 2,
-          "draw": 0,
-          "lost": 1,
-          "points": 6
-        },
-        {
-          "position": 16,
+          "position": 14,
           "team": "FC Internazionale Milano",
           "played": 4,
           "won": 2,
@@ -1896,8 +1878,26 @@
           "points": 6
         },
         {
+          "position": 15,
+          "team": "LASK Linz",
+          "played": 4,
+          "won": 2,
+          "draw": 0,
+          "lost": 2,
+          "points": 6
+        },
+        {
+          "position": 16,
+          "team": "Borussia Dortmund",
+          "played": 3,
+          "won": 2,
+          "draw": 0,
+          "lost": 1,
+          "points": 6
+        },
+        {
           "position": 17,
-          "team": "Galatasaray SK",
+          "team": "Manchester United FC",
           "played": 4,
           "won": 2,
           "draw": 0,
@@ -1906,16 +1906,16 @@
         },
         {
           "position": 18,
-          "team": "Club Atlético de Madrid",
+          "team": "Galatasaray SK",
           "played": 4,
-          "won": 1,
-          "draw": 2,
-          "lost": 1,
-          "points": 5
+          "won": 2,
+          "draw": 0,
+          "lost": 2,
+          "points": 6
         },
         {
           "position": 19,
-          "team": "FK Shakhtar Donetsk",
+          "team": "AS Roma",
           "played": 4,
           "won": 1,
           "draw": 1,
@@ -1924,6 +1924,15 @@
         },
         {
           "position": 20,
+          "team": "FK Shakhtar Donetsk",
+          "played": 4,
+          "won": 1,
+          "draw": 1,
+          "lost": 2,
+          "points": 4
+        },
+        {
+          "position": 21,
           "team": "PSV",
           "played": 3,
           "won": 1,
@@ -1932,8 +1941,8 @@
           "points": 4
         },
         {
-          "position": 21,
-          "team": "LASK Linz",
+          "position": 22,
+          "team": "Club Atlético de Madrid",
           "played": 4,
           "won": 1,
           "draw": 1,
@@ -1941,7 +1950,7 @@
           "points": 4
         },
         {
-          "position": 22,
+          "position": 23,
           "team": "FK Bodø/Glimt",
           "played": 4,
           "won": 1,
@@ -1950,16 +1959,7 @@
           "points": 4
         },
         {
-          "position": 23,
-          "team": "Manchester United FC",
-          "played": 4,
-          "won": 1,
-          "draw": 0,
-          "lost": 3,
-          "points": 3
-        },
-        {
-          "position": 23,
+          "position": 24,
           "team": "SSC Napoli",
           "played": 3,
           "won": 1,
@@ -1978,15 +1978,6 @@
         },
         {
           "position": 26,
-          "team": "Villarreal CF",
-          "played": 4,
-          "won": 1,
-          "draw": 0,
-          "lost": 3,
-          "points": 3
-        },
-        {
-          "position": 27,
           "team": "Racing Club de Lens",
           "played": 3,
           "won": 1,
@@ -1995,16 +1986,7 @@
           "points": 3
         },
         {
-          "position": 28,
-          "team": "Feyenoord Rotterdam",
-          "played": 4,
-          "won": 1,
-          "draw": 0,
-          "lost": 3,
-          "points": 3
-        },
-        {
-          "position": 29,
+          "position": 27,
           "team": "PAE AEK",
           "played": 3,
           "won": 1,
@@ -2013,12 +1995,30 @@
           "points": 3
         },
         {
-          "position": 29,
+          "position": 27,
           "team": "RB Leipzig",
           "played": 3,
           "won": 1,
           "draw": 0,
           "lost": 2,
+          "points": 3
+        },
+        {
+          "position": 29,
+          "team": "Villarreal CF",
+          "played": 4,
+          "won": 1,
+          "draw": 0,
+          "lost": 3,
+          "points": 3
+        },
+        {
+          "position": 30,
+          "team": "Feyenoord Rotterdam",
+          "played": 4,
+          "won": 1,
+          "draw": 0,
+          "lost": 3,
           "points": 3
         },
         {
@@ -2059,20 +2059,20 @@
         },
         {
           "position": 35,
-          "team": "ŠK Slovan Bratislava",
-          "played": 4,
-          "won": 0,
-          "draw": 1,
-          "lost": 3,
-          "points": 1
-        },
-        {
-          "position": 36,
           "team": "FC Porto",
           "played": 3,
           "won": 0,
           "draw": 0,
           "lost": 3,
+          "points": 0
+        },
+        {
+          "position": 36,
+          "team": "ŠK Slovan Bratislava",
+          "played": 4,
+          "won": 0,
+          "draw": 0,
+          "lost": 4,
           "points": 0
         }
       ]
