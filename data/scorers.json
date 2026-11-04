@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T14:34:25.174Z",
+  "lastUpdated": "2026-11-04T00:48:55.234Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1238,6 +1238,18 @@
       "playedMatches": 3
     },
     {
+      "slug": "raphinha",
+      "name": "Raphinha",
+      "team": "FC Barcelona",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Brazil",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 3
+    },
+    {
       "slug": "ermedin-demirovic",
       "name": "Ermedin Demirovic",
       "team": "VfB Stuttgart",
@@ -1247,7 +1259,19 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
+    },
+    {
+      "slug": "fabi-n-ruiz",
+      "name": "Fabián Ruiz",
+      "team": "Paris Saint-Germain FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Spain",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
     },
     {
       "slug": "luis-su-rez",
@@ -1259,7 +1283,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 2,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "harry-kane",
@@ -1269,9 +1293,33 @@
       "leagueCode": "CL",
       "nationality": "England",
       "goals": 4,
+      "assists": 3,
+      "penalties": 2,
+      "playedMatches": 4
+    },
+    {
+      "slug": "aleksey-batrakov",
+      "name": "Aleksey Batrakov",
+      "team": "Galatasaray SK",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Russia",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
+      "slug": "donyell-malen",
+      "name": "Donyell Malen",
+      "team": "AS Roma",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Netherlands",
+      "goals": 4,
       "assists": 2,
       "penalties": 2,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "nicolas-jackson",
@@ -1283,7 +1331,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "kylian-mbapp",
@@ -1296,6 +1344,18 @@
       "assists": 1,
       "penalties": 0,
       "playedMatches": 3
+    },
+    {
+      "slug": "lamine-yamal",
+      "name": "Lamine Yamal",
+      "team": "FC Barcelona",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Spain",
+      "goals": 3,
+      "assists": 4,
+      "penalties": 0,
+      "playedMatches": 4
     },
     {
       "slug": "alexis-mac-allister",
@@ -1331,7 +1391,19 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
+    },
+    {
+      "slug": "matheus-cunha",
+      "name": "Matheus Cunha",
+      "team": "Manchester United FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Brazil",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 4
     },
     {
       "slug": "anastasios-douvikas",
@@ -1358,88 +1430,16 @@
       "playedMatches": 3
     },
     {
-      "slug": "donyell-malen",
-      "name": "Donyell Malen",
-      "team": "AS Roma",
+      "slug": "desire-doue",
+      "name": "Desire Doue",
+      "team": "Paris Saint-Germain FC",
       "league": "Champions League",
       "leagueCode": "CL",
-      "nationality": "Netherlands",
+      "nationality": "France",
       "goals": 3,
       "assists": 2,
-      "penalties": 1,
-      "playedMatches": 3
-    },
-    {
-      "slug": "ross-barkley",
-      "name": "Ross Barkley",
-      "team": "Aston Villa FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "England",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 1,
-      "playedMatches": 3
-    },
-    {
-      "slug": "phil-foden",
-      "name": "Phil Foden",
-      "team": "Manchester City FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "England",
-      "goals": 3,
-      "assists": 1,
       "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "emiliano-buend-a",
-      "name": "Emiliano Buendía",
-      "team": "Aston Villa FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Argentina",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 3
-    },
-    {
-      "slug": "carlos-augusto-lobaton",
-      "name": "Carlos Augusto Lobaton",
-      "team": "FC Internazionale Milano",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Brazil",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "santiago-mouri-o",
-      "name": "Santiago Mouriño",
-      "team": "Villarreal CF",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Uruguay",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
-      "slug": "bartra",
-      "name": "Bartra",
-      "team": "Real Betis Balompié",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Spain",
-      "goals": 2,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     }
   ]
 }
