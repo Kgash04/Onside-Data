@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T13:59:15.093Z",
+  "lastUpdated": "2026-11-04T20:45:17.093Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -1309,14 +1309,14 @@
         {
           "homeTeam": "AJ Auxerre",
           "awayTeam": "Paris FC",
-          "utcDate": "2026-11-07T16:15:00Z",
+          "utcDate": "2026-11-07T18:00:00Z",
           "matchday": 10,
           "status": "TIMED"
         },
         {
           "homeTeam": "Paris Saint-Germain FC",
           "awayTeam": "ES Troyes AC",
-          "utcDate": "2026-11-07T19:45:00Z",
+          "utcDate": "2026-11-07T20:05:00Z",
           "matchday": 10,
           "status": "TIMED"
         },
@@ -1610,69 +1610,6 @@
       "name": "Champions League",
       "fixtures": [
         {
-          "homeTeam": "PAE AEK",
-          "awayTeam": "Real Madrid CF",
-          "utcDate": "2026-11-04T17:45:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Fenerbahçe SK",
-          "awayTeam": "Liverpool FC",
-          "utcDate": "2026-11-04T17:45:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "RB Leipzig",
-          "awayTeam": "Manchester City FC",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "SK Slavia Praha",
-          "awayTeam": "Arsenal FC",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "PSV",
-          "awayTeam": "Club Brugge KV",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Borussia Dortmund",
-          "awayTeam": "Real Betis Balompié",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "FC Porto",
-          "awayTeam": "SSC Napoli",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Racing Club de Lens",
-          "awayTeam": "Como 1907",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Viking FK",
-          "awayTeam": "Sabah FK",
-          "utcDate": "2026-11-04T20:00:00Z",
-          "matchday": 4,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Galatasaray SK",
           "awayTeam": "Aston Villa FC",
           "utcDate": "2026-11-24T17:45:00Z",
@@ -1748,6 +1685,69 @@
           "utcDate": "2026-11-25T17:45:00Z",
           "matchday": 5,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Internazionale Milano",
+          "awayTeam": "VfB Stuttgart",
+          "utcDate": "2026-11-25T20:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Club Atlético de Madrid",
+          "awayTeam": "Viking FK",
+          "utcDate": "2026-11-25T20:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Paris Saint-Germain FC",
+          "awayTeam": "AS Roma",
+          "utcDate": "2026-11-25T20:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Club Brugge KV",
+          "awayTeam": "Liverpool FC",
+          "utcDate": "2026-11-25T20:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Lille OSC",
+          "awayTeam": "FC Bayern München",
+          "utcDate": "2026-11-25T20:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Sporting Clube de Portugal",
+          "awayTeam": "Manchester United FC",
+          "utcDate": "2026-11-25T20:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FK Shakhtar Donetsk",
+          "awayTeam": "Fenerbahçe SK",
+          "utcDate": "2026-11-25T20:00:00Z",
+          "matchday": 5,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Villarreal CF",
+          "awayTeam": "Sabah FK",
+          "utcDate": "2026-12-08T17:45:00Z",
+          "matchday": 6,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Viking FK",
+          "awayTeam": "Feyenoord Rotterdam",
+          "utcDate": "2026-12-08T17:45:00Z",
+          "matchday": 6,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1762,6 +1762,33 @@
         },
         {
           "position": 2,
+          "team": "Real Madrid CF",
+          "played": 4,
+          "won": 4,
+          "draw": 0,
+          "lost": 0,
+          "points": 12
+        },
+        {
+          "position": 3,
+          "team": "Arsenal FC",
+          "played": 4,
+          "won": 3,
+          "draw": 1,
+          "lost": 0,
+          "points": 10
+        },
+        {
+          "position": 4,
+          "team": "Real Betis Balompié",
+          "played": 4,
+          "won": 3,
+          "draw": 1,
+          "lost": 0,
+          "points": 10
+        },
+        {
+          "position": 5,
           "team": "FC Barcelona",
           "played": 4,
           "won": 3,
@@ -1770,35 +1797,8 @@
           "points": 9
         },
         {
-          "position": 3,
-          "team": "Aston Villa FC",
-          "played": 4,
-          "won": 3,
-          "draw": 0,
-          "lost": 1,
-          "points": 9
-        },
-        {
-          "position": 4,
-          "team": "Liverpool FC",
-          "played": 3,
-          "won": 3,
-          "draw": 0,
-          "lost": 0,
-          "points": 9
-        },
-        {
-          "position": 5,
-          "team": "Real Madrid CF",
-          "played": 3,
-          "won": 3,
-          "draw": 0,
-          "lost": 0,
-          "points": 9
-        },
-        {
           "position": 6,
-          "team": "Sporting Clube de Portugal",
+          "team": "Como 1907",
           "played": 4,
           "won": 3,
           "draw": 0,
@@ -1807,15 +1807,42 @@
         },
         {
           "position": 7,
-          "team": "Real Betis Balompié",
-          "played": 3,
+          "team": "Aston Villa FC",
+          "played": 4,
           "won": 3,
           "draw": 0,
-          "lost": 0,
+          "lost": 1,
           "points": 9
         },
         {
           "position": 8,
+          "team": "Liverpool FC",
+          "played": 4,
+          "won": 3,
+          "draw": 0,
+          "lost": 1,
+          "points": 9
+        },
+        {
+          "position": 9,
+          "team": "Club Brugge KV",
+          "played": 4,
+          "won": 3,
+          "draw": 0,
+          "lost": 1,
+          "points": 9
+        },
+        {
+          "position": 10,
+          "team": "Sporting Clube de Portugal",
+          "played": 4,
+          "won": 3,
+          "draw": 0,
+          "lost": 1,
+          "points": 9
+        },
+        {
+          "position": 11,
           "team": "FC Bayern München",
           "played": 4,
           "won": 2,
@@ -1824,16 +1851,16 @@
           "points": 8
         },
         {
-          "position": 9,
-          "team": "Arsenal FC",
-          "played": 3,
+          "position": 12,
+          "team": "Manchester City FC",
+          "played": 4,
           "won": 2,
           "draw": 1,
-          "lost": 0,
+          "lost": 1,
           "points": 7
         },
         {
-          "position": 10,
+          "position": 13,
           "team": "VfB Stuttgart",
           "played": 4,
           "won": 2,
@@ -1842,34 +1869,16 @@
           "points": 7
         },
         {
-          "position": 11,
-          "team": "Como 1907",
-          "played": 3,
-          "won": 2,
-          "draw": 0,
-          "lost": 1,
-          "points": 6
-        },
-        {
-          "position": 12,
-          "team": "Manchester City FC",
-          "played": 3,
-          "won": 2,
-          "draw": 0,
-          "lost": 1,
-          "points": 6
-        },
-        {
-          "position": 13,
-          "team": "Club Brugge KV",
-          "played": 3,
-          "won": 2,
-          "draw": 0,
-          "lost": 1,
-          "points": 6
-        },
-        {
           "position": 14,
+          "team": "Borussia Dortmund",
+          "played": 4,
+          "won": 2,
+          "draw": 1,
+          "lost": 1,
+          "points": 7
+        },
+        {
+          "position": 15,
           "team": "FC Internazionale Milano",
           "played": 4,
           "won": 2,
@@ -1878,21 +1887,12 @@
           "points": 6
         },
         {
-          "position": 15,
+          "position": 16,
           "team": "LASK Linz",
           "played": 4,
           "won": 2,
           "draw": 0,
           "lost": 2,
-          "points": 6
-        },
-        {
-          "position": 16,
-          "team": "Borussia Dortmund",
-          "played": 3,
-          "won": 2,
-          "draw": 0,
-          "lost": 1,
           "points": 6
         },
         {
@@ -1915,6 +1915,15 @@
         },
         {
           "position": 19,
+          "team": "Fenerbahçe SK",
+          "played": 4,
+          "won": 1,
+          "draw": 2,
+          "lost": 1,
+          "points": 5
+        },
+        {
+          "position": 20,
           "team": "AS Roma",
           "played": 4,
           "won": 1,
@@ -1923,21 +1932,12 @@
           "points": 4
         },
         {
-          "position": 20,
+          "position": 21,
           "team": "FK Shakhtar Donetsk",
           "played": 4,
           "won": 1,
           "draw": 1,
           "lost": 2,
-          "points": 4
-        },
-        {
-          "position": 21,
-          "team": "PSV",
-          "played": 3,
-          "won": 1,
-          "draw": 1,
-          "lost": 1,
           "points": 4
         },
         {
@@ -1951,7 +1951,7 @@
         },
         {
           "position": 23,
-          "team": "FK Bodø/Glimt",
+          "team": "PSV",
           "played": 4,
           "won": 1,
           "draw": 1,
@@ -1960,47 +1960,47 @@
         },
         {
           "position": 24,
-          "team": "SSC Napoli",
-          "played": 3,
+          "team": "Sabah FK",
+          "played": 4,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 2,
-          "points": 3
+          "points": 4
         },
         {
           "position": 25,
-          "team": "Sabah FK",
-          "played": 3,
+          "team": "FK Bodø/Glimt",
+          "played": 4,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 2,
-          "points": 3
+          "points": 4
         },
         {
           "position": 26,
-          "team": "Racing Club de Lens",
-          "played": 3,
-          "won": 1,
-          "draw": 0,
-          "lost": 2,
-          "points": 3
-        },
-        {
-          "position": 27,
-          "team": "PAE AEK",
-          "played": 3,
-          "won": 1,
-          "draw": 0,
-          "lost": 2,
-          "points": 3
-        },
-        {
-          "position": 27,
           "team": "RB Leipzig",
-          "played": 3,
+          "played": 4,
+          "won": 1,
+          "draw": 1,
+          "lost": 2,
+          "points": 4
+        },
+        {
+          "position": 27,
+          "team": "SSC Napoli",
+          "played": 4,
           "won": 1,
           "draw": 0,
-          "lost": 2,
+          "lost": 3,
+          "points": 3
+        },
+        {
+          "position": 28,
+          "team": "FC Porto",
+          "played": 4,
+          "won": 1,
+          "draw": 0,
+          "lost": 3,
           "points": 3
         },
         {
@@ -2014,7 +2014,7 @@
         },
         {
           "position": 30,
-          "team": "Feyenoord Rotterdam",
+          "team": "PAE AEK",
           "played": 4,
           "won": 1,
           "draw": 0,
@@ -2023,34 +2023,34 @@
         },
         {
           "position": 31,
-          "team": "Fenerbahçe SK",
-          "played": 3,
-          "won": 0,
-          "draw": 2,
-          "lost": 1,
-          "points": 2
+          "team": "Racing Club de Lens",
+          "played": 4,
+          "won": 1,
+          "draw": 0,
+          "lost": 3,
+          "points": 3
         },
         {
           "position": 32,
-          "team": "SK Slavia Praha",
-          "played": 3,
-          "won": 0,
-          "draw": 1,
-          "lost": 2,
-          "points": 1
+          "team": "Feyenoord Rotterdam",
+          "played": 4,
+          "won": 1,
+          "draw": 0,
+          "lost": 3,
+          "points": 3
         },
         {
           "position": 33,
           "team": "Viking FK",
-          "played": 3,
+          "played": 4,
           "won": 0,
-          "draw": 1,
+          "draw": 2,
           "lost": 2,
-          "points": 1
+          "points": 2
         },
         {
           "position": 34,
-          "team": "Lille OSC",
+          "team": "SK Slavia Praha",
           "played": 4,
           "won": 0,
           "draw": 1,
@@ -2059,12 +2059,12 @@
         },
         {
           "position": 35,
-          "team": "FC Porto",
-          "played": 3,
+          "team": "Lille OSC",
+          "played": 4,
           "won": 0,
-          "draw": 0,
+          "draw": 1,
           "lost": 3,
-          "points": 0
+          "points": 1
         },
         {
           "position": 36,
