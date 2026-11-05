@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T14:48:43.790Z",
+  "lastUpdated": "2026-11-05T01:00:42.171Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1202,16 +1202,28 @@
       "playedMatches": 6
     },
     {
+      "slug": "anastasios-douvikas",
+      "name": "Anastasios Douvikas",
+      "team": "Como 1907",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Greece",
+      "goals": 6,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
+    },
+    {
       "slug": "nicolo-tresoldi",
       "name": "Nicolo Tresoldi",
       "team": "Club Brugge KV",
       "league": "Champions League",
       "leagueCode": "CL",
       "nationality": "Italy",
-      "goals": 4,
+      "goals": 5,
       "assists": 0,
       "penalties": 2,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "erling-haaland",
@@ -1220,10 +1232,22 @@
       "league": "Champions League",
       "leagueCode": "CL",
       "nationality": "Norway",
-      "goals": 4,
+      "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
+    },
+    {
+      "slug": "kylian-mbapp",
+      "name": "Kylian Mbappé",
+      "team": "Real Madrid CF",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "France",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 4
     },
     {
       "slug": "sehrou-guirassy",
@@ -1235,7 +1259,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "raphinha",
@@ -1334,18 +1358,6 @@
       "playedMatches": 4
     },
     {
-      "slug": "kylian-mbapp",
-      "name": "Kylian Mbappé",
-      "team": "Real Madrid CF",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "France",
-      "goals": 3,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
       "slug": "lamine-yamal",
       "name": "Lamine Yamal",
       "team": "FC Barcelona",
@@ -1367,7 +1379,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "ousmane-demb-l",
@@ -1406,18 +1418,6 @@
       "playedMatches": 4
     },
     {
-      "slug": "anastasios-douvikas",
-      "name": "Anastasios Douvikas",
-      "team": "Como 1907",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Greece",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 3
-    },
-    {
       "slug": "bradley-barcola",
       "name": "Bradley Barcola",
       "team": "Liverpool FC",
@@ -1427,7 +1427,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 4
     },
     {
       "slug": "desire-doue",
