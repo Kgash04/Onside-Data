@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T20:45:17.093Z",
+  "lastUpdated": "2026-11-05T14:20:01.391Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -1780,12 +1780,12 @@
         },
         {
           "position": 4,
-          "team": "Real Betis Balompié",
+          "team": "Como 1907",
           "played": 4,
           "won": 3,
-          "draw": 1,
-          "lost": 0,
-          "points": 10
+          "draw": 0,
+          "lost": 1,
+          "points": 9
         },
         {
           "position": 5,
@@ -1798,7 +1798,7 @@
         },
         {
           "position": 6,
-          "team": "Como 1907",
+          "team": "Aston Villa FC",
           "played": 4,
           "won": 3,
           "draw": 0,
@@ -1807,7 +1807,7 @@
         },
         {
           "position": 7,
-          "team": "Aston Villa FC",
+          "team": "Manchester City FC",
           "played": 4,
           "won": 3,
           "draw": 0,
@@ -1843,6 +1843,24 @@
         },
         {
           "position": 11,
+          "team": "Real Betis Balompié",
+          "played": 4,
+          "won": 3,
+          "draw": 0,
+          "lost": 1,
+          "points": 9
+        },
+        {
+          "position": 12,
+          "team": "Borussia Dortmund",
+          "played": 4,
+          "won": 3,
+          "draw": 0,
+          "lost": 1,
+          "points": 9
+        },
+        {
+          "position": 13,
           "team": "FC Bayern München",
           "played": 4,
           "won": 2,
@@ -1851,26 +1869,8 @@
           "points": 8
         },
         {
-          "position": 12,
-          "team": "Manchester City FC",
-          "played": 4,
-          "won": 2,
-          "draw": 1,
-          "lost": 1,
-          "points": 7
-        },
-        {
-          "position": 13,
-          "team": "VfB Stuttgart",
-          "played": 4,
-          "won": 2,
-          "draw": 1,
-          "lost": 1,
-          "points": 7
-        },
-        {
           "position": 14,
-          "team": "Borussia Dortmund",
+          "team": "VfB Stuttgart",
           "played": 4,
           "won": 2,
           "draw": 1,
@@ -1942,7 +1942,7 @@
         },
         {
           "position": 22,
-          "team": "Club Atlético de Madrid",
+          "team": "Viking FK",
           "played": 4,
           "won": 1,
           "draw": 1,
@@ -1951,7 +1951,7 @@
         },
         {
           "position": 23,
-          "team": "PSV",
+          "team": "Club Atlético de Madrid",
           "played": 4,
           "won": 1,
           "draw": 1,
@@ -1960,7 +1960,7 @@
         },
         {
           "position": 24,
-          "team": "Sabah FK",
+          "team": "PSV",
           "played": 4,
           "won": 1,
           "draw": 1,
@@ -1978,12 +1978,12 @@
         },
         {
           "position": 26,
-          "team": "RB Leipzig",
+          "team": "FC Porto",
           "played": 4,
           "won": 1,
-          "draw": 1,
-          "lost": 2,
-          "points": 4
+          "draw": 0,
+          "lost": 3,
+          "points": 3
         },
         {
           "position": 27,
@@ -1996,15 +1996,6 @@
         },
         {
           "position": 28,
-          "team": "FC Porto",
-          "played": 4,
-          "won": 1,
-          "draw": 0,
-          "lost": 3,
-          "points": 3
-        },
-        {
-          "position": 29,
           "team": "Villarreal CF",
           "played": 4,
           "won": 1,
@@ -2013,7 +2004,7 @@
           "points": 3
         },
         {
-          "position": 30,
+          "position": 29,
           "team": "PAE AEK",
           "played": 4,
           "won": 1,
@@ -2022,8 +2013,17 @@
           "points": 3
         },
         {
+          "position": 29,
+          "team": "RB Leipzig",
+          "played": 4,
+          "won": 1,
+          "draw": 0,
+          "lost": 3,
+          "points": 3
+        },
+        {
           "position": 31,
-          "team": "Racing Club de Lens",
+          "team": "Sabah FK",
           "played": 4,
           "won": 1,
           "draw": 0,
@@ -2041,12 +2041,12 @@
         },
         {
           "position": 33,
-          "team": "Viking FK",
+          "team": "Racing Club de Lens",
           "played": 4,
-          "won": 0,
-          "draw": 2,
-          "lost": 2,
-          "points": 2
+          "won": 1,
+          "draw": 0,
+          "lost": 3,
+          "points": 3
         },
         {
           "position": 34,
