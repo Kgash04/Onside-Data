@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T00:15:01.171Z",
+  "lastUpdated": "2026-11-07T13:27:42.212Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -227,7 +227,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "bruno-fernandes",
@@ -299,7 +299,7 @@
       "goals": 8,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "sergio-camello",
@@ -407,7 +407,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "mariano-d-az",
@@ -539,7 +539,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "ermedin-demirovic",
@@ -587,7 +587,7 @@
       "goals": 4,
       "assists": 6,
       "penalties": 1,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "yuito-suzuki",
@@ -647,7 +647,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "romulo-cruz",
@@ -659,7 +659,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 7
     },
     {
       "slug": "harry-kane",
@@ -815,7 +815,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "giacomo-cal",
@@ -827,7 +827,7 @@
       "goals": 5,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "kevin-de-bruyne",
@@ -863,7 +863,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "milutin-osmaji",
