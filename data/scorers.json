@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T14:31:45.398Z",
+  "lastUpdated": "2026-11-07T00:15:01.171Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -12,6 +12,18 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 9
+    },
+    {
+      "slug": "thierno-barry",
+      "name": "Thierno Barry",
+      "team": "Everton FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "France",
+      "goals": 6,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 10
     },
     {
       "slug": "alexander-isak",
@@ -74,18 +86,6 @@
       "playedMatches": 8
     },
     {
-      "slug": "thierno-barry",
-      "name": "Thierno Barry",
-      "team": "Everton FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "France",
-      "goals": 4,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 9
-    },
-    {
       "slug": "rayan-cherki",
       "name": "Rayan Cherki",
       "team": "Manchester City FC",
@@ -144,6 +144,18 @@
       "assists": 0,
       "penalties": 1,
       "playedMatches": 7
+    },
+    {
+      "slug": "kiernan-dewsbury-hall",
+      "name": "Kiernan Dewsbury Hall",
+      "team": "Everton FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "England",
+      "goals": 3,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 10
     },
     {
       "slug": "jack-hinshelwood",
@@ -227,18 +239,6 @@
       "goals": 3,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 9
-    },
-    {
-      "slug": "mohamed-belloumi",
-      "name": "Mohamed Belloumi",
-      "team": "Hull City AFC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "Algeria",
-      "goals": 3,
-      "assists": 2,
-      "penalties": 0,
       "playedMatches": 9
     },
     {
@@ -383,7 +383,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "brugui",
@@ -419,7 +419,7 @@
       "goals": 4,
       "assists": 4,
       "penalties": 0,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "jude-bellingham",
@@ -614,6 +614,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "joseph-scally",
+      "name": "Joseph Scally",
+      "team": "Borussia Mönchengladbach",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "USA",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 9
+    },
+    {
       "slug": "maurice-krattenmacher",
       "name": "Maurice Krattenmacher",
       "team": "SV 07 Elversberg",
@@ -706,18 +718,6 @@
       "nationality": "Algeria",
       "goals": 3,
       "assists": 2,
-      "penalties": 0,
-      "playedMatches": 8
-    },
-    {
-      "slug": "joseph-scally",
-      "name": "Joseph Scally",
-      "team": "Borussia Mönchengladbach",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "USA",
-      "goals": 3,
-      "assists": 1,
       "penalties": 0,
       "playedMatches": 8
     },
@@ -1031,7 +1031,7 @@
       "goals": 5,
       "assists": 1,
       "penalties": 2,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "florian-thauvin",
@@ -1103,7 +1103,7 @@
       "goals": 4,
       "assists": 3,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "ludovic-ajorque",
