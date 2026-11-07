@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T19:00:05.772Z",
+  "lastUpdated": "2026-11-07T23:50:33.543Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -260,10 +260,10 @@
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "France",
-      "goals": 12,
+      "goals": 13,
       "assists": 2,
       "penalties": 3,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "lamine-yamal",
@@ -431,7 +431,7 @@
       "goals": 4,
       "assists": 3,
       "penalties": 0,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "luka-su-i",
@@ -741,9 +741,9 @@
       "leagueCode": "SA",
       "nationality": "Netherlands",
       "goals": 8,
-      "assists": 1,
+      "assists": 2,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "antonio-raimondo",
@@ -866,6 +866,18 @@
       "playedMatches": 9
     },
     {
+      "slug": "rodrigo-mora",
+      "name": "Rodrigo Mora",
+      "team": "AS Roma",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Portugal",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 11
+    },
+    {
       "slug": "milutin-osmaji",
       "name": "Milutin Osmajić",
       "team": "Genoa CFC",
@@ -950,25 +962,13 @@
       "playedMatches": 8
     },
     {
-      "slug": "davide-frattesi",
-      "name": "Davide Frattesi",
-      "team": "SS Lazio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Italy",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 10
-    },
-    {
       "slug": "lassine-sinayoko",
       "name": "Lassine Sinayoko",
       "team": "Paris FC",
       "league": "Ligue 1",
       "leagueCode": "FL1",
       "nationality": "Mali",
-      "goals": 8,
+      "goals": 9,
       "assists": 5,
       "penalties": 3,
       "playedMatches": 10
@@ -1091,7 +1091,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "gessime-yassine",
