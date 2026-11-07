@@ -1,10 +1,38 @@
 {
-  "lastUpdated": "2026-11-07T18:31:15.760Z",
+  "lastUpdated": "2026-11-07T23:30:16.205Z",
   "competitions": {
     "PL": {
       "code": "PL",
       "name": "Premier League",
       "fixtures": [
+        {
+          "homeTeam": "Leeds United FC",
+          "awayTeam": "Tottenham Hotspur FC",
+          "utcDate": "2026-11-07T12:30:00Z",
+          "matchday": 10,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Arsenal FC",
+          "awayTeam": "Hull City AFC",
+          "utcDate": "2026-11-07T15:00:00Z",
+          "matchday": 10,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Fulham FC",
+          "awayTeam": "Newcastle United FC",
+          "utcDate": "2026-11-07T15:00:00Z",
+          "matchday": 10,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Nottingham Forest FC",
+          "awayTeam": "Manchester City FC",
+          "utcDate": "2026-11-07T17:30:00Z",
+          "matchday": 10,
+          "status": "TIMED"
+        },
         {
           "homeTeam": "Crystal Palace FC",
           "awayTeam": "Liverpool FC",
@@ -114,34 +142,6 @@
           "homeTeam": "Nottingham Forest FC",
           "awayTeam": "Chelsea FC",
           "utcDate": "2026-11-27T20:00:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Leeds United FC",
-          "awayTeam": "Coventry City FC",
-          "utcDate": "2026-11-28T15:00:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Manchester United FC",
-          "awayTeam": "Brentford FC",
-          "utcDate": "2026-11-28T15:00:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Ipswich Town FC",
-          "awayTeam": "Aston Villa FC",
-          "utcDate": "2026-11-28T17:30:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Everton FC",
-          "awayTeam": "Liverpool FC",
-          "utcDate": "2026-11-29T12:00:00Z",
           "matchday": 12,
           "status": "TIMED"
         }
@@ -334,13 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Valencia CF",
-          "awayTeam": "Real Madrid CF",
-          "utcDate": "2026-11-07T20:00:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Elche CF",
           "awayTeam": "Real Betis Balompié",
           "utcDate": "2026-11-08T13:00:00Z",
@@ -472,6 +465,13 @@
           "utcDate": "2026-11-28T17:30:00Z",
           "matchday": 14,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Madrid CF",
+          "awayTeam": "Deportivo Alavés",
+          "utcDate": "2026-11-28T20:00:00Z",
+          "matchday": 14,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -486,21 +486,21 @@
         },
         {
           "position": 2,
+          "team": "Real Madrid CF",
+          "played": 12,
+          "won": 10,
+          "draw": 0,
+          "lost": 2,
+          "points": 30
+        },
+        {
+          "position": 3,
           "team": "Club Atlético de Madrid",
           "played": 11,
           "won": 9,
           "draw": 1,
           "lost": 1,
           "points": 28
-        },
-        {
-          "position": 3,
-          "team": "Real Madrid CF",
-          "played": 11,
-          "won": 9,
-          "draw": 0,
-          "lost": 2,
-          "points": 27
         },
         {
           "position": 4,
@@ -640,10 +640,10 @@
         {
           "position": 19,
           "team": "Valencia CF",
-          "played": 11,
+          "played": 12,
           "won": 2,
           "draw": 3,
-          "lost": 6,
+          "lost": 7,
           "points": 9
         },
         {
@@ -972,13 +972,6 @@
       "name": "Serie A",
       "fixtures": [
         {
-          "homeTeam": "AS Roma",
-          "awayTeam": "US Sassuolo Calcio",
-          "utcDate": "2026-11-07T19:45:00Z",
-          "matchday": 11,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "SSC Napoli",
           "awayTeam": "SS Lazio",
           "utcDate": "2026-11-08T11:30:00Z",
@@ -1110,6 +1103,13 @@
           "utcDate": "2026-11-28T19:45:00Z",
           "matchday": 13,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Udinese Calcio",
+          "awayTeam": "ACF Fiorentina",
+          "utcDate": "2026-11-29T11:30:00Z",
+          "matchday": 13,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1124,21 +1124,21 @@
         },
         {
           "position": 2,
+          "team": "AS Roma",
+          "played": 11,
+          "won": 8,
+          "draw": 3,
+          "lost": 0,
+          "points": 27
+        },
+        {
+          "position": 3,
           "team": "FC Internazionale Milano",
           "played": 10,
           "won": 8,
           "draw": 1,
           "lost": 1,
           "points": 25
-        },
-        {
-          "position": 3,
-          "team": "AS Roma",
-          "played": 10,
-          "won": 7,
-          "draw": 3,
-          "lost": 0,
-          "points": 24
         },
         {
           "position": 4,
@@ -1260,10 +1260,10 @@
         {
           "position": 17,
           "team": "US Sassuolo Calcio",
-          "played": 10,
+          "played": 11,
           "won": 2,
           "draw": 2,
-          "lost": 6,
+          "lost": 7,
           "points": 8
         },
         {
@@ -1299,13 +1299,6 @@
       "code": "FL1",
       "name": "Ligue 1",
       "fixtures": [
-        {
-          "homeTeam": "Paris Saint-Germain FC",
-          "awayTeam": "ES Troyes AC",
-          "utcDate": "2026-11-07T20:05:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Stade Rennais FC 1901",
           "awayTeam": "Lille OSC",
@@ -1438,26 +1431,33 @@
           "utcDate": "2026-11-28T19:45:00Z",
           "matchday": 12,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Le Havre AC",
+          "awayTeam": "RC Strasbourg Alsace",
+          "utcDate": "2026-11-28T19:45:00Z",
+          "matchday": 12,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
           "team": "Paris Saint-Germain FC",
-          "played": 9,
-          "won": 6,
+          "played": 10,
+          "won": 7,
           "draw": 2,
           "lost": 1,
-          "points": 20
+          "points": 23
         },
         {
           "position": 2,
           "team": "Paris FC",
           "played": 10,
-          "won": 5,
-          "draw": 3,
+          "won": 6,
+          "draw": 2,
           "lost": 2,
-          "points": 18
+          "points": 20
         },
         {
           "position": 3,
@@ -1551,16 +1551,16 @@
         },
         {
           "position": 13,
-          "team": "AJ Auxerre",
+          "team": "RC Strasbourg Alsace",
           "played": 10,
           "won": 3,
-          "draw": 2,
-          "lost": 5,
-          "points": 11
+          "draw": 1,
+          "lost": 6,
+          "points": 10
         },
         {
           "position": 14,
-          "team": "RC Strasbourg Alsace",
+          "team": "AJ Auxerre",
           "played": 10,
           "won": 3,
           "draw": 1,
@@ -1579,10 +1579,10 @@
         {
           "position": 16,
           "team": "ES Troyes AC",
-          "played": 9,
+          "played": 10,
           "won": 2,
           "draw": 2,
-          "lost": 5,
+          "lost": 6,
           "points": 8
         },
         {
