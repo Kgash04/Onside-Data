@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T23:50:33.543Z",
+  "lastUpdated": "2026-11-08T13:47:06.215Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -35,7 +35,7 @@
       "goals": 6,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "marcus-tavernier",
@@ -47,7 +47,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "jo-o-pedro",
@@ -71,7 +71,7 @@
       "goals": 5,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "rayan-cherki",
@@ -119,7 +119,7 @@
       "goals": 4,
       "assists": 4,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "kai-havertz",
@@ -179,7 +179,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "cole-palmer",
@@ -191,7 +191,7 @@
       "goals": 3,
       "assists": 3,
       "penalties": 1,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "pedro-neto",
@@ -203,7 +203,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "pascal-gro",
@@ -215,7 +215,7 @@
       "goals": 3,
       "assists": 4,
       "penalties": 1,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "kevin-schade",
@@ -227,7 +227,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "dominic-calvert-lewin",
@@ -335,7 +335,7 @@
       "goals": 6,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "pierre-emerick-aubameyang",
@@ -503,7 +503,7 @@
       "goals": 7,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "michael-olise",
@@ -731,7 +731,7 @@
       "goals": 9,
       "assists": 1,
       "penalties": 2,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "donyell-malen",
@@ -767,7 +767,7 @@
       "goals": 6,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "anastasios-douvikas",
@@ -791,7 +791,7 @@
       "goals": 5,
       "assists": 3,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "marcus-thuram-ulien",
@@ -839,7 +839,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "alphadjo-cisse",
@@ -851,7 +851,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "che-adams",
@@ -864,6 +864,18 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 9
+    },
+    {
+      "slug": "davide-frattesi",
+      "name": "Davide Frattesi",
+      "team": "SS Lazio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Italy",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 11
     },
     {
       "slug": "rodrigo-mora",
@@ -887,7 +899,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "lautaro-mart-nez",
@@ -921,9 +933,9 @@
       "leagueCode": "SA",
       "nationality": "Netherlands",
       "goals": 4,
-      "assists": 3,
+      "assists": 4,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "diego-moreira",
@@ -935,7 +947,7 @@
       "goals": 4,
       "assists": 3,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "gustav-isaksen",
@@ -947,19 +959,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 10
-    },
-    {
-      "slug": "hakan-alhano-lu",
-      "name": "Hakan Çalhanoğlu",
-      "team": "FC Internazionale Milano",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Turkey",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 8
+      "playedMatches": 11
     },
     {
       "slug": "lassine-sinayoko",
@@ -1079,7 +1079,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "ferr-n-torres",
@@ -1163,7 +1163,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "daniel-namaso",
@@ -1187,7 +1187,7 @@
       "goals": 3,
       "assists": 2,
       "penalties": 1,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "marquinhos",
