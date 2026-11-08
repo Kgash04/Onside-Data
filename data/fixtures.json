@@ -1,38 +1,10 @@
 {
-  "lastUpdated": "2026-11-07T23:30:16.205Z",
+  "lastUpdated": "2026-11-08T12:58:29.522Z",
   "competitions": {
     "PL": {
       "code": "PL",
       "name": "Premier League",
       "fixtures": [
-        {
-          "homeTeam": "Leeds United FC",
-          "awayTeam": "Tottenham Hotspur FC",
-          "utcDate": "2026-11-07T12:30:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Arsenal FC",
-          "awayTeam": "Hull City AFC",
-          "utcDate": "2026-11-07T15:00:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Fulham FC",
-          "awayTeam": "Newcastle United FC",
-          "utcDate": "2026-11-07T15:00:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Nottingham Forest FC",
-          "awayTeam": "Manchester City FC",
-          "utcDate": "2026-11-07T17:30:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Crystal Palace FC",
           "awayTeam": "Liverpool FC",
@@ -142,6 +114,34 @@
           "homeTeam": "Nottingham Forest FC",
           "awayTeam": "Chelsea FC",
           "utcDate": "2026-11-27T20:00:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Leeds United FC",
+          "awayTeam": "Coventry City FC",
+          "utcDate": "2026-11-28T15:00:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Manchester United FC",
+          "awayTeam": "Brentford FC",
+          "utcDate": "2026-11-28T15:00:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Ipswich Town FC",
+          "awayTeam": "Aston Villa FC",
+          "utcDate": "2026-11-28T17:30:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Everton FC",
+          "awayTeam": "Liverpool FC",
+          "utcDate": "2026-11-29T12:00:00Z",
           "matchday": 12,
           "status": "TIMED"
         }
@@ -972,13 +972,6 @@
       "name": "Serie A",
       "fixtures": [
         {
-          "homeTeam": "SSC Napoli",
-          "awayTeam": "SS Lazio",
-          "utcDate": "2026-11-08T11:30:00Z",
-          "matchday": 11,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Genoa CFC",
           "awayTeam": "AC Milan",
           "utcDate": "2026-11-08T14:00:00Z",
@@ -1110,17 +1103,24 @@
           "utcDate": "2026-11-29T11:30:00Z",
           "matchday": 13,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "US Sassuolo Calcio",
+          "awayTeam": "SSC Napoli",
+          "utcDate": "2026-11-29T14:00:00Z",
+          "matchday": 13,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
           "team": "SS Lazio",
-          "played": 10,
+          "played": 11,
           "won": 9,
-          "draw": 1,
+          "draw": 2,
           "lost": 0,
-          "points": 28
+          "points": 29
         },
         {
           "position": 2,
@@ -1197,11 +1197,11 @@
         {
           "position": 10,
           "team": "SSC Napoli",
-          "played": 10,
+          "played": 11,
           "won": 4,
-          "draw": 2,
+          "draw": 3,
           "lost": 4,
-          "points": 14
+          "points": 15
         },
         {
           "position": 11,
