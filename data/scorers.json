@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T18:59:40.407Z",
+  "lastUpdated": "2026-11-08T23:56:30.980Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -273,7 +273,7 @@
       "leagueCode": "PD",
       "nationality": "Spain",
       "goals": 10,
-      "assists": 7,
+      "assists": 8,
       "penalties": 1,
       "playedMatches": 12
     },
@@ -310,6 +310,18 @@
       "nationality": "Spain",
       "goals": 7,
       "assists": 2,
+      "penalties": 0,
+      "playedMatches": 12
+    },
+    {
+      "slug": "ferm-n-l-pez",
+      "name": "Fermín López",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 7,
+      "assists": 5,
       "penalties": 0,
       "playedMatches": 12
     },
@@ -358,18 +370,6 @@
       "nationality": "Spain",
       "goals": 5,
       "assists": 3,
-      "penalties": 0,
-      "playedMatches": 12
-    },
-    {
-      "slug": "ferm-n-l-pez",
-      "name": "Fermín López",
-      "team": "FC Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 5,
-      "assists": 5,
       "penalties": 0,
       "playedMatches": 12
     },
@@ -434,6 +434,18 @@
       "playedMatches": 12
     },
     {
+      "slug": "giuliano-simeone",
+      "name": "Giuliano Simeone",
+      "team": "Club Atlético de Madrid",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Argentina",
+      "goals": 4,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 12
+    },
+    {
       "slug": "luka-su-i",
       "name": "Luka Sučić",
       "team": "Real Sociedad de Fútbol",
@@ -466,18 +478,6 @@
       "nationality": "Spain",
       "goals": 4,
       "assists": 4,
-      "penalties": 2,
-      "playedMatches": 12
-    },
-    {
-      "slug": "alejandro-grimaldo",
-      "name": "Alejandro Grimaldo",
-      "team": "Club Atlético de Madrid",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 4,
-      "assists": 2,
       "penalties": 2,
       "playedMatches": 12
     },
@@ -902,6 +902,18 @@
       "playedMatches": 10
     },
     {
+      "slug": "mateo-pellegrino",
+      "name": "Mateo Pellegrino",
+      "team": "ACF Fiorentina",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Argentina",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 11
+    },
+    {
       "slug": "lautaro-mart-nez",
       "name": "Lautaro Martínez",
       "team": "FC Internazionale Milano",
@@ -923,7 +935,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "tijjani-noslin",
@@ -950,18 +962,6 @@
       "playedMatches": 9
     },
     {
-      "slug": "christian-pulisic",
-      "name": "Christian Pulisic",
-      "team": "AC Milan",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "USA",
-      "goals": 4,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 11
-    },
-    {
       "slug": "lassine-sinayoko",
       "name": "Lassine Sinayoko",
       "team": "Paris FC",
@@ -971,6 +971,18 @@
       "goals": 9,
       "assists": 5,
       "penalties": 3,
+      "playedMatches": 10
+    },
+    {
+      "slug": "amine-gouiri",
+      "name": "Amine Gouiri",
+      "team": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Algeria",
+      "goals": 7,
+      "assists": 3,
+      "penalties": 1,
       "playedMatches": 10
     },
     {
@@ -984,18 +996,6 @@
       "assists": 0,
       "penalties": 4,
       "playedMatches": 7
-    },
-    {
-      "slug": "amine-gouiri",
-      "name": "Amine Gouiri",
-      "team": "Olympique de Marseille",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Algeria",
-      "goals": 6,
-      "assists": 3,
-      "penalties": 1,
-      "playedMatches": 9
     },
     {
       "slug": "cameron-archer",
@@ -1020,6 +1020,18 @@
       "assists": 2,
       "penalties": 2,
       "playedMatches": 9
+    },
+    {
+      "slug": "florian-thauvin",
+      "name": "Florian Thauvin",
+      "team": "Racing Club de Lens",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "France",
+      "goals": 5,
+      "assists": 8,
+      "penalties": 3,
+      "playedMatches": 10
     },
     {
       "slug": "ludovic-ajorque",
@@ -1056,18 +1068,6 @@
       "assists": 0,
       "penalties": 1,
       "playedMatches": 8
-    },
-    {
-      "slug": "florian-thauvin",
-      "name": "Florian Thauvin",
-      "team": "Racing Club de Lens",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "France",
-      "goals": 4,
-      "assists": 8,
-      "penalties": 3,
-      "playedMatches": 9
     },
     {
       "slug": "louis-mafouta",
