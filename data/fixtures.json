@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T23:29:45.448Z",
+  "lastUpdated": "2026-11-09T15:39:16.491Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,41 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Elche CF",
-          "awayTeam": "Real Betis Balompié",
-          "utcDate": "2026-11-08T13:00:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Real Sociedad de Fútbol",
-          "awayTeam": "Rayo Vallecano de Madrid",
-          "utcDate": "2026-11-08T15:15:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "RC Celta de Vigo",
-          "awayTeam": "Levante UD",
-          "utcDate": "2026-11-08T17:30:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Villarreal CF",
-          "awayTeam": "Getafe CF",
-          "utcDate": "2026-11-08T17:30:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "Club Atlético de Madrid",
-          "awayTeam": "FC Barcelona",
-          "utcDate": "2026-11-08T20:00:00Z",
-          "matchday": 12,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Athletic Club",
           "awayTeam": "RCD Espanyol de Barcelona",
           "utcDate": "2026-11-20T20:00:00Z",
@@ -470,6 +435,41 @@
           "homeTeam": "Real Madrid CF",
           "awayTeam": "Deportivo Alavés",
           "utcDate": "2026-11-28T20:00:00Z",
+          "matchday": 14,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Valencia CF",
+          "awayTeam": "CA Osasuna",
+          "utcDate": "2026-11-29T13:00:00Z",
+          "matchday": 14,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Deportivo La Coruña",
+          "awayTeam": "FC Barcelona",
+          "utcDate": "2026-11-29T15:15:00Z",
+          "matchday": 14,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RC Celta de Vigo",
+          "awayTeam": "Villarreal CF",
+          "utcDate": "2026-11-29T17:30:00Z",
+          "matchday": 14,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Sociedad de Fútbol",
+          "awayTeam": "Sevilla FC",
+          "utcDate": "2026-11-29T20:00:00Z",
+          "matchday": 14,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "RCD Espanyol de Barcelona",
+          "awayTeam": "Getafe CF",
+          "utcDate": "2026-11-30T20:00:00Z",
           "matchday": 14,
           "status": "TIMED"
         }
@@ -662,27 +662,6 @@
       "name": "Bundesliga",
       "fixtures": [
         {
-          "homeTeam": "1. FC Köln",
-          "awayTeam": "Bayer 04 Leverkusen",
-          "utcDate": "2026-11-08T14:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "SC Freiburg",
-          "awayTeam": "1. FC Union Berlin",
-          "utcDate": "2026-11-08T16:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
-          "homeTeam": "TSG 1899 Hoffenheim",
-          "awayTeam": "FC Schalke 04",
-          "utcDate": "2026-11-08T18:30:00Z",
-          "matchday": 9,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "FC Bayern München",
           "awayTeam": "1. FC Köln",
           "utcDate": "2026-11-20T19:30:00Z",
@@ -799,6 +778,27 @@
           "awayTeam": "FC Augsburg",
           "utcDate": "2026-11-29T16:30:00Z",
           "matchday": 11,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "utcDate": "2026-11-29T18:30:00Z",
+          "matchday": 11,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "FC Bayern München",
+          "awayTeam": "SC Paderborn 07",
+          "utcDate": "2026-12-04T19:30:00Z",
+          "matchday": 12,
+          "status": "TIMED"
+        },
+        {
+          "homeTeam": "1. FC Union Berlin",
+          "awayTeam": "Hamburger SV",
+          "utcDate": "2026-12-05T14:30:00Z",
+          "matchday": 12,
           "status": "TIMED"
         }
       ],
