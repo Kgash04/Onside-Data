@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T15:42:59.665Z",
+  "lastUpdated": "2026-11-21T01:41:12.971Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -302,6 +302,18 @@
       "playedMatches": 12
     },
     {
+      "slug": "roberto-fern-ndez",
+      "name": "Roberto Fernández",
+      "team": "RCD Espanyol de Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 7,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 13
+    },
+    {
       "slug": "sergio-camello",
       "name": "Sergio Camello",
       "team": "Rayo Vallecano de Madrid",
@@ -322,18 +334,6 @@
       "nationality": "Spain",
       "goals": 7,
       "assists": 5,
-      "penalties": 0,
-      "playedMatches": 12
-    },
-    {
-      "slug": "roberto-fern-ndez",
-      "name": "Roberto Fernández",
-      "team": "RCD Espanyol de Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 6,
-      "assists": 0,
       "penalties": 0,
       "playedMatches": 12
     },
@@ -479,7 +479,7 @@
       "goals": 4,
       "assists": 4,
       "penalties": 2,
-      "playedMatches": 12
+      "playedMatches": 13
     },
     {
       "slug": "niclas-f-llkrug",
@@ -515,7 +515,7 @@
       "goals": 6,
       "assists": 3,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "younes-ebnoutalib",
@@ -695,7 +695,7 @@
       "goals": 4,
       "assists": 7,
       "penalties": 1,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "dayot-upamecano",
@@ -707,7 +707,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "said-el-mala",
@@ -717,9 +717,9 @@
       "leagueCode": "BL1",
       "nationality": "Germany",
       "goals": 3,
-      "assists": 0,
+      "assists": 1,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "gustavo-varela",
@@ -1058,6 +1058,18 @@
       "playedMatches": 8
     },
     {
+      "slug": "josh-maja",
+      "name": "Josh Maja",
+      "team": "Le Havre AC",
+      "league": "Ligue 1",
+      "leagueCode": "FL1",
+      "nationality": "Nigeria",
+      "goals": 5,
+      "assists": 0,
+      "penalties": 1,
+      "playedMatches": 11
+    },
+    {
       "slug": "boulaye-dia",
       "name": "Boulaye Dia",
       "team": "Stade Rennais FC 1901",
@@ -1151,18 +1163,6 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 10
-    },
-    {
-      "slug": "josh-maja",
-      "name": "Josh Maja",
-      "team": "Le Havre AC",
-      "league": "Ligue 1",
-      "leagueCode": "FL1",
-      "nationality": "Nigeria",
-      "goals": 4,
-      "assists": 0,
-      "penalties": 1,
       "playedMatches": 10
     },
     {
