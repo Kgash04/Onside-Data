@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T15:05:14.067Z",
+  "lastUpdated": "2026-11-21T01:11:46.300Z",
   "competitions": {
     "PL": {
       "code": "PL",
@@ -334,13 +334,6 @@
       "name": "La Liga",
       "fixtures": [
         {
-          "homeTeam": "Athletic Club",
-          "awayTeam": "RCD Espanyol de Barcelona",
-          "utcDate": "2026-11-20T20:00:00Z",
-          "matchday": 13,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "Deportivo Alavés",
           "awayTeam": "RC Deportivo La Coruña",
           "utcDate": "2026-11-21T13:00:00Z",
@@ -472,6 +465,13 @@
           "utcDate": "2026-11-30T20:00:00Z",
           "matchday": 14,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Real Sociedad de Fútbol",
+          "awayTeam": "Real Madrid CF",
+          "utcDate": "2026-12-02T18:00:00Z",
+          "matchday": 23,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -532,10 +532,10 @@
         {
           "position": 7,
           "team": "Athletic Club",
-          "played": 11,
+          "played": 12,
           "won": 4,
           "draw": 4,
-          "lost": 3,
+          "lost": 4,
           "points": 16
         },
         {
@@ -558,6 +558,15 @@
         },
         {
           "position": 10,
+          "team": "RCD Espanyol de Barcelona",
+          "played": 13,
+          "won": 4,
+          "draw": 3,
+          "lost": 6,
+          "points": 15
+        },
+        {
+          "position": 11,
           "team": "Real Racing Club de Santander",
           "played": 12,
           "won": 4,
@@ -566,7 +575,7 @@
           "points": 14
         },
         {
-          "position": 11,
+          "position": 12,
           "team": "RC Celta de Vigo",
           "played": 12,
           "won": 2,
@@ -575,22 +584,13 @@
           "points": 13
         },
         {
-          "position": 12,
+          "position": 13,
           "team": "Deportivo Alavés",
           "played": 12,
           "won": 3,
           "draw": 4,
           "lost": 5,
           "points": 13
-        },
-        {
-          "position": 13,
-          "team": "RCD Espanyol de Barcelona",
-          "played": 12,
-          "won": 3,
-          "draw": 3,
-          "lost": 6,
-          "points": 12
         },
         {
           "position": 14,
@@ -661,13 +661,6 @@
       "code": "BL1",
       "name": "Bundesliga",
       "fixtures": [
-        {
-          "homeTeam": "FC Bayern München",
-          "awayTeam": "1. FC Köln",
-          "utcDate": "2026-11-20T19:30:00Z",
-          "matchday": 10,
-          "status": "TIMED"
-        },
         {
           "homeTeam": "Bayer 04 Leverkusen",
           "awayTeam": "SC Paderborn 07",
@@ -800,17 +793,24 @@
           "utcDate": "2026-12-05T14:30:00Z",
           "matchday": 12,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "Borussia Mönchengladbach",
+          "utcDate": "2026-12-05T14:30:00Z",
+          "matchday": 12,
+          "status": "TIMED"
         }
       ],
       "standings": [
         {
           "position": 1,
           "team": "FC Bayern München",
-          "played": 9,
+          "played": 10,
           "won": 6,
-          "draw": 3,
+          "draw": 4,
           "lost": 0,
-          "points": 21
+          "points": 22
         },
         {
           "position": 2,
@@ -922,16 +922,16 @@
         },
         {
           "position": 14,
-          "team": "FC Augsburg",
-          "played": 9,
+          "team": "1. FC Köln",
+          "played": 10,
           "won": 2,
-          "draw": 3,
+          "draw": 4,
           "lost": 4,
-          "points": 9
+          "points": 10
         },
         {
           "position": 15,
-          "team": "1. FC Köln",
+          "team": "FC Augsburg",
           "played": 9,
           "won": 2,
           "draw": 3,
@@ -1300,13 +1300,6 @@
       "name": "Ligue 1",
       "fixtures": [
         {
-          "homeTeam": "ES Troyes AC",
-          "awayTeam": "Le Havre AC",
-          "utcDate": "2026-11-20T19:45:00Z",
-          "matchday": 11,
-          "status": "TIMED"
-        },
-        {
           "homeTeam": "OGC Nice",
           "awayTeam": "Paris Saint-Germain FC",
           "utcDate": "2026-11-21T16:15:00Z",
@@ -1438,6 +1431,13 @@
           "utcDate": "2026-12-05T16:15:00Z",
           "matchday": 13,
           "status": "TIMED"
+        },
+        {
+          "homeTeam": "AS Monaco FC",
+          "awayTeam": "Angers SCO",
+          "utcDate": "2026-12-05T19:45:00Z",
+          "matchday": 13,
+          "status": "TIMED"
         }
       ],
       "standings": [
@@ -1551,6 +1551,15 @@
         },
         {
           "position": 13,
+          "team": "ES Troyes AC",
+          "played": 11,
+          "won": 3,
+          "draw": 2,
+          "lost": 6,
+          "points": 11
+        },
+        {
+          "position": 14,
           "team": "RC Strasbourg Alsace",
           "played": 10,
           "won": 3,
@@ -1559,7 +1568,7 @@
           "points": 10
         },
         {
-          "position": 14,
+          "position": 15,
           "team": "AJ Auxerre",
           "played": 10,
           "won": 3,
@@ -1568,7 +1577,7 @@
           "points": 10
         },
         {
-          "position": 15,
+          "position": 16,
           "team": "Le Mans FC",
           "played": 10,
           "won": 1,
@@ -1577,17 +1586,8 @@
           "points": 8
         },
         {
-          "position": 16,
-          "team": "Angers SCO",
-          "played": 10,
-          "won": 2,
-          "draw": 2,
-          "lost": 6,
-          "points": 8
-        },
-        {
           "position": 17,
-          "team": "ES Troyes AC",
+          "team": "Angers SCO",
           "played": 10,
           "won": 2,
           "draw": 2,
@@ -1597,10 +1597,10 @@
         {
           "position": 18,
           "team": "Le Havre AC",
-          "played": 10,
+          "played": 11,
           "won": 0,
           "draw": 2,
-          "lost": 8,
+          "lost": 9,
           "points": 2
         }
       ]
