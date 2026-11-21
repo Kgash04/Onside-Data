@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T01:41:12.971Z",
+  "lastUpdated": "2026-11-21T14:53:55.508Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -11,7 +11,7 @@
       "goals": 9,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "alexander-isak",
@@ -47,7 +47,7 @@
       "goals": 6,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "marcus-tavernier",
@@ -59,7 +59,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "jo-o-pedro",
@@ -83,7 +83,7 @@
       "goals": 5,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "rayan-cherki",
@@ -95,7 +95,7 @@
       "goals": 5,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "evanilson",
@@ -107,7 +107,7 @@
       "goals": 5,
       "assists": 4,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "pascal-gro",
@@ -215,7 +215,7 @@
       "goals": 3,
       "assists": 3,
       "penalties": 1,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "pedro-neto",
@@ -227,7 +227,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "kevin-schade",
@@ -323,7 +323,7 @@
       "goals": 7,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 12
+      "playedMatches": 13
     },
     {
       "slug": "ferm-n-l-pez",
@@ -350,6 +350,18 @@
       "playedMatches": 12
     },
     {
+      "slug": "lucas-boy",
+      "name": "Lucas Boyé",
+      "team": "Deportivo Alavés",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Argentina",
+      "goals": 6,
+      "assists": 1,
+      "penalties": 1,
+      "playedMatches": 12
+    },
+    {
       "slug": "pierre-emerick-aubameyang",
       "name": "Pierre-Emerick Aubameyang",
       "team": "RC Deportivo La Coruña",
@@ -359,7 +371,7 @@
       "goals": 5,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "lex-baena",
@@ -372,18 +384,6 @@
       "assists": 3,
       "penalties": 0,
       "playedMatches": 12
-    },
-    {
-      "slug": "lucas-boy",
-      "name": "Lucas Boyé",
-      "team": "Deportivo Alavés",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Argentina",
-      "goals": 5,
-      "assists": 0,
-      "penalties": 1,
-      "playedMatches": 11
     },
     {
       "slug": "brugui",
@@ -419,7 +419,7 @@
       "goals": 4,
       "assists": 4,
       "penalties": 0,
-      "playedMatches": 12
+      "playedMatches": 13
     },
     {
       "slug": "jude-bellingham",
@@ -503,7 +503,7 @@
       "goals": 8,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "michael-olise",
@@ -527,7 +527,7 @@
       "goals": 6,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "phillip-tietz",
@@ -542,6 +542,18 @@
       "playedMatches": 9
     },
     {
+      "slug": "antonio-nusa",
+      "name": "Antonio Nusa",
+      "team": "RB Leipzig",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Norway",
+      "goals": 5,
+      "assists": 7,
+      "penalties": 2,
+      "playedMatches": 10
+    },
+    {
       "slug": "yuito-suzuki",
       "name": "Yuito Suzuki",
       "team": "SC Freiburg",
@@ -551,7 +563,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "michael-gregoritsch",
@@ -587,7 +599,7 @@
       "goals": 5,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "christopher-nkunku",
@@ -599,7 +611,7 @@
       "goals": 5,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 8
+      "playedMatches": 9
     },
     {
       "slug": "romulo-cruz",
@@ -611,7 +623,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 7
+      "playedMatches": 8
     },
     {
       "slug": "luis-d-az",
@@ -626,18 +638,6 @@
       "playedMatches": 6
     },
     {
-      "slug": "antonio-nusa",
-      "name": "Antonio Nusa",
-      "team": "RB Leipzig",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Norway",
-      "goals": 4,
-      "assists": 7,
-      "penalties": 1,
-      "playedMatches": 9
-    },
-    {
       "slug": "igor-matanovic",
       "name": "Igor Matanovic",
       "team": "SC Freiburg",
@@ -647,7 +647,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "joseph-scally",
@@ -659,7 +659,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "maurice-krattenmacher",
@@ -671,7 +671,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "felix-kalu-nmecha",
@@ -683,7 +683,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "harry-kane",
@@ -791,7 +791,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "alphadjo-cisse",
@@ -827,7 +827,19 @@
       "goals": 5,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 11
+      "playedMatches": 12
+    },
+    {
+      "slug": "tijjani-noslin",
+      "name": "Tijjani Noslin",
+      "team": "SS Lazio",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Netherlands",
+      "goals": 5,
+      "assists": 4,
+      "penalties": 0,
+      "playedMatches": 12
     },
     {
       "slug": "giacomo-cal",
@@ -875,7 +887,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "rodrigo-mora",
@@ -934,18 +946,6 @@
       "nationality": "Argentina",
       "goals": 4,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 11
-    },
-    {
-      "slug": "tijjani-noslin",
-      "name": "Tijjani Noslin",
-      "team": "SS Lazio",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Netherlands",
-      "goals": 4,
-      "assists": 4,
       "penalties": 0,
       "playedMatches": 11
     },
