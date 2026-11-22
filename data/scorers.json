@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T00:36:29.602Z",
+  "lastUpdated": "2026-11-22T14:49:23.480Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -119,7 +119,7 @@
       "goals": 4,
       "assists": 4,
       "penalties": 2,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "dominic-calvert-lewin",
@@ -227,7 +227,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 5
+      "playedMatches": 6
     },
     {
       "slug": "cole-palmer",
@@ -251,7 +251,7 @@
       "goals": 15,
       "assists": 2,
       "penalties": 3,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "kylian-mbapp",
@@ -273,9 +273,9 @@
       "leagueCode": "PD",
       "nationality": "Spain",
       "goals": 10,
-      "assists": 8,
+      "assists": 9,
       "penalties": 1,
-      "playedMatches": 12
+      "playedMatches": 13
     },
     {
       "slug": "yassir-zabiri",
@@ -287,7 +287,19 @@
       "goals": 9,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 12
+      "playedMatches": 13
+    },
+    {
+      "slug": "ferm-n-l-pez",
+      "name": "Fermín López",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 8,
+      "assists": 5,
+      "penalties": 0,
+      "playedMatches": 13
     },
     {
       "slug": "ante-budimir",
@@ -324,18 +336,6 @@
       "assists": 2,
       "penalties": 0,
       "playedMatches": 13
-    },
-    {
-      "slug": "ferm-n-l-pez",
-      "name": "Fermín López",
-      "team": "FC Barcelona",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Spain",
-      "goals": 7,
-      "assists": 5,
-      "penalties": 0,
-      "playedMatches": 12
     },
     {
       "slug": "fer-ni-o",
@@ -455,7 +455,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 12
+      "playedMatches": 13
     },
     {
       "slug": "orri-oskarsson",
@@ -467,7 +467,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "lex-berenguer",
@@ -539,7 +539,7 @@
       "goals": 6,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "jonathan-burkardt",
@@ -611,7 +611,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 9
+      "playedMatches": 10
     },
     {
       "slug": "ermedin-demirovic",
@@ -770,6 +770,18 @@
       "playedMatches": 11
     },
     {
+      "slug": "milutin-osmaji",
+      "name": "Milutin Osmajić",
+      "team": "Genoa CFC",
+      "league": "Serie A",
+      "leagueCode": "SA",
+      "nationality": "Montenegro",
+      "goals": 6,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 11
+    },
+    {
       "slug": "marcus-thuram-ulien",
       "name": "Marcus Thuram-Ulien",
       "team": "FC Internazionale Milano",
@@ -902,18 +914,6 @@
       "playedMatches": 10
     },
     {
-      "slug": "milutin-osmaji",
-      "name": "Milutin Osmajić",
-      "team": "Genoa CFC",
-      "league": "Serie A",
-      "leagueCode": "SA",
-      "nationality": "Montenegro",
-      "goals": 4,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 10
-    },
-    {
       "slug": "mateo-pellegrino",
       "name": "Mateo Pellegrino",
       "team": "ACF Fiorentina",
@@ -971,7 +971,7 @@
       "goals": 9,
       "assists": 5,
       "penalties": 3,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "amine-gouiri",
