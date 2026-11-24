@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T18:40:36.225Z",
+  "lastUpdated": "2026-11-24T04:56:15.078Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -35,7 +35,7 @@
       "goals": 6,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "nicolas-jackson",
@@ -106,6 +106,18 @@
       "nationality": "France",
       "goals": 5,
       "assists": 2,
+      "penalties": 0,
+      "playedMatches": 11
+    },
+    {
+      "slug": "keane-lewis-potter",
+      "name": "Keane Lewis-Potter",
+      "team": "Brentford FC",
+      "league": "Premier League",
+      "leagueCode": "PL",
+      "nationality": "England",
+      "goals": 4,
+      "assists": 1,
       "penalties": 0,
       "playedMatches": 11
     },
@@ -227,19 +239,7 @@
       "goals": 3,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 10
-    },
-    {
-      "slug": "jack-hinshelwood",
-      "name": "Jack Hinshelwood",
-      "team": "Brighton & Hove Albion FC",
-      "league": "Premier League",
-      "leagueCode": "PL",
-      "nationality": "England",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 6
+      "playedMatches": 11
     },
     {
       "slug": "raphinha",
@@ -359,7 +359,7 @@
       "goals": 6,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 12
+      "playedMatches": 13
     },
     {
       "slug": "lucas-boy",
@@ -407,7 +407,7 @@
       "goals": 5,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "adri-n",
@@ -740,10 +740,10 @@
       "league": "Serie A",
       "leagueCode": "SA",
       "nationality": "Portugal",
-      "goals": 9,
+      "goals": 11,
       "assists": 1,
-      "penalties": 2,
-      "playedMatches": 10
+      "penalties": 3,
+      "playedMatches": 11
     },
     {
       "slug": "antonio-raimondo",
@@ -947,7 +947,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "lautaro-mart-nez",
