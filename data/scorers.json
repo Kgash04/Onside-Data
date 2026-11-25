@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T18:09:30.907Z",
+  "lastUpdated": "2026-11-25T03:41:44.656Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1202,6 +1202,18 @@
       "playedMatches": 7
     },
     {
+      "slug": "kylian-mbapp",
+      "name": "Kylian Mbappé",
+      "team": "Real Madrid CF",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "France",
+      "goals": 6,
+      "assists": 2,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
       "slug": "anastasios-douvikas",
       "name": "Anastasios Douvikas",
       "team": "Como 1907",
@@ -1211,7 +1223,7 @@
       "goals": 6,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "nicolo-tresoldi",
@@ -1235,19 +1247,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "kylian-mbapp",
-      "name": "Kylian Mbappé",
-      "team": "Real Madrid CF",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "France",
-      "goals": 4,
-      "assists": 1,
-      "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "sehrou-guirassy",
@@ -1259,7 +1259,7 @@
       "goals": 4,
       "assists": 0,
       "penalties": 1,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "raphinha",
@@ -1358,6 +1358,18 @@
       "playedMatches": 5
     },
     {
+      "slug": "federico-valverde",
+      "name": "Federico Valverde",
+      "team": "Real Madrid CF",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Uruguay",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
       "slug": "lamine-yamal",
       "name": "Lamine Yamal",
       "team": "FC Barcelona",
@@ -1426,18 +1438,6 @@
       "nationality": "France",
       "goals": 3,
       "assists": 0,
-      "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "desire-doue",
-      "name": "Desire Doue",
-      "team": "Paris Saint-Germain FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "France",
-      "goals": 3,
-      "assists": 2,
       "penalties": 0,
       "playedMatches": 4
     }
