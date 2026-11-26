@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T17:32:19.997Z",
+  "lastUpdated": "2026-11-26T03:00:19.500Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -1214,6 +1214,18 @@
       "playedMatches": 5
     },
     {
+      "slug": "luis-su-rez",
+      "name": "Luis Suárez",
+      "team": "Sporting Clube de Portugal",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Colombia",
+      "goals": 6,
+      "assists": 0,
+      "penalties": 3,
+      "playedMatches": 5
+    },
+    {
       "slug": "anastasios-douvikas",
       "name": "Anastasios Douvikas",
       "team": "Como 1907",
@@ -1235,7 +1247,7 @@
       "goals": 5,
       "assists": 0,
       "penalties": 2,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "erling-haaland",
@@ -1247,6 +1259,18 @@
       "goals": 5,
       "assists": 0,
       "penalties": 0,
+      "playedMatches": 5
+    },
+    {
+      "slug": "donyell-malen",
+      "name": "Donyell Malen",
+      "team": "AS Roma",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Netherlands",
+      "goals": 5,
+      "assists": 2,
+      "penalties": 3,
       "playedMatches": 5
     },
     {
@@ -1283,6 +1307,18 @@
       "goals": 4,
       "assists": 0,
       "penalties": 0,
+      "playedMatches": 5
+    },
+    {
+      "slug": "ousmane-demb-l",
+      "name": "Ousmane Dembélé",
+      "team": "Paris Saint-Germain FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "France",
+      "goals": 4,
+      "assists": 3,
+      "penalties": 1,
       "playedMatches": 4
     },
     {
@@ -1295,19 +1331,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "luis-su-rez",
-      "name": "Luis Suárez",
-      "team": "Sporting Clube de Portugal",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Colombia",
-      "goals": 4,
-      "assists": 0,
-      "penalties": 2,
-      "playedMatches": 4
+      "playedMatches": 5
     },
     {
       "slug": "harry-kane",
@@ -1322,6 +1346,18 @@
       "playedMatches": 4
     },
     {
+      "slug": "bruno-fernandes",
+      "name": "Bruno Fernandes",
+      "team": "Manchester United FC",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Portugal",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 2,
+      "playedMatches": 5
+    },
+    {
       "slug": "aleksey-batrakov",
       "name": "Aleksey Batrakov",
       "team": "Galatasaray SK",
@@ -1332,18 +1368,6 @@
       "assists": 0,
       "penalties": 0,
       "playedMatches": 5
-    },
-    {
-      "slug": "donyell-malen",
-      "name": "Donyell Malen",
-      "team": "AS Roma",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Netherlands",
-      "goals": 4,
-      "assists": 2,
-      "penalties": 2,
-      "playedMatches": 4
     },
     {
       "slug": "nicolas-jackson",
@@ -1364,6 +1388,18 @@
       "league": "Champions League",
       "leagueCode": "CL",
       "nationality": "Uruguay",
+      "goals": 3,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 5
+    },
+    {
+      "slug": "karim-adeyemi",
+      "name": "Karim Adeyemi",
+      "team": "FC Barcelona",
+      "league": "Champions League",
+      "leagueCode": "CL",
+      "nationality": "Germany",
       "goals": 3,
       "assists": 0,
       "penalties": 0,
@@ -1391,19 +1427,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "ousmane-demb-l",
-      "name": "Ousmane Dembélé",
-      "team": "Paris Saint-Germain FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "France",
-      "goals": 3,
-      "assists": 3,
-      "penalties": 0,
-      "playedMatches": 3
+      "playedMatches": 5
     },
     {
       "slug": "ferr-n-torres",
@@ -1415,31 +1439,7 @@
       "goals": 3,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "matheus-cunha",
-      "name": "Matheus Cunha",
-      "team": "Manchester United FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "Brazil",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 4
-    },
-    {
-      "slug": "bradley-barcola",
-      "name": "Bradley Barcola",
-      "team": "Liverpool FC",
-      "league": "Champions League",
-      "leagueCode": "CL",
-      "nationality": "France",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 4
+      "playedMatches": 5
     }
   ]
 }
