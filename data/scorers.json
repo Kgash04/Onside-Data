@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T16:56:19.384Z",
+  "lastUpdated": "2026-11-28T02:54:38.586Z",
   "players": [
     {
       "slug": "erling-haaland",
@@ -95,7 +95,7 @@
       "goals": 5,
       "assists": 2,
       "penalties": 0,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "rayan-cherki",
@@ -272,10 +272,10 @@
       "league": "La Liga",
       "leagueCode": "PD",
       "nationality": "Morocco",
-      "goals": 11,
+      "goals": 12,
       "assists": 0,
       "penalties": 0,
-      "playedMatches": 13
+      "playedMatches": 14
     },
     {
       "slug": "lamine-yamal",
@@ -407,7 +407,7 @@
       "goals": 5,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 12
+      "playedMatches": 13
     },
     {
       "slug": "adri-n",
@@ -458,6 +458,18 @@
       "playedMatches": 13
     },
     {
+      "slug": "pablo-garc-a",
+      "name": "Pablo García",
+      "team": "Real Racing Club de Santander",
+      "league": "La Liga",
+      "leagueCode": "PD",
+      "nationality": "Spain",
+      "goals": 4,
+      "assists": 0,
+      "penalties": 0,
+      "playedMatches": 14
+    },
+    {
       "slug": "luka-su-i",
       "name": "Luka Sučić",
       "team": "Real Sociedad de Fútbol",
@@ -470,28 +482,16 @@
       "playedMatches": 13
     },
     {
-      "slug": "orri-oskarsson",
-      "name": "Orri Oskarsson",
-      "team": "Real Sociedad de Fútbol",
-      "league": "La Liga",
-      "leagueCode": "PD",
-      "nationality": "Iceland",
-      "goals": 4,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 12
-    },
-    {
       "slug": "niclas-f-llkrug",
       "name": "Niclas Füllkrug",
       "team": "SV Werder Bremen",
       "league": "Bundesliga",
       "leagueCode": "BL1",
       "nationality": "Germany",
-      "goals": 10,
+      "goals": 11,
       "assists": 1,
       "penalties": 3,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "patrik-schick",
@@ -662,6 +662,18 @@
       "playedMatches": 6
     },
     {
+      "slug": "eren-dinkci",
+      "name": "Eren Dinkci",
+      "team": "SV Werder Bremen",
+      "league": "Bundesliga",
+      "leagueCode": "BL1",
+      "nationality": "Turkey",
+      "goals": 4,
+      "assists": 1,
+      "penalties": 0,
+      "playedMatches": 11
+    },
+    {
       "slug": "joseph-scally",
       "name": "Joseph Scally",
       "team": "Borussia Mönchengladbach",
@@ -671,7 +683,7 @@
       "goals": 4,
       "assists": 1,
       "penalties": 0,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "maurice-krattenmacher",
@@ -704,18 +716,6 @@
       "league": "Bundesliga",
       "leagueCode": "BL1",
       "nationality": "France",
-      "goals": 3,
-      "assists": 0,
-      "penalties": 0,
-      "playedMatches": 10
-    },
-    {
-      "slug": "ridle-baku",
-      "name": "Ridle Baku",
-      "team": "RB Leipzig",
-      "league": "Bundesliga",
-      "leagueCode": "BL1",
-      "nationality": "Germany",
       "goals": 3,
       "assists": 0,
       "penalties": 0,
@@ -971,7 +971,7 @@
       "goals": 9,
       "assists": 5,
       "penalties": 3,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "amine-gouiri",
@@ -1079,7 +1079,7 @@
       "goals": 5,
       "assists": 1,
       "penalties": 1,
-      "playedMatches": 11
+      "playedMatches": 12
     },
     {
       "slug": "casper-tengstedt",
@@ -1113,9 +1113,9 @@
       "leagueCode": "FL1",
       "nationality": "Mali",
       "goals": 4,
-      "assists": 2,
+      "assists": 3,
       "penalties": 1,
-      "playedMatches": 10
+      "playedMatches": 11
     },
     {
       "slug": "sebastian-szyma-ski",
